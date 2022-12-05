@@ -1,4 +1,4 @@
-<h1 align="center">Hi,  I'm Puneet Sharma</h1>
+<h1 align="center">Hi, Myself Puneet Sharma</h1>
 <h3 align="center">Tech Maverick</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
