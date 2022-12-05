@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Puneet Sharma</h1>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
     Software professional with 9+ years of experience, a critical thinker, and a problem solver with hands-on experience in coding, building scalable software, focused on providing the best end-user experience. A member of the management team, contributing to high-level decisions in support of strategic planning, mission, visions and goals.
 
