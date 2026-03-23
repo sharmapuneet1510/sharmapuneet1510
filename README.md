@@ -32,9 +32,9 @@ name       : Puneet Sharma
 role       : Lead Architect & AI Systems Engineer
 title      : AVP — Asia RegTech Lead
 location   : Tokyo, Japan 🗾
-experience : 8+ years
+experience : 13+ years
 current    : Transforming Capital Markets with Agentic AI
-languages  : English | Japanese (N5) | Code (fluent)
+languages  : English | Code (fluent)
 ```
 
 > **Architecting the intersection of Capital Markets, RegTech Compliance, and Agentic AI** — from legacy monoliths to self-evolving intelligent platforms.
