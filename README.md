@@ -329,3 +329,59 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
   <span class="tech-badge" style="background: #d97706; color: white; border-color: #d97706; font-weight: bold;">Claude</span>
   <span class="tech-badge" style="background: #412991; color: white; border-color: #412991; font-weight: bold;">OpenAI</span>
 </div>
+
+---
+
+## 🎓 Domains of Mastery
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin: 30px 0;">
+
+<div class="card">
+  <h3 style="color: var(--color-cyan); margin-top: 0;">🏗️ Architecture & Design</h3>
+  <ul style="color: var(--color-text); margin: 10px 0; padding-left: 20px;">
+    <li>Modular Monolith Patterns</li>
+    <li>Domain-Driven Design (DDD)</li>
+    <li>Event-Driven Architecture</li>
+    <li>CQRS & Event Sourcing</li>
+    <li>Clean Architecture Principles</li>
+    <li>API Design & Gateway Patterns</li>
+  </ul>
+</div>
+
+<div class="card card-amber">
+  <h3 style="color: var(--color-amber); margin-top: 0;">💰 FinTech & RegTech</h3>
+  <ul style="color: var(--color-text); margin: 10px 0; padding-left: 20px;">
+    <li>Capital Markets Systems</li>
+    <li>Real-time Reconciliation Engines</li>
+    <li>Compliance Automation (JFSA/MAS/ASIC/HKMA)</li>
+    <li>Trading Infrastructure</li>
+    <li>Settlement & Clearing Systems</li>
+    <li>Risk Management Frameworks</li>
+  </ul>
+</div>
+
+<div class="card card-purple">
+  <h3 style="color: var(--color-purple); margin-top: 0;">🤖 Agentic AI Systems</h3>
+  <ul style="color: var(--color-text); margin: 10px 0; padding-left: 20px;">
+    <li>Agentic AI Architecture Patterns</li>
+    <li>Retrieval-Augmented Generation (RAG)</li>
+    <li>LLM Integration & Prompt Engineering</li>
+    <li>Multi-Agent Orchestration</li>
+    <li>AI-Driven Test Automation</li>
+    <li>Intelligent Workflow Pipelines</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3 style="color: var(--color-cyan); margin-top: 0;">⚡ High-Performance Systems</h3>
+  <ul style="color: var(--color-text); margin: 10px 0; padding-left: 20px;">
+    <li>Sub-millisecond Latency Design</li>
+    <li>High-throughput Data Processing</li>
+    <li>Distributed Systems & Consensus</li>
+    <li>Resilience & Chaos Engineering</li>
+    <li>Horizontal Scaling Strategies</li>
+    <li>Observability & SRE Practices</li>
+  </ul>
+</div>
+
+</div>
