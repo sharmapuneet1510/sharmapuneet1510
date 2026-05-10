@@ -1,4 +1,4 @@
-<div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f4f 100%); padding: 60px 20px; margin-bottom: 40px; border-radius: 12px;">
+<div class="hero">
 
 # Puneet Sharma
 ## Lead Architect • AI Systems Engineer • AVP Asia RegTech
@@ -26,6 +26,19 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
     --color-purple: #a78bfa;
     --color-text: #e0e0e0;
     --color-text-emphasis: #ffffff;
+  }
+
+  .hero {
+    background: linear-gradient(135deg, var(--color-base) 0%, var(--color-card) 100%);
+    padding: 60px 20px;
+    margin-bottom: 40px;
+    border-radius: 12px;
+    text-align: center;
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--color-cyan);
+    outline-offset: 2px;
   }
 
   .card {
