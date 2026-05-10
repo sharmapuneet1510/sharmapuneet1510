@@ -132,3 +132,55 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
 </div>
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+
+<div class="card">
+  <h3 style="color: var(--color-cyan); margin-top: 0;">🌏 Asia RegTech · Tokyo</h3>
+  <p style="color: var(--color-text); margin: 10px 0;">Driving high-stakes technology transformation across APAC, overseeing multi-jurisdictional compliance for JFSA · MAS · ASIC · HKMA.</p>
+  
+  **Pillars:**
+  - Modular Monolith Architecture
+  - Real-time Reconciliation Engines
+  - Zero-defect Compliance Pipelines
+  
+  **Tech Stack:**
+  <div>
+    <span class="tech-badge">Java</span>
+    <span class="tech-badge">Spring Boot</span>
+    <span class="tech-badge">Kafka</span>
+    <span class="tech-badge">PostgreSQL</span>
+  </div>
+  
+  <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(0, 217, 255, 0.2);">
+    <span style="color: var(--color-cyan); font-weight: bold;">🟢 Production</span>
+  </div>
+</div>
+
+<div class="card">
+  <h3 style="color: var(--color-purple); margin-top: 0;">🤖 Agentic AI Systems</h3>
+  <p style="color: var(--color-text); margin: 10px 0;">Architecting autonomous intelligent systems to rewire the software development lifecycle — end to end.</p>
+  
+  **Pillars:**
+  - AI-Driven UI Automation
+  - RAG-Powered Knowledge Bases
+  - 20-30% Dev Effort Reduction
+  
+  **Tech Stack:**
+  <div>
+    <span class="tech-badge" style="background: rgba(167, 139, 250, 0.1); border-color: var(--color-purple); color: var(--color-purple);">Python</span>
+    <span class="tech-badge" style="background: rgba(167, 139, 250, 0.1); border-color: var(--color-purple); color: var(--color-purple);">LangChain</span>
+    <span class="tech-badge" style="background: rgba(167, 139, 250, 0.1); border-color: var(--color-purple); color: var(--color-purple);">FastAPI</span>
+    <span class="tech-badge" style="background: rgba(167, 139, 250, 0.1); border-color: var(--color-purple); color: var(--color-purple);">LLMs</span>
+  </div>
+  
+  <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(167, 139, 250, 0.2);">
+    <span style="color: var(--color-purple); font-weight: bold;">🟢 Active</span>
+  </div>
+</div>
+
+</div>
