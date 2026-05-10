@@ -430,3 +430,32 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
 **🌍 Mentorship** — Guiding next-gen architects navigating FinTech, RegTech, and AI careers.
 
 </div>
+
+---
+
+## 💼 Let's Build Together
+
+<div align="center" style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(167, 139, 250, 0.1) 100%); padding: 40px 20px; margin: 40px 0; border-radius: 8px; border: 1px solid var(--color-cyan);">
+
+<h3 style="color: var(--color-cyan); margin-top: 0;">Ready to architect intelligence into your systems?</h3>
+
+Building trillion-dollar FinTech infrastructure • Designing agentic AI workflows • Mentoring next-gen architects
+
+### Quick Contact
+
+[![Email](https://img.shields.io/badge/Email-puneet%40techmavericks.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneet@techmavericks.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharmapuneet1510-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmapuneet1510/)
+[![GitHub](https://img.shields.io/badge/GitHub-sharmapuneet1510-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmapuneet1510)
+
+</div>
+
+---
+
+<div align="center" style="color: var(--color-text); font-size: 12px; margin-top: 40px;">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=sharmapuneet1510&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Followers](https://img.shields.io/github/followers/sharmapuneet1510?label=Followers&style=flat-square&color=00D9FF)
+
+⚡ Last Updated: May 2026 • Crafted with intent — Building the Future, One System at a Time
+
+</div>
