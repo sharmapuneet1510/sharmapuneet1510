@@ -280,3 +280,52 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
 </div>
 
 </div>
+
+---
+
+## Tech Stack Mastery
+
+### Core Languages
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+  <span class="tech-badge" style="background: #f89820; color: white; border-color: #f89820; font-weight: bold;">Java</span>
+  <span class="tech-badge" style="background: #3776ab; color: white; border-color: #3776ab; font-weight: bold;">Python</span>
+  <span class="tech-badge" style="background: #3178c6; color: white; border-color: #3178c6; font-weight: bold;">TypeScript</span>
+  <span class="tech-badge" style="background: #68a063; color: white; border-color: #68a063; font-weight: bold;">Node.js</span>
+  <span class="tech-badge" style="background: #00add8; color: white; border-color: #00add8; font-weight: bold;">Go</span>
+</div>
+
+### Frontend & UI
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+  <span class="tech-badge" style="background: #61dafb; color: #000; border-color: #61dafb; font-weight: bold;">React</span>
+  <span class="tech-badge" style="background: #000; color: #fff; border-color: #fff; font-weight: bold;">Next.js</span>
+  <span class="tech-badge" style="background: #06b6d4; color: white; border-color: #06b6d4; font-weight: bold;">Tailwind</span>
+  <span class="tech-badge" style="background: #e34c26; color: white; border-color: #e34c26; font-weight: bold;">HTML</span>
+  <span class="tech-badge" style="background: #1572b6; color: white; border-color: #1572b6; font-weight: bold;">CSS</span>
+</div>
+
+### Data & Messaging
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+  <span class="tech-badge" style="background: #336791; color: white; border-color: #336791; font-weight: bold;">PostgreSQL</span>
+  <span class="tech-badge" style="background: #13aa52; color: white; border-color: #13aa52; font-weight: bold;">MongoDB</span>
+  <span class="tech-badge" style="background: #dc382d; color: white; border-color: #dc382d; font-weight: bold;">Redis</span>
+  <span class="tech-badge" style="background: #231f20; color: white; border-color: #231f20; font-weight: bold;">Kafka</span>
+  <span class="tech-badge" style="background: #005571; color: white; border-color: #005571; font-weight: bold;">Elasticsearch</span>
+</div>
+
+### Cloud & DevOps
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+  <span class="tech-badge" style="background: #ff9900; color: white; border-color: #ff9900; font-weight: bold;">AWS</span>
+  <span class="tech-badge" style="background: #4285f4; color: white; border-color: #4285f4; font-weight: bold;">GCP</span>
+  <span class="tech-badge" style="background: #0078d4; color: white; border-color: #0078d4; font-weight: bold;">Azure</span>
+  <span class="tech-badge" style="background: #2496ed; color: white; border-color: #2496ed; font-weight: bold;">Docker</span>
+  <span class="tech-badge" style="background: #326ce5; color: white; border-color: #326ce5; font-weight: bold;">Kubernetes</span>
+</div>
+
+### AI & LLM Engineering
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+  <span class="tech-badge" style="background: #39ff14; color: black; border-color: #39ff14; font-weight: bold;">LangChain</span>
+  <span class="tech-badge" style="background: #0077b5; color: white; border-color: #0077b5; font-weight: bold;">RAG Pipelines</span>
+  <span class="tech-badge" style="background: #ff6b6b; color: white; border-color: #ff6b6b; font-weight: bold;">Vector DB</span>
+  <span class="tech-badge" style="background: #d97706; color: white; border-color: #d97706; font-weight: bold;">Claude</span>
+  <span class="tech-badge" style="background: #412991; color: white; border-color: #412991; font-weight: bold;">OpenAI</span>
+</div>
