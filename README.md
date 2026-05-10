@@ -210,3 +210,73 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
 - 🔴 LIVE — Actively Shaping
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 30px 0;">
+
+<div class="card">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h4 style="margin: 0 0 8px 0; color: var(--color-cyan);">📚 Doc-Based RAG</h4>
+      <p style="margin: 8px 0; color: var(--color-text); font-size: 14px;">Transform documentation into interactive AI knowledge bases</p>
+    </div>
+    <span style="background: rgba(0, 217, 255, 0.2); color: var(--color-cyan); padding: 4px 8px; border-radius: 4px; font-size: 12px; white-space: nowrap;">🟡 Incubating</span>
+  </div>
+  <div style="margin: 10px 0; font-size: 12px; color: var(--color-text);">
+    <span class="tech-badge" style="font-size: 11px;">FastAPI</span>
+    <span class="tech-badge" style="font-size: 11px;">Vector DB</span>
+    <span class="tech-badge" style="font-size: 11px;">Python</span>
+  </div>
+  <a href="https://github.com/sharmapuneet1510/doc-based-rag" style="color: var(--color-cyan); text-decoration: none; font-weight: bold;">View Repository →</a>
+</div>
+
+<div class="card">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h4 style="margin: 0 0 8px 0; color: var(--color-cyan);">🧠 Agentic AI Lab</h4>
+      <p style="margin: 8px 0; color: var(--color-text); font-size: 14px;">Research hub for autonomous AI pipelines and workflows</p>
+    </div>
+    <span style="background: rgba(0, 217, 255, 0.2); color: var(--color-cyan); padding: 4px 8px; border-radius: 4px; font-size: 12px; white-space: nowrap;">🟢 Active</span>
+  </div>
+  <div style="margin: 10px 0; font-size: 12px; color: var(--color-text);">
+    <span class="tech-badge" style="font-size: 11px;">Python</span>
+    <span class="tech-badge" style="font-size: 11px;">LangChain</span>
+    <span class="tech-badge" style="font-size: 11px;">RAG</span>
+  </div>
+  <a href="https://github.com/sharmapuneet1510/agentic-ai-lab" style="color: var(--color-cyan); text-decoration: none; font-weight: bold;">View Repository →</a>
+</div>
+
+<div class="card">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h4 style="margin: 0 0 8px 0; color: var(--color-cyan);">👁️ Guardian</h4>
+      <p style="margin: 8px 0; color: var(--color-text); font-size: 14px;">Multi-camera real-time safety monitoring system</p>
+    </div>
+    <span style="background: rgba(0, 217, 255, 0.2); color: var(--color-cyan); padding: 4px 8px; border-radius: 4px; font-size: 12px; white-space: nowrap;">🔵 Building</span>
+  </div>
+  <div style="margin: 10px 0; font-size: 12px; color: var(--color-text);">
+    <span class="tech-badge" style="font-size: 11px;">AI/ML</span>
+    <span class="tech-badge" style="font-size: 11px;">Computer Vision</span>
+  </div>
+  <a href="https://github.com/sharmapuneet1510/guardian" style="color: var(--color-cyan); text-decoration: none; font-weight: bold;">View Repository →</a>
+</div>
+
+<div class="card">
+  <div style="display: flex; justify-content: space-between; align-items: start;">
+    <div>
+      <h4 style="margin: 0 0 8px 0; color: var(--color-cyan);">📋 Workstream</h4>
+      <p style="margin: 8px 0; color: var(--color-text); font-size: 14px;">Desktop release management and workflow platform</p>
+    </div>
+    <span style="background: rgba(0, 217, 255, 0.2); color: var(--color-cyan); padding: 4px 8px; border-radius: 4px; font-size: 12px; white-space: nowrap;">🟢 Active</span>
+  </div>
+  <div style="margin: 10px 0; font-size: 12px; color: var(--color-text);">
+    <span class="tech-badge" style="font-size: 11px;">Electron</span>
+    <span class="tech-badge" style="font-size: 11px;">TypeScript</span>
+  </div>
+  <a href="https://github.com/sharmapuneet1510/workstream" style="color: var(--color-cyan); text-decoration: none; font-weight: bold;">View Repository →</a>
+</div>
+
+</div>
