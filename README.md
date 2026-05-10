@@ -385,3 +385,32 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
 </div>
 
 </div>
+
+---
+
+## 📖 Thought Leadership
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin: 30px 0;">
+
+<div class="card card-purple">
+  <h3 style="color: var(--color-purple); margin-top: 0;">📰 Tech Mavericks</h3>
+  <p style="color: var(--color-text); margin: 10px 0; font-size: 14px;"><strong>Newsletter</strong></p>
+  <p style="color: var(--color-text); font-size: 13px;">Decoding high-volume architecture and FinTech complexity for engineers who want to build at scale.</p>
+  <a href="https://techmavericks.dev" style="color: var(--color-purple); text-decoration: none; font-weight: bold;">Subscribe →</a>
+</div>
+
+<div class="card card-purple">
+  <h3 style="color: var(--color-purple); margin-top: 0;">🧵 Nexus Threads</h3>
+  <p style="color: var(--color-text); margin: 10px 0; font-size: 14px;"><strong>Series</strong></p>
+  <p style="color: var(--color-text); font-size: 13px;">Where classical mathematics meets modern AI engineering — connecting theory to real-world systems.</p>
+  <a href="#" style="color: var(--color-purple); text-decoration: none; font-weight: bold;">Read Series →</a>
+</div>
+
+<div class="card card-purple">
+  <h3 style="color: var(--color-purple); margin-top: 0;">📊 Capital Markets</h3>
+  <p style="color: var(--color-text); margin: 10px 0; font-size: 14px;"><strong>Deep Dives</strong></p>
+  <p style="color: var(--color-text); font-size: 13px;">Trading systems, regulatory compliance, reconciliation, and the future of financial infrastructure.</p>
+  <a href="#" style="color: var(--color-purple); text-decoration: none; font-weight: bold;">Explore →</a>
+</div>
+
+</div>
