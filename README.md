@@ -100,3 +100,35 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
     }
   }
 </style>
+
+---
+
+## 📊 Impact Dashboard
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin: 30px 0;">
+
+<div class="card card-amber">
+  <div style="font-size: 14px; color: var(--color-amber); font-weight: bold;">Dev Effort Reduction</div>
+  <div class="metric">20-30%</div>
+  <div class="metric-label">via AI automation & tooling</div>
+</div>
+
+<div class="card card-amber">
+  <div style="font-size: 14px; color: var(--color-amber); font-weight: bold;">Engineers Mentored</div>
+  <div class="metric">15+</div>
+  <div class="metric-label">across FinTech & AI domains</div>
+</div>
+
+<div class="card card-amber">
+  <div style="font-size: 14px; color: var(--color-amber); font-weight: bold;">APAC Jurisdictions</div>
+  <div class="metric">4</div>
+  <div class="metric-label">JFSA • MAS • ASIC • HKMA</div>
+</div>
+
+<div class="card card-amber">
+  <div style="font-size: 14px; color: var(--color-amber); font-weight: bold;">FinTech Experience</div>
+  <div class="metric">13+</div>
+  <div class="metric-label">Years in capital markets</div>
+</div>
+
+</div>
