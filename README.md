@@ -414,3 +414,19 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
 </div>
 
 </div>
+
+---
+
+## 🌱 Beyond the Code
+
+<div style="background: rgba(167, 139, 250, 0.1); border-left: 4px solid var(--color-purple); padding: 20px; border-radius: 4px; margin: 30px 0;">
+
+**🏏 Cricket** — Resilience, pressure decisions, and team dynamics applied to engineering leadership.
+
+**🗾 Japanese** — N5 fluency, building deeper roots in Tokyo's tech ecosystem.
+
+**🧮 Mathematics** — Applied math in distributed algorithms, probabilistic systems, and optimization.
+
+**🌍 Mentorship** — Guiding next-gen architects navigating FinTech, RegTech, and AI careers.
+
+</div>
