@@ -184,3 +184,29 @@ Architecting intelligence into capital markets infrastructure — from legacy mo
 </div>
 
 </div>
+
+---
+
+## 🛤️ Architecture Evolution
+
+<div style="margin: 30px 0; padding: 20px; background: rgba(0, 217, 255, 0.05); border-left: 4px solid var(--color-cyan); border-radius: 4px;">
+
+### Your Journey: 2015 → Present
+
+**2015-2018: Legacy Monolith Era** 🏛️
+- Enterprise systems, RDBMS, SOA patterns
+- ✅ Mastered
+
+**2018-2022: Microservices Revolution** 🚀
+- Containerization, API gateways, distributed tracing
+- ✅ Mastered
+
+**2022-2024: Modular Monolith Synthesis** ⚙️
+- Best-of-both-worlds, DDD, event sourcing
+- ✅ Production
+
+**2024-Now: Agentic AI Infrastructure** 🤖
+- LLMs, RAG, Autonomous Agents, Self-healing Systems
+- 🔴 LIVE — Actively Shaping
+
+</div>
