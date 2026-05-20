@@ -59,7 +59,26 @@ LLMs, RAG, Autonomous Agents, Self-healing Systems
 
 <table>
 <tr>
-<td width="25%">
+<td width="20%">
+
+### 🤖 Awesome Prompts
+Enterprise-grade AI agents for autonomous code generation, 100% test coverage, and auto-documentation
+
+**Stack:** Python, LangChain, Multiple LLMs
+
+**Features:**
+- 5 AI Agents
+- 7 Reusable Skills
+- Test generation (100% coverage)
+- Auto-documentation
+- JIRA integration
+
+**Status:** 🟢 Production Ready
+
+[View Repo](https://github.com/sharmapuneet1510/awesome-prompts) | [Docs](https://github.com/sharmapuneet1510/awesome-prompts/tree/main/docs)
+
+</td>
+<td width="20%">
 
 ### 📚 Doc-Based RAG
 Transform documentation into interactive AI knowledge bases
@@ -71,7 +90,7 @@ Transform documentation into interactive AI knowledge bases
 [View Repo](https://github.com/sharmapuneet1510/doc-based-rag)
 
 </td>
-<td width="25%">
+<td width="20%">
 
 ### 🧠 Agentic AI Lab
 Research hub for autonomous AI pipelines and workflows
@@ -83,7 +102,7 @@ Research hub for autonomous AI pipelines and workflows
 [View Repo](https://github.com/sharmapuneet1510/agentic-ai-lab)
 
 </td>
-<td width="25%">
+<td width="20%">
 
 ### 👁️ Guardian
 Multi-camera real-time safety monitoring system
@@ -95,7 +114,7 @@ Multi-camera real-time safety monitoring system
 [View Repo](https://github.com/sharmapuneet1510/guardian)
 
 </td>
-<td width="25%">
+<td width="20%">
 
 ### 📋 Workstream
 Desktop release management and workflow platform
@@ -150,11 +169,13 @@ Desktop release management and workflow platform
 - Risk Management Frameworks
 
 ### 🤖 Agentic AI Systems
-- Agentic AI Architecture Patterns
+- Agentic AI Architecture Patterns (5-agent system)
 - Retrieval-Augmented Generation (RAG)
 - LLM Integration & Prompt Engineering
-- Multi-Agent Orchestration
-- AI-Driven Test Automation
+- Multi-Agent Orchestration (autonomous dev agent)
+- AI-Driven Code Generation & Testing (100% coverage)
+- Test Case Generation with Business Validation
+- Auto-Documentation (JSDoc, docstrings, Javadoc)
 - Intelligent Workflow Pipelines
 
 ### ⚡ High-Performance Systems
