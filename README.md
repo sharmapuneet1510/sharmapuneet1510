@@ -57,11 +57,9 @@ LLMs, RAG, Autonomous Agents, Self-healing Systems
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="20%">
+### 🤖 AI & Agentic Systems
 
-### 🔄 Full-Lifecycle Feature Builder
+#### 🔄 Full-Lifecycle Feature Builder
 End-to-end autonomous development: code generation → test validation → auto-documentation. Enterprise-grade agentic orchestration with business-driven quality assurance.
 
 **Stack:** Python, LangChain, Claude, Multiple LLMs
@@ -77,22 +75,7 @@ End-to-end autonomous development: code generation → test validation → auto-
 
 [View Repo](https://github.com/sharmapuneet1510/awesome-prompts) | [Docs](https://github.com/sharmapuneet1510/awesome-prompts/tree/main/docs) | [Release](https://github.com/sharmapuneet1510/awesome-prompts/tree/release/4.2.0)
 
-</td>
-<td width="20%">
-
-### 📚 Doc-Based RAG
-Transform documentation into interactive AI knowledge bases
-
-**Stack:** FastAPI, Vector DB, Python
-
-**Status:** 🟡 Incubating
-
-[View Repo](https://github.com/sharmapuneet1510/doc-based-rag)
-
-</td>
-<td width="20%">
-
-### 🧠 Agentic AI Lab
+#### 🧠 Agentic AI Lab
 Research hub for autonomous AI pipelines and workflows
 
 **Stack:** Python, LangChain, RAG
@@ -101,10 +84,16 @@ Research hub for autonomous AI pipelines and workflows
 
 [View Repo](https://github.com/sharmapuneet1510/agentic-ai-lab)
 
-</td>
-<td width="20%">
+#### 📚 Doc-Based RAG
+Transform documentation into interactive AI knowledge bases
 
-### 👁️ Guardian
+**Stack:** FastAPI, Vector DB, Python
+
+**Status:** 🟡 Incubating
+
+[View Repo](https://github.com/sharmapuneet1510/doc-based-rag)
+
+#### 👁️ Guardian
 Multi-camera real-time safety monitoring system
 
 **Stack:** AI/ML, Computer Vision
@@ -113,10 +102,9 @@ Multi-camera real-time safety monitoring system
 
 [View Repo](https://github.com/sharmapuneet1510/guardian)
 
-</td>
-<td width="20%">
+### 🛠️ Developer Tools
 
-### 📋 Workstream
+#### 📋 Workstream
 Desktop release management and workflow platform
 
 **Stack:** Electron, TypeScript
@@ -125,9 +113,7 @@ Desktop release management and workflow platform
 
 [View Repo](https://github.com/sharmapuneet1510/workstream)
 
-</td>
-</tr>
-</table>
+---
 
 ---
 
