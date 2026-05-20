@@ -61,21 +61,21 @@ LLMs, RAG, Autonomous Agents, Self-healing Systems
 <tr>
 <td width="20%">
 
-### 🤖 Awesome Prompts
-Enterprise-grade AI agents for autonomous code generation, 100% test coverage, and auto-documentation
+### 🔄 Full-Lifecycle Feature Builder
+End-to-end autonomous development: code generation → test validation → auto-documentation. Enterprise-grade agentic orchestration with business-driven quality assurance.
 
-**Stack:** Python, LangChain, Multiple LLMs
+**Stack:** Python, LangChain, Claude, Multiple LLMs
 
-**Features:**
-- 5 AI Agents
-- 7 Reusable Skills
-- Test generation (100% coverage)
-- Auto-documentation
-- JIRA integration
+**Lifecycle Pipeline:**
+- **Generation:** 8 AI Agents (Implementation, Code Review, Writer, Integration, Technical Documentation, Test Case Generator, Context Builder, Autonomous Dev)
+- **Validation:** 32 Reusable Skills, 100% test coverage with JIRA requirement traceability
+- **Documentation:** Auto-generated JSDoc, docstrings, Javadoc across all languages
 
-**Status:** 🟢 Production Ready
+**Platform Support:** Claude Code • GitHub Copilot • Cursor • Windsurf • Gemini CLI • Continue.dev • OpenAI • Aider
 
-[View Repo](https://github.com/sharmapuneet1510/awesome-prompts) | [Docs](https://github.com/sharmapuneet1510/awesome-prompts/tree/main/docs)
+**Status:** 🟢 Production Ready (v4.2.0)
+
+[View Repo](https://github.com/sharmapuneet1510/awesome-prompts) | [Docs](https://github.com/sharmapuneet1510/awesome-prompts/tree/main/docs) | [Release](https://github.com/sharmapuneet1510/awesome-prompts/tree/release/4.2.0)
 
 </td>
 <td width="20%">
