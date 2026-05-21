@@ -93,7 +93,11 @@ LLMs, RAG, Autonomous Agents, Self-healing Systems
   }
 </style>
 
+<div class="gradient-divider"></div>
+
 ### 🤖 AI & Agentic Systems
+
+<div class="flow-line"></div>
 
 #### 🔄 Full-Lifecycle Feature Builder
 End-to-end autonomous development: code generation → test validation → auto-documentation. Enterprise-grade agentic orchestration with business-driven quality assurance.
@@ -138,7 +142,11 @@ Multi-camera real-time safety monitoring system
 
 [View Repo](https://github.com/sharmapuneet1510/guardian)
 
+<div class="gradient-divider"></div>
+
 ### 🛠️ Developer Tools
+
+<div class="flow-line"></div>
 
 #### 📋 Workstream
 Desktop release management and workflow platform
