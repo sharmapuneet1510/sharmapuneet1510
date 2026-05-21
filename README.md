@@ -278,7 +278,7 @@ Desktop workflow orchestration and release management platform.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sharmapuneet1510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=sharmapuneet1510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -286,9 +286,15 @@ Desktop workflow orchestration and release management platform.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sharmapuneet1510&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://img.shields.io/badge/GitHub-sharmapuneet1510-181717?style=for-the-badge&logo=github" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapuneet1510&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RegTech%20%7C%20Architecture-00D9FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-2C5364?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Experience-13%2B%20Years-203A43?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/APAC-JFSA%20%7C%20MAS%20%7C%20ASIC%20%7C%20HKMA-0F2027?style=for-the-badge" />
 
 </div>
 
@@ -304,7 +310,7 @@ Desktop workflow orchestration and release management platform.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapuneet1510&theme=tokyo-night&hide_border=true&area=true&custom_title=Puneet%20Sharma%27s%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapuneet1510&theme=react-dark&hide_border=true&area=true&custom_title=Puneet%20Sharma%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -313,16 +319,6 @@ Desktop workflow orchestration and release management platform.
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Consistency+builds+systems.;Small+commits.+Large+impact.;Engineering+momentum%2C+one+contribution+at+a+time." />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sharmapuneet1510/sharmapuneet1510/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -524,11 +520,11 @@ From FinTech infrastructure to autonomous AI orchestration.
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sharmapuneet1510&label=Profile%20Views&color=12&icon=5&pretty=true)
+<img src="https://komarev.com/ghpvc/?username=sharmapuneet1510&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-![Followers](https://img.shields.io/github/followers/sharmapuneet1510?label=Followers&style=flat-square&color=00D9FF)
+<img src="https://img.shields.io/github/followers/sharmapuneet1510?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="GitHub Followers" />
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Crafted+with+intent.;Building+the+future%2C+one+intelligent+system+at+a+time.;Last+Updated+%E2%80%A2+May+2026" />
 
