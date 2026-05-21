@@ -57,6 +57,42 @@ LLMs, RAG, Autonomous Agents, Self-healing Systems
 
 ## 🚀 Featured Projects
 
+<style>
+  .project-card {
+    border: 1px solid rgba(76, 175, 80, 0.3);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px 0;
+    transition: all 0.3s ease;
+  }
+
+  .project-card:hover {
+    border-color: rgba(76, 175, 80, 0.8);
+    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.2);
+    background-color: rgba(76, 175, 80, 0.02);
+  }
+
+  .gradient-divider {
+    height: 2px;
+    background: linear-gradient(90deg, #0a0e27, #4CAF50 50%, transparent);
+    margin: 20px 0;
+  }
+
+  .flow-line {
+    height: 1px;
+    background: linear-gradient(90deg, #4CAF50, transparent);
+    margin: 10px 0;
+  }
+
+  .featured-projects a {
+    transition: color 0.2s ease;
+  }
+
+  .featured-projects a:hover {
+    color: #4CAF50;
+  }
+</style>
+
 ### 🤖 AI & Agentic Systems
 
 #### 🔄 Full-Lifecycle Feature Builder
