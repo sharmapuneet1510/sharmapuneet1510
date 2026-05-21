@@ -93,11 +93,15 @@ LLMs, RAG, Autonomous Agents, Self-healing Systems
   }
 </style>
 
+<div class="featured-projects">
+
 <div class="gradient-divider"></div>
 
 ### 🤖 AI & Agentic Systems
 
 <div class="flow-line"></div>
+
+<div class="project-card">
 
 #### 🔄 Full-Lifecycle Feature Builder
 End-to-end autonomous development: code generation → test validation → auto-documentation. Enterprise-grade agentic orchestration with business-driven quality assurance.
@@ -115,6 +119,10 @@ End-to-end autonomous development: code generation → test validation → auto-
 
 [View Repo](https://github.com/sharmapuneet1510/awesome-prompts) | [Docs](https://github.com/sharmapuneet1510/awesome-prompts/tree/main/docs) | [Release](https://github.com/sharmapuneet1510/awesome-prompts/tree/release/4.2.0)
 
+</div>
+
+<div class="project-card">
+
 #### 🧠 Agentic AI Lab
 Research hub for autonomous AI pipelines and workflows
 
@@ -123,6 +131,10 @@ Research hub for autonomous AI pipelines and workflows
 **Status:** 🟢 Active
 
 [View Repo](https://github.com/sharmapuneet1510/agentic-ai-lab)
+
+</div>
+
+<div class="project-card">
 
 #### 📚 Doc-Based RAG
 Transform documentation into interactive AI knowledge bases
@@ -133,6 +145,10 @@ Transform documentation into interactive AI knowledge bases
 
 [View Repo](https://github.com/sharmapuneet1510/doc-based-rag)
 
+</div>
+
+<div class="project-card">
+
 #### 👁️ Guardian
 Multi-camera real-time safety monitoring system
 
@@ -142,11 +158,15 @@ Multi-camera real-time safety monitoring system
 
 [View Repo](https://github.com/sharmapuneet1510/guardian)
 
+</div>
+
 <div class="gradient-divider"></div>
 
 ### 🛠️ Developer Tools
 
 <div class="flow-line"></div>
+
+<div class="project-card">
 
 #### 📋 Workstream
 Desktop release management and workflow platform
@@ -156,6 +176,10 @@ Desktop release management and workflow platform
 **Status:** 🟢 Active
 
 [View Repo](https://github.com/sharmapuneet1510/workstream)
+
+</div>
+
+</div>
 
 ---
 
