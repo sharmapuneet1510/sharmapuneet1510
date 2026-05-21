@@ -1,288 +1,522 @@
-<div align="center" style="background-color: #0a0e27; padding: 40px 20px; border-radius: 8px; color: #e0e0e0;">
+<div align="center">
 
-# Puneet Sharma
-## Lead Architect • AI Systems Engineer • AVP Asia RegTech
-
-📍 **Tokyo, Japan** 🗾
-
-Architecting intelligence into capital markets infrastructure — from legacy monoliths to self-evolving agentic systems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Puneet%20Sharma&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Lead%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20AVP%20Asia%20RegTech&descAlignY=58&animation=fadeIn" />
 
 </div>
 
+<div align="center">
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=950&lines=Architecting+Intelligent+Capital+Markets+Systems;Building+Agentic+AI+Infrastructure;Transforming+Legacy+Platforms+Into+Autonomous+Systems;Designing+Future-Ready+FinTech+Architecture;Turning+Complexity+Into+Scalable+Engineering" />
+</p>
+
+📍 **Tokyo, Japan** 🇯🇵  
+
+Architecting intelligence into capital markets infrastructure — from legacy monoliths to self-evolving agentic systems.
+
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharmapuneet1510-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmapuneet1510/)
+[![GitHub](https://img.shields.io/badge/GitHub-sharmapuneet1510-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmapuneet1510)
+[![Email](https://img.shields.io/badge/Email-puneet%40techmavericks.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneet@techmavericks.dev)
+
+</div>
 
 ---
 
-## 📊 Impact Dashboard
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%" />
+
+</div>
+
+# 📊 Impact Dashboard
+
+<div align="center">
 
 | 🎯 Metric | 📈 Value | 📝 Details |
 |-----------|---------|-----------|
 | **Dev Effort Reduction** | **20-30%** | via AI automation & tooling |
 | **Engineers Mentored** | **15+** | across FinTech & AI domains |
 | **APAC Jurisdictions** | **4** | JFSA • MAS • ASIC • HKMA |
-| **FinTech Experience** | **13+** | Years in capital markets |
+| **FinTech Experience** | **13+ Years** | Capital markets, RegTech, enterprise systems |
+| **Architecture Focus** | **AI + FinTech** | Agentic systems, distributed platforms, compliance automation |
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+Engineering+Intelligent+Systems+%E2%9A%A1;%F0%9F%8C%8F+RegTech+%7C+AI+%7C+Architecture;%F0%9F%A4%96+From+Automation+to+Agentic+Execution" />
+
+</div>
 
 ## 🎯 Current Focus
 
-| Domain | Details |
-|--------|---------|
-| **🌏 Asia RegTech · Tokyo** | Driving high-stakes technology transformation across APAC, overseeing multi-jurisdictional compliance for JFSA · MAS · ASIC · HKMA.<br/><br/>**Pillars:**<br/>• Modular Monolith Architecture<br/>• Real-time Reconciliation Engines<br/>• Zero-defect Compliance Pipelines<br/><br/>**Tech:** Java • Spring Boot • Kafka • PostgreSQL<br/>**Status:** 🟢 Production |
-| **🤖 Agentic AI Systems** | Architecting autonomous intelligent systems to rewire the software development lifecycle — end to end.<br/><br/>**Pillars:**<br/>• AI-Driven UI Automation<br/>• RAG-Powered Knowledge Bases<br/>• 20-30% Dev Effort Reduction<br/><br/>**Tech:** Python • LangChain • FastAPI • LLMs<br/>**Status:** 🟢 Active |
+<table>
+<tr>
+<td width="50%">
 
----
+### 🌏 Asia RegTech · Tokyo
 
-## 🛤️ Architecture Evolution
+Driving high-stakes technology transformation across APAC regulatory ecosystems.
 
-> **Your Journey: 2015 → Present**
+#### Focus Areas
 
-### 2015-2018: Legacy Monolith Era 🏛️
-Enterprise systems, RDBMS, SOA patterns  
-✅ **Mastered**
-
-### 2018-2022: Microservices Revolution 🚀
-Containerization, API gateways, distributed tracing  
-✅ **Mastered**
-
-### 2022-2024: Modular Monolith Synthesis ⚙️
-Best-of-both-worlds, DDD, event sourcing  
-✅ **Production**
-
-### 2024-Now: Agentic AI Infrastructure 🤖
-LLMs, RAG, Autonomous Agents, Self-healing Systems  
-🔴 **LIVE — Actively Shaping**
-
----
-
-## 🚀 Featured Projects
-
-<style>
-  .project-card {
-    border: 1px solid rgba(76, 175, 80, 0.3);
-    border-radius: 8px;
-    padding: 20px;
-    margin: 15px 0;
-    transition: all 0.3s ease;
-  }
-
-  .project-card:hover {
-    border-color: rgba(76, 175, 80, 0.8);
-    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.2);
-    background-color: rgba(76, 175, 80, 0.02);
-  }
-
-  .gradient-divider {
-    height: 2px;
-    background: linear-gradient(90deg, #0a0e27, #4CAF50 50%, transparent);
-    margin: 20px 0;
-  }
-
-  .flow-line {
-    height: 1px;
-    background: linear-gradient(90deg, #4CAF50, transparent);
-    margin: 10px 0;
-  }
-
-  .featured-projects a {
-    transition: color 0.2s ease;
-  }
-
-  .featured-projects a:hover {
-    color: #4CAF50;
-  }
-</style>
-
-<div class="featured-projects">
-
-<div class="gradient-divider"></div>
-
-### 🤖 AI & Agentic Systems
-
-<div class="flow-line"></div>
-
-<div class="project-card">
-
-#### 🔄 Full-Lifecycle Feature Builder
-End-to-end autonomous development: code generation → test validation → auto-documentation. Enterprise-grade agentic orchestration with business-driven quality assurance.
-
-**Stack:** Python, LangChain, Claude, Multiple LLMs
-
-**Lifecycle Pipeline:**
-- **Generation:** 8 AI Agents (Implementation, Code Review, Writer, Integration, Technical Documentation, Test Case Generator, Context Builder, Autonomous Dev)
-- **Validation:** 32 Reusable Skills, 100% test coverage with JIRA requirement traceability
-- **Documentation:** Auto-generated JSDoc, docstrings, Javadoc across all languages
-
-**Platform Support:** Claude Code • GitHub Copilot • Cursor • Windsurf • Gemini CLI • Continue.dev • OpenAI • Aider
-
-**Status:** 🟢 Production Ready (v4.2.0)
-
-[View Repo](https://github.com/sharmapuneet1510/awesome-prompts) | [Docs](https://github.com/sharmapuneet1510/awesome-prompts/tree/main/docs) | [Release](https://github.com/sharmapuneet1510/awesome-prompts/tree/release/4.2.0)
-
-</div>
-
-<div class="project-card">
-
-#### 🧠 Agentic AI Lab
-Research hub for autonomous AI pipelines and workflows
-
-**Stack:** Python, LangChain, RAG
-
-**Status:** 🟢 Active
-
-[View Repo](https://github.com/sharmapuneet1510/agentic-ai-lab)
-
-</div>
-
-<div class="project-card">
-
-#### 📚 Doc-Based RAG
-Transform documentation into interactive AI knowledge bases
-
-**Stack:** FastAPI, Vector DB, Python
-
-**Status:** 🟡 Incubating
-
-[View Repo](https://github.com/sharmapuneet1510/doc-based-rag)
-
-</div>
-
-<div class="project-card">
-
-#### 👁️ Guardian
-Multi-camera real-time safety monitoring system
-
-**Stack:** AI/ML, Computer Vision
-
-**Status:** 🔵 Building
-
-[View Repo](https://github.com/sharmapuneet1510/guardian)
-
-</div>
-
-<div class="gradient-divider"></div>
-
-### 🛠️ Developer Tools
-
-<div class="flow-line"></div>
-
-<div class="project-card">
-
-#### 📋 Workstream
-Desktop release management and workflow platform
-
-**Stack:** Electron, TypeScript
-
-**Status:** 🟢 Active
-
-[View Repo](https://github.com/sharmapuneet1510/workstream)
-
-</div>
-
-</div>
-
----
-
----
-
-## 🛠️ Tech Stack Mastery
-
-### Core Languages
-`Java` `Python` `TypeScript` `Node.js` `Go`
-
-### Frontend & UI
-`React` `Next.js` `Tailwind` `HTML` `CSS`
-
-### Data & Messaging
-`PostgreSQL` `MongoDB` `Redis` `Kafka` `Elasticsearch`
-
-### Cloud & DevOps
-`AWS` `GCP` `Azure` `Docker` `Kubernetes`
-
-### AI & LLM Engineering
-`LangChain` `RAG Pipelines` `Vector DB` `Claude` `OpenAI`
-
----
-
-## 🎓 Domains of Mastery
-
-### 🏗️ Architecture & Design
-- Modular Monolith Patterns
-- Domain-Driven Design (DDD)
-- Event-Driven Architecture
-- CQRS & Event Sourcing
-- Clean Architecture Principles
-- API Design & Gateway Patterns
-
-### 💰 FinTech & RegTech
-- Capital Markets Systems
+- Modular Monolith Architecture
 - Real-time Reconciliation Engines
-- Compliance Automation (JFSA/MAS/ASIC/HKMA)
-- Trading Infrastructure
-- Settlement & Clearing Systems
-- Risk Management Frameworks
+- Compliance Automation
+- Distributed Processing Systems
+- High-throughput Trade Pipelines
+
+#### Jurisdictions
+
+`JFSA` `MAS` `ASIC` `HKMA`
+
+#### Stack
+
+`Java` `Spring Boot` `Kafka` `PostgreSQL`
+
+🟢 **Production Scale Systems**
+
+</td>
+
+<td width="50%">
 
 ### 🤖 Agentic AI Systems
-**Full-Lifecycle Orchestration:** End-to-end feature delivery from generation through testing to documentation.
 
-- Agentic AI Architecture Patterns (8-agent system with full-lifecycle orchestration)
-- Full-Lifecycle Feature Builder: Generation → Validation → Documentation
-- Multi-Agent Orchestration (Implementation, Code Review, Writer, Integration, Technical Documentation, Test Case Generator, Context Builder, Autonomous Dev)
-- Retrieval-Augmented Generation (RAG) and context-aware prompting
-- LLM Integration & Prompt Engineering (Claude, OpenAI, multi-model strategy)
-- AI-Driven Code Generation with autonomous feature implementation
-- Business-Driven Test Validation (JIRA requirement traceability, acceptance criteria mapping)
-- Test Case Generation with 100% coverage and business validation
-- Auto-Documentation (JSDoc, docstrings, Javadoc) with 100% method coverage
-- Multi-Platform Deployment (8 IDE integrations: Claude Code, GitHub Copilot, Cursor, Windsurf, Gemini CLI, Continue.dev, OpenAI, Aider)
-- Intelligent Workflow Pipelines with autonomous decision-making
+Architecting autonomous AI systems that rewire software engineering workflows.
 
-### ⚡ High-Performance Systems
-- Sub-millisecond Latency Design
-- High-throughput Data Processing
-- Distributed Systems & Consensus
-- Resilience & Chaos Engineering
-- Horizontal Scaling Strategies
-- Observability & SRE Practices
+#### Focus Areas
 
----
+- Multi-Agent AI Orchestration
+- Autonomous Development Pipelines
+- RAG Knowledge Systems
+- AI-Driven QA Automation
+- Intelligent Context Engineering
 
-## 📖 Thought Leadership
+#### Stack
 
-### 📰 Tech Mavericks — *Newsletter*
-Decoding high-volume architecture and FinTech complexity for engineers who want to build at scale.  
-[Subscribe](https://techmavericks.dev)
+`Python` `LangChain` `FastAPI` `LLMs`
 
-### 🧵 Nexus Threads — *Series*
-Where classical mathematics meets modern AI engineering — connecting theory to real-world systems.
+🟢 **Active Research & Production**
 
-### 📊 Capital Markets — *Deep Dives*
-Trading systems, regulatory compliance, reconciliation, and the future of financial infrastructure.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 Beyond the Code
+<div align="center">
 
-| Interest | Details |
-|----------|---------|
-| **🏏 Cricket** | Resilience, pressure decisions, and team dynamics applied to engineering leadership |
-| **🗾 Japanese** | N5 fluency, building deeper roots in Tokyo's tech ecosystem |
-| **🧮 Mathematics** | Applied math in distributed algorithms, probabilistic systems, and optimization |
-| **🌍 Mentorship** | Guiding next-gen architects navigating FinTech, RegTech, and AI careers |
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Architecture%20Evolution&fontSize=34&fontColor=00D9FF&animation=twinkling" />
+
+</div>
+
+# 🛤️ Architecture Evolution
+
+<div align="center">
+
+| Era | Focus | Status |
+|------|-------|--------|
+| 🏛️ **2015–2018** | Legacy Enterprise Monoliths | ✅ Mastered |
+| 🚀 **2018–2022** | Microservices & Distributed Systems | ✅ Mastered |
+| ⚙️ **2022–2024** | Modular Monolith Synthesis | ✅ Production |
+| 🤖 **2024–Present** | Agentic AI Infrastructure | 🔴 Live & Shaping |
+
+</div>
+
+<br/>
+
+> **“The future of engineering is not writing more code.  
+> It is designing systems that can evolve themselves.”**
 
 ---
 
-## 💼 Let's Build Together
+<div align="center">
 
-<div align="center" style="background-color: #1a1f4f; padding: 30px; border-radius: 8px; margin: 20px 0;">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%" />
 
-### Ready to architect intelligence into your systems?
+</div>
 
-Building trillion-dollar FinTech infrastructure • Designing agentic AI workflows • Mentoring next-gen architects
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-puneet%40techmavericks.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneet@techmavericks.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharmapuneet1510-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmapuneet1510/)
-[![GitHub](https://img.shields.io/badge/GitHub-sharmapuneet1510-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmapuneet1510)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Featured+Projects;%F0%9F%A7%A0+Agentic+AI+Systems;%F0%9F%9B%A0%EF%B8%8F+Developer+Platforms" />
+
+</div>
+
+# 🚀 Featured Projects
+
+## 🤖 AI & Agentic Systems
+
+### 🔄 [Full-Lifecycle Feature Builder](https://github.com/sharmapuneet1510/awesome-prompts)
+
+Enterprise-grade autonomous development platform orchestrating the full software delivery lifecycle.
+
+```text
+Requirements → Context Building → Implementation → Validation → Documentation → Delivery
+```
+
+#### Capabilities
+
+- 8-Agent Autonomous Workflow
+- Business-Driven Validation
+- AI-Powered Test Generation
+- Multi-IDE Integrations
+- Auto Documentation Pipelines
+- Requirement Traceability
+
+#### Stack
+
+`Python` `LangChain` `Claude` `OpenAI` `RAG`
+
+#### Platform Support
+
+`Claude Code` • `GitHub Copilot` • `Cursor` • `Windsurf` • `Gemini CLI` • `Continue.dev` • `Aider`
+
+🟢 **Production Ready — v4.2.0**
+
+🔗 [Repository](https://github.com/sharmapuneet1510/awesome-prompts)
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Context+%E2%86%92+Code+%E2%86%92+Test+%E2%86%92+Docs;Autonomous+Engineering+Pipelines;Enterprise-Grade+AI+Development+Workflows" />
+
+</div>
+
+---
+
+### 🧠 [Agentic AI Lab](https://github.com/sharmapuneet1510/agentic-ai-lab)
+
+Research laboratory for autonomous AI pipelines and intelligent orchestration systems.
+
+#### Focus
+
+- Multi-Agent Coordination
+- Autonomous Decision Systems
+- Prompt Engineering Frameworks
+- AI Workflow Architectures
+
+#### Stack
+
+`Python` `LangChain` `RAG` `FastAPI`
+
+🟢 **Active Research**
+
+🔗 [Repository](https://github.com/sharmapuneet1510/agentic-ai-lab)
+
+---
+
+### 📚 [Doc-Based RAG](https://github.com/sharmapuneet1510/doc-based-rag)
+
+Transforming enterprise documentation into intelligent searchable AI systems.
+
+#### Features
+
+- Semantic Search
+- Vector-Based Knowledge Retrieval
+- Context-Aware AI Responses
+- Enterprise Documentation Pipelines
+
+#### Stack
+
+`FastAPI` `Vector DB` `Python`
+
+🟡 **Incubating**
+
+🔗 [Repository](https://github.com/sharmapuneet1510/doc-based-rag)
+
+---
+
+### 👁️ [Guardian](https://github.com/sharmapuneet1510/guardian)
+
+AI-powered multi-camera real-time safety and monitoring platform.
+
+#### Capabilities
+
+- Real-time Event Detection
+- Activity Recognition
+- Face & Object Tracking
+- Incident Escalation Systems
+
+#### Stack
+
+`Computer Vision` `AI/ML` `Python`
+
+🔵 **Building**
+
+🔗 [Repository](https://github.com/sharmapuneet1510/guardian)
+
+---
+
+## 🛠️ Developer Platforms
+
+### 📋 [Workstream](https://github.com/sharmapuneet1510/workstream)
+
+Desktop workflow orchestration and release management platform.
+
+#### Stack
+
+`Electron` `TypeScript` `Node.js`
+
+🟢 **Active Development**
+
+🔗 [Repository](https://github.com/sharmapuneet1510/workstream)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%" />
+
+</div>
+
+# 🏆 GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharmapuneet1510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sharmapuneet1510&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapuneet1510&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Contribution%20Graph&fontSize=34&fontColor=00D9FF&animation=twinkling" />
+
+</div>
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapuneet1510&theme=tokyo-night&hide_border=true&area=true&custom_title=Puneet%20Sharma%27s%20Contribution%20Graph" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Consistency+builds+systems.;Small+commits.+Large+impact.;Engineering+momentum%2C+one+contribution+at+a+time." />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sharmapuneet1510/sharmapuneet1510/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Tech%20Stack%20Mastery&fontSize=34&fontColor=00D9FF&animation=twinkling" />
+
+</div>
+
+# 🛠️ Tech Stack Mastery
+
+## 💻 Core Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,go,nodejs" />
+</p>
+
+## 🎨 Frontend & UI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+## ⚡ Backend & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,aws,gcp,azure" />
+</p>
+
+## 🗄️ Data & Messaging
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,elasticsearch" />
+</p>
+
+## 🤖 AI & LLM Engineering
+
+<div align="center">
+
+`LangChain` • `RAG` • `Vector Databases` • `Claude` • `OpenAI` • `Prompt Engineering` • `Autonomous Agents`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=%F0%9F%8E%93+Domains+of+Mastery;%F0%9F%8F%97%EF%B8%8F+Architecture+%26+Design;%F0%9F%92%B0+FinTech+%26+RegTech;%F0%9F%A4%96+Agentic+AI+Engineering" />
+
+</div>
+
+# 🎓 Domains of Mastery
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏗️ Architecture & Design
+
+- Modular Monolith Architecture
+- Domain-Driven Design
+- CQRS & Event Sourcing
+- Distributed Systems
+- API Gateway Patterns
+- Event-Driven Architecture
+- Resilience Engineering
+- Scalable System Design
+
+</td>
+
+<td width="50%">
+
+## 💰 FinTech & RegTech
+
+- Regulatory Reporting
+- Capital Markets Infrastructure
+- Reconciliation Engines
+- Trade Lifecycle Systems
+- Settlement & Clearing
+- Risk Management Systems
+- Compliance Automation
+- Market Data Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Agentic AI Engineering
+
+```text
+Requirement → AI Context → Implementation → Testing → Validation → Documentation
+```
+
+### Core Expertise
+
+- Multi-Agent Architecture Patterns
+- AI Workflow Orchestration
+- Autonomous Feature Development
+- Context-Aware RAG Systems
+- Prompt Engineering
+- AI Validation Pipelines
+- Test Automation Intelligence
+- AI Documentation Systems
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%" />
+
+</div>
+
+# 📖 Thought Leadership
+
+## 📰 Tech Mavericks
+
+Decoding high-scale architecture, distributed systems, AI engineering, and FinTech transformation.
+
+### Themes
+
+- System Design
+- Capital Markets
+- Agentic AI
+- Platform Engineering
+- Regulatory Technology
+- Distributed Systems
+
+---
+
+## 🧵 Nexus Threads
+
+Where mathematics, AI, and architecture intersect to build future systems.
+
+---
+
+## 📊 Capital Markets Deep Dives
+
+Breaking down the complexity behind:
+
+- Trading Infrastructure
+- Regulatory Reporting
+- Market Reconciliation
+- Distributed Financial Systems
+- High-throughput Architectures
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Beyond+the+Code;Cricket+%E2%80%A2+Japan+%E2%80%A2+Mathematics+%E2%80%A2+Mentorship" />
+
+</div>
+
+# 🌱 Beyond the Code
+
+| Interest | Perspective |
+|----------|-------------|
+| 🏏 Cricket | Leadership, resilience, and pressure handling |
+| 🗾 Japanese | Building deeper roots in Tokyo’s ecosystem |
+| 🧮 Mathematics | Applied optimization & distributed systems |
+| 🌍 Mentorship | Helping engineers grow into architects |
+
+---
+
+> **“Great systems are not built by accident.  
+> They emerge from clarity, iteration, and relentless engineering discipline.”**
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Let%27s%20Build%20Together&fontSize=36&fontColor=00D9FF&animation=fadeIn" />
+
+</div>
+
+# 🤝 Let’s Build Together
+
+<div align="center">
+
+### Building intelligent systems at scale.
+
+From FinTech infrastructure to autonomous AI orchestration.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharmapuneet1510/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/sharmapuneet1510)
+
+[![Email](https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail)](mailto:puneet@techmavericks.dev)
 
 </div>
 
@@ -291,8 +525,17 @@ Building trillion-dollar FinTech infrastructure • Designing agentic AI workflo
 <div align="center">
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=sharmapuneet1510&label=Profile%20Views&color=12&icon=5&pretty=true)
+
 ![Followers](https://img.shields.io/github/followers/sharmapuneet1510?label=Followers&style=flat-square&color=00D9FF)
 
-⚡ **Last Updated: May 2026** • Crafted with intent — Building the Future, One System at a Time
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Crafted+with+intent.;Building+the+future%2C+one+intelligent+system+at+a+time.;Last+Updated+%E2%80%A2+May+2026" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F2027,50:203A43,100:2C5364&animation=fadeIn" />
 
 </div>
