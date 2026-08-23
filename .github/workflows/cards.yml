@@ -1,0 +1,47 @@
+name: Redraw profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # nightly, off the hour to dodge the API rush
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/render.py"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cards
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # PROFILE_TOKEN is an optional classic PAT with read:user. With it the
+      # commit count includes private contributions; without it the workflow
+      # falls back to GITHUB_TOKEN and counts public work only.
+      - name: Render
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 tools/render.py
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain -- '*.svg' tools/data.json)" ]; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.svg' tools/data.json
+          git commit -m "chore: redraw cards"
+          git push

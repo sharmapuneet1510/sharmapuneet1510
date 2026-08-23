@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 236" width="496" height="236" role="img" aria-label="GitHub activity">
+<title>Activity</title>
+<defs><style type="text/css"><![CDATA[
+.rv{opacity:0;animation:rv .9s cubic-bezier(.16,1,.3,1) forwards}
+@keyframes rv{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.draw{stroke-dasharray:600;stroke-dashoffset:600;animation:draw 1.4s cubic-bezier(.16,1,.3,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.sheen{animation:sheen 9s ease-in-out 2.5s infinite}
+@keyframes sheen{0%{transform:translateX(0)}55%,100%{transform:translateX(760px)}}
+@media (prefers-reduced-motion:reduce){
+  .rv,.draw,.grow{animation:none;opacity:1;transform:none;stroke-dashoffset:0}
+  .sheen{animation:none;opacity:0}
+}
+]]></style>
+<clipPath id="cardclip"><rect x="1" y="1" width="494" height="234" rx="3"/></clipPath>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#1a1613" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#1a1613" stop-opacity=".05"/>
+  <stop offset="100%" stop-color="#1a1613" stop-opacity="0"/>
+</linearGradient>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="7"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="1.4"/></feComponentTransfer><feComposite operator="in" in2="SourceGraphic"/></filter>
+</defs>
+<rect width="496" height="236" fill="#F4EEE7"/>
+
+<rect x="1" y="1" width="494" height="234" rx="3" fill="#FBF7F2" stroke="#d8cec1"/>
+<rect x="1" y="1" width="494" height="3" fill="#9a7818" opacity=".55"/>
+<text class="rv" style="animation-delay:.15s" x="22" y="38" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11"
+      letter-spacing="3.2" fill="#9a7818">THE LEDGER</text>
+<line class="draw" style="animation-delay:.3s" x1="22" y1="52" x2="474" y2="52"
+      stroke="#d8cec1" stroke-width="1"/>
+<g clip-path="url(#cardclip)"><rect class="sheen" x="-200" y="0" width="150" height="236" fill="url(#sheen)"/></g>
+
+
+<g class="rv" style="animation-delay:0.50s">
+  <text x="22" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">COMMITS · PAST YEAR</text>
+  <line x1="165" y1="84" x2="400" y2="84"
+        stroke="#d8cec1" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="474" y="91" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">796</text>
+</g>
+<g class="rv" style="animation-delay:0.63s">
+  <text x="22" y="130" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">PULL REQUESTS</text>
+  <line x1="120" y1="126" x2="400" y2="126"
+        stroke="#d8cec1" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="474" y="133" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">23</text>
+</g>
+<g class="rv" style="animation-delay:0.76s">
+  <text x="22" y="172" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">REPOSITORIES</text>
+  <line x1="113" y1="168" x2="400" y2="168"
+        stroke="#d8cec1" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="474" y="175" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">28</text>
+</g>
+<g class="rv" style="animation-delay:0.89s">
+  <text x="22" y="214" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">YEARS SHIPPING</text>
+  <line x1="128" y1="210" x2="400" y2="210"
+        stroke="#d8cec1" stroke-width="1" stroke-dasharray="1 4"/>
+  <text x="474" y="217" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">12</text>
+</g>
+<rect width="496" height="236" filter="url(#grain)" opacity="0.032" fill="#1a1613"/>
+</svg>
