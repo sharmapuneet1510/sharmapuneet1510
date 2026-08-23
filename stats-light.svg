@@ -35,7 +35,7 @@
   <text x="22" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">COMMITS · PAST YEAR</text>
   <line x1="165" y1="84" x2="400" y2="84"
         stroke="#d8cec1" stroke-width="1" stroke-dasharray="1 4"/>
-  <text x="474" y="91" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">807</text>
+  <text x="474" y="91" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">808</text>
 </g>
 <g class="rv" style="animation-delay:0.63s">
   <text x="22" y="130" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">PULL REQUESTS</text>
@@ -47,7 +47,7 @@
   <text x="22" y="172" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">REPOSITORIES</text>
   <line x1="113" y1="168" x2="400" y2="168"
         stroke="#d8cec1" stroke-width="1" stroke-dasharray="1 4"/>
-  <text x="474" y="175" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">28</text>
+  <text x="474" y="175" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#1a1613">25</text>
 </g>
 <g class="rv" style="animation-delay:0.89s">
   <text x="22" y="214" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#6f6252">YEARS SHIPPING</text>
