@@ -188,13 +188,16 @@ def card_defs(t: dict, w: int, h: int) -> str:
 """
 
 
-CARD_CSS = f"""
+def card_css(w: int) -> str:
+    """Card animations. The sheen has to clear the full card width, so its
+    travel is derived from w rather than fixed."""
+    return f"""
 .rv{{opacity:0;animation:rv .9s {EASE} forwards}}
 @keyframes rv{{from{{opacity:0;transform:translateY(8px)}}to{{opacity:1;transform:translateY(0)}}}}
-.draw{{stroke-dasharray:600;stroke-dashoffset:600;animation:draw 1.4s {EASE} forwards}}
+.draw{{stroke-dasharray:{w + 100};stroke-dashoffset:{w + 100};animation:draw 1.4s {EASE} forwards}}
 @keyframes draw{{to{{stroke-dashoffset:0}}}}
 .sheen{{animation:sheen 9s ease-in-out 2.5s infinite}}
-@keyframes sheen{{0%{{transform:translateX(0)}}55%,100%{{transform:translateX(760px)}}}}
+@keyframes sheen{{0%{{transform:translateX(0)}}55%,100%{{transform:translateX({w + 260}px)}}}}
 @media (prefers-reduced-motion:reduce){{
   .rv,.draw,.grow{{animation:none;opacity:1;transform:none;stroke-dashoffset:0}}
   .sheen{{animation:none;opacity:0}}
@@ -346,7 +349,7 @@ def stats(t: dict, d: dict) -> str:
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {CW} {CH}" width="{CW}" height="{CH}" role="img" aria-label="GitHub activity">
 <title>Activity</title>
-<defs><style type="text/css"><![CDATA[{CARD_CSS}]]></style>{card_defs(t, CW, CH)}</defs>
+<defs><style type="text/css"><![CDATA[{card_css(CW)}]]></style>{card_defs(t, CW, CH)}</defs>
 <rect width="{CW}" height="{CH}" fill="{t['ground']}"/>
 {card_frame(t, CW, CH, 'THE LEDGER')}
 {''.join(out)}
@@ -384,7 +387,7 @@ def langs(t: dict, d: dict) -> str:
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {CW} {CH}" width="{CW}" height="{CH}" role="img" aria-label="Languages by share of code">
 <title>Languages</title>
-<defs><style type="text/css"><![CDATA[{CARD_CSS}
+<defs><style type="text/css"><![CDATA[{card_css(CW)}
 .grow{{transform:scaleX(0);animation:grow 1.5s {EASE} forwards}}
 @keyframes grow{{to{{transform:scaleX(1)}}}}
 ]]></style>{card_defs(t, CW, CH)}</defs>
@@ -397,6 +400,72 @@ def langs(t: dict, d: dict) -> str:
 """
 
 
+# --------------------------------------------------------------------------
+# stack strip
+# --------------------------------------------------------------------------
+
+SW, SH = 1008, 250
+
+# What I actually reach for, grouped. Hand-maintained — this is a statement of
+# intent, not a measurement, so it does not belong in the API-fed data.
+STACK = [
+    ("LANGUAGES", ["Java", "Python", "TypeScript", "JavaScript", "Go"]),
+    ("BACKEND", ["Spring Boot", "FastAPI", "Node.js"]),
+    ("DATA & MESSAGING", ["PostgreSQL", "Kafka", "Redis", "MongoDB", "Elasticsearch", "Neo4j", "MSSQL"]),
+    ("INFRASTRUCTURE", ["Docker", "Kubernetes", "AWS", "GCP", "Azure"]),
+    ("FRONTEND", ["React", "Next.js", "Tailwind", "Electron"]),
+    ("AI & LLM", ["LangChain", "RAG", "Vector databases", "Claude", "OpenAI", "Autonomous agents"]),
+]
+
+
+def wrap(items: list[str], width_chars: int) -> list[str]:
+    """Greedy wrap of ' · '-joined items into lines of at most width_chars."""
+    lines, cur = [], ""
+    for item in items:
+        candidate = f"{cur} · {item}" if cur else item
+        if len(candidate) > width_chars and cur:
+            lines.append(cur)
+            cur = item
+        else:
+            cur = candidate
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def stack(t: dict) -> str:
+    col_w = (SW - 44) // 3
+    out = []
+    for i, (label, items) in enumerate(STACK):
+        col, row = i % 3, i // 3
+        x = 22 + col * col_w
+        y = 88 + row * 84
+        delay = 0.5 + i * 0.1
+        # ~6.7px per char at 11.5px mono, against a 308px inner column.
+        lines = wrap(items, 44)
+        body = "".join(
+            f'<text x="{x}" y="{y + 20 + j * 17}" font-family="{MONO}" font-size="11.5" '
+            f'fill="{t["text"]}">{esc(line)}</text>'
+            for j, line in enumerate(lines)
+        )
+        out.append(f"""
+<g class="rv" style="animation-delay:{delay:.2f}s">
+  <text x="{x}" y="{y}" font-family="{MONO}" font-size="10" letter-spacing="2.4" fill="{t['gold']}">{esc(label)}</text>
+  <line x1="{x}" y1="{y + 7}" x2="{x + col_w - 28}" y2="{y + 7}" stroke="{t['rule']}" stroke-width="1"/>
+  {body}
+</g>""")
+
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {SW} {SH}" width="{SW}" height="{SH}" role="img" aria-label="Tools and platforms I work in">
+<title>The stack</title>
+<defs><style type="text/css"><![CDATA[{card_css(SW)}]]></style>{card_defs(t, SW, SH)}</defs>
+<rect width="{SW}" height="{SH}" fill="{t['ground']}"/>
+{card_frame(t, SW, SH, 'THE STACK')}
+{''.join(out)}
+{grain(t, SW, SH)}
+</svg>
+"""
+
+
 def main() -> None:
     data = fetch()
     for theme in THEMES.values():
@@ -404,7 +473,8 @@ def main() -> None:
         (ROOT / f"banner{s}.svg").write_text(banner(theme))
         (ROOT / f"stats{s}.svg").write_text(stats(theme, data))
         (ROOT / f"langs{s}.svg").write_text(langs(theme, data))
-    print(f"rendered 6 svgs · {data['commits']} commits · {len(data['langs'])} languages")
+        (ROOT / f"stack{s}.svg").write_text(stack(theme))
+    print(f"rendered 8 svgs · {data['commits']} commits · {len(data['langs'])} languages")
 
 
 if __name__ == "__main__":

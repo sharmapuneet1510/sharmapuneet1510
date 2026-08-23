@@ -3,10 +3,10 @@
 <defs><style type="text/css"><![CDATA[
 .rv{opacity:0;animation:rv .9s cubic-bezier(.16,1,.3,1) forwards}
 @keyframes rv{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
-.draw{stroke-dasharray:600;stroke-dashoffset:600;animation:draw 1.4s cubic-bezier(.16,1,.3,1) forwards}
+.draw{stroke-dasharray:596;stroke-dashoffset:596;animation:draw 1.4s cubic-bezier(.16,1,.3,1) forwards}
 @keyframes draw{to{stroke-dashoffset:0}}
 .sheen{animation:sheen 9s ease-in-out 2.5s infinite}
-@keyframes sheen{0%{transform:translateX(0)}55%,100%{transform:translateX(760px)}}
+@keyframes sheen{0%{transform:translateX(0)}55%,100%{transform:translateX(756px)}}
 @media (prefers-reduced-motion:reduce){
   .rv,.draw,.grow{animation:none;opacity:1;transform:none;stroke-dashoffset:0}
   .sheen{animation:none;opacity:0}
@@ -35,7 +35,7 @@
   <text x="22" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#cbb59d">COMMITS · PAST YEAR</text>
   <line x1="165" y1="84" x2="400" y2="84"
         stroke="#3a342d" stroke-width="1" stroke-dasharray="1 4"/>
-  <text x="474" y="91" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#E8DFD8">796</text>
+  <text x="474" y="91" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#E8DFD8">807</text>
 </g>
 <g class="rv" style="animation-delay:0.63s">
   <text x="22" y="130" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#cbb59d">PULL REQUESTS</text>
@@ -47,7 +47,7 @@
   <text x="22" y="172" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#cbb59d">REPOSITORIES</text>
   <line x1="113" y1="168" x2="400" y2="168"
         stroke="#3a342d" stroke-width="1" stroke-dasharray="1 4"/>
-  <text x="474" y="175" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#E8DFD8">25</text>
+  <text x="474" y="175" text-anchor="end" font-family="Georgia,'Times New Roman','Nimbus Roman',serif" font-size="30" fill="#E8DFD8">28</text>
 </g>
 <g class="rv" style="animation-delay:0.89s">
   <text x="22" y="214" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2.2" fill="#cbb59d">YEARS SHIPPING</text>

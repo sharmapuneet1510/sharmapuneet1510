@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1008 250" width="1008" height="250" role="img" aria-label="Tools and platforms I work in">
+<title>The stack</title>
+<defs><style type="text/css"><![CDATA[
+.rv{opacity:0;animation:rv .9s cubic-bezier(.16,1,.3,1) forwards}
+@keyframes rv{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.draw{stroke-dasharray:1108;stroke-dashoffset:1108;animation:draw 1.4s cubic-bezier(.16,1,.3,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.sheen{animation:sheen 9s ease-in-out 2.5s infinite}
+@keyframes sheen{0%{transform:translateX(0)}55%,100%{transform:translateX(1268px)}}
+@media (prefers-reduced-motion:reduce){
+  .rv,.draw,.grow{animation:none;opacity:1;transform:none;stroke-dashoffset:0}
+  .sheen{animation:none;opacity:0}
+}
+]]></style>
+<clipPath id="cardclip"><rect x="1" y="1" width="1006" height="248" rx="3"/></clipPath>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#1a1613" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#1a1613" stop-opacity=".05"/>
+  <stop offset="100%" stop-color="#1a1613" stop-opacity="0"/>
+</linearGradient>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="7"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="1.4"/></feComponentTransfer><feComposite operator="in" in2="SourceGraphic"/></filter>
+</defs>
+<rect width="1008" height="250" fill="#F4EEE7"/>
+
+<rect x="1" y="1" width="1006" height="248" rx="3" fill="#FBF7F2" stroke="#d8cec1"/>
+<rect x="1" y="1" width="1006" height="3" fill="#9a7818" opacity=".55"/>
+<text class="rv" style="animation-delay:.15s" x="22" y="38" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11"
+      letter-spacing="3.2" fill="#9a7818">THE STACK</text>
+<line class="draw" style="animation-delay:.3s" x1="22" y1="52" x2="986" y2="52"
+      stroke="#d8cec1" stroke-width="1"/>
+<g clip-path="url(#cardclip)"><rect class="sheen" x="-200" y="0" width="150" height="250" fill="url(#sheen)"/></g>
+
+
+<g class="rv" style="animation-delay:0.50s">
+  <text x="22" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.4" fill="#9a7818">LANGUAGES</text>
+  <line x1="22" y1="95" x2="315" y2="95" stroke="#d8cec1" stroke-width="1"/>
+  <text x="22" y="108" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">Java · Python · TypeScript · JavaScript · Go</text>
+</g>
+<g class="rv" style="animation-delay:0.60s">
+  <text x="343" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.4" fill="#9a7818">BACKEND</text>
+  <line x1="343" y1="95" x2="636" y2="95" stroke="#d8cec1" stroke-width="1"/>
+  <text x="343" y="108" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">Spring Boot · FastAPI · Node.js</text>
+</g>
+<g class="rv" style="animation-delay:0.70s">
+  <text x="664" y="88" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.4" fill="#9a7818">DATA &amp; MESSAGING</text>
+  <line x1="664" y1="95" x2="957" y2="95" stroke="#d8cec1" stroke-width="1"/>
+  <text x="664" y="108" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">PostgreSQL · Kafka · Redis · MongoDB</text><text x="664" y="125" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">Elasticsearch · Neo4j · MSSQL</text>
+</g>
+<g class="rv" style="animation-delay:0.80s">
+  <text x="22" y="172" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.4" fill="#9a7818">INFRASTRUCTURE</text>
+  <line x1="22" y1="179" x2="315" y2="179" stroke="#d8cec1" stroke-width="1"/>
+  <text x="22" y="192" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">Docker · Kubernetes · AWS · GCP · Azure</text>
+</g>
+<g class="rv" style="animation-delay:0.90s">
+  <text x="343" y="172" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.4" fill="#9a7818">FRONTEND</text>
+  <line x1="343" y1="179" x2="636" y2="179" stroke="#d8cec1" stroke-width="1"/>
+  <text x="343" y="192" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">React · Next.js · Tailwind · Electron</text>
+</g>
+<g class="rv" style="animation-delay:1.00s">
+  <text x="664" y="172" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2.4" fill="#9a7818">AI &amp; LLM</text>
+  <line x1="664" y1="179" x2="957" y2="179" stroke="#d8cec1" stroke-width="1"/>
+  <text x="664" y="192" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">LangChain · RAG · Vector databases · Claude</text><text x="664" y="209" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#1a1613">OpenAI · Autonomous agents</text>
+</g>
+<rect width="1008" height="250" filter="url(#grain)" opacity="0.032" fill="#1a1613"/>
+</svg>
