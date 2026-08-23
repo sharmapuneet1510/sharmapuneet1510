@@ -78,7 +78,7 @@ window, a token budget, or a change of assistant.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapuneet1510&bg_color=00000000&color=cbb59d&line=D4AF37&point=E8DFD8&area=true&area_color=D4AF37&hide_border=true&custom_title=Contributions" alt="Contribution graph" width="96%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapuneet1510&bg_color=00000000&color=6b6259&title_color=6b6259&line=D4AF37&point=D4AF37&area=true&area_color=D4AF37&hide_border=true&custom_title=Contributions" alt="Contribution graph" width="96%">
 
 <br><br>
 
