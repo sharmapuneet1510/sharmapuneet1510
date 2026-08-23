@@ -21,6 +21,7 @@ jobs:
           github_user_name: sharmapuneet1510
           outputs: |
             dist/snake.svg?color_snake=#D4AF37&color_dots=#141210,#4a443d,#8a7a68,#cbb59d,#E8DFD8
+            dist/snake-light.svg?color_snake=#9a7818&color_dots=#eae2d7,#cbb59d,#b09a72,#9a7818,#6b5310
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

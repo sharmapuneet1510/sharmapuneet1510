@@ -82,7 +82,11 @@ window, a token budget, or a change of assistant.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/sharmapuneet1510/sharmapuneet1510/output/snake.svg" alt="Contribution snake" width="96%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharmapuneet1510/sharmapuneet1510/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharmapuneet1510/sharmapuneet1510/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/sharmapuneet1510/sharmapuneet1510/output/snake.svg" alt="Contribution snake" width="96%">
+</picture>
 
 </div>
 
