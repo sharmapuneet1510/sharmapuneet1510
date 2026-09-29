@@ -1,32 +1,32 @@
 {
-  "commits": 883,
-  "prs": 30,
+  "commits": 924,
+  "prs": 41,
   "repos": 26,
   "since": 2014,
   "langs": [
     {
       "name": "Python",
-      "pct": 53.5
+      "pct": 50.7
     },
     {
       "name": "HTML",
-      "pct": 28.0
+      "pct": 29.6
     },
     {
       "name": "TypeScript",
-      "pct": 9.8
+      "pct": 10.3
     },
     {
       "name": "Java",
-      "pct": 3.8
+      "pct": 4.0
     },
     {
       "name": "JavaScript",
-      "pct": 2.7
+      "pct": 2.9
     },
     {
       "name": "CSS",
-      "pct": 1.3
+      "pct": 1.4
     }
   ]
 }
