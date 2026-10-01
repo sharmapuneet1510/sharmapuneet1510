@@ -33,22 +33,22 @@
       stroke="#3a342d" stroke-width="1"/>
 <g clip-path="url(#cardclip)"><rect class="sheen" x="-200" y="0" width="150" height="236" fill="url(#sheen)"/></g>
 
-<rect class="grow" style="animation-delay:0.55s;transform-origin:22.0px 0" x="22.0" y="72" width="233.1" height="9" fill="#D4AF37"/><rect class="grow" style="animation-delay:0.64s;transform-origin:255.1px 0" x="255.1" y="72" width="134.1" height="9" fill="#b09a72"/><rect class="grow" style="animation-delay:0.73s;transform-origin:389.2px 0" x="389.2" y="72" width="47.0" height="9" fill="#8a7a68"/><rect class="grow" style="animation-delay:0.82s;transform-origin:436.1px 0" x="436.1" y="72" width="18.2" height="9" fill="#6b6259"/><rect class="grow" style="animation-delay:0.91s;transform-origin:454.4px 0" x="454.4" y="72" width="13.2" height="9" fill="#514a42"/><rect class="grow" style="animation-delay:1.00s;transform-origin:467.6px 0" x="467.6" y="72" width="6.4" height="9" fill="#3a342d"/>
+<rect class="grow" style="animation-delay:0.55s;transform-origin:22.0px 0" x="22.0" y="72" width="234.0" height="9" fill="#D4AF37"/><rect class="grow" style="animation-delay:0.64s;transform-origin:256.0px 0" x="256.0" y="72" width="133.5" height="9" fill="#b09a72"/><rect class="grow" style="animation-delay:0.73s;transform-origin:389.4px 0" x="389.4" y="72" width="46.6" height="9" fill="#8a7a68"/><rect class="grow" style="animation-delay:0.82s;transform-origin:436.1px 0" x="436.1" y="72" width="18.3" height="9" fill="#6b6259"/><rect class="grow" style="animation-delay:0.91s;transform-origin:454.3px 0" x="454.3" y="72" width="13.3" height="9" fill="#514a42"/><rect class="grow" style="animation-delay:1.00s;transform-origin:467.6px 0" x="467.6" y="72" width="6.4" height="9" fill="#3a342d"/>
 
 <g class="rv" style="animation-delay:0.85s">
   <rect x="22" y="107" width="9" height="9" fill="#D4AF37"/>
   <text x="40" y="116" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#cbb59d">Python</text>
-  <text x="230" y="116" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#E8DFD8">51.1%</text>
+  <text x="230" y="116" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#E8DFD8">51.2%</text>
 </g>
 <g class="rv" style="animation-delay:0.93s">
   <rect x="258" y="107" width="9" height="9" fill="#b09a72"/>
   <text x="276" y="116" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#cbb59d">HTML</text>
-  <text x="466" y="116" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#E8DFD8">29.4%</text>
+  <text x="466" y="116" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#E8DFD8">29.2%</text>
 </g>
 <g class="rv" style="animation-delay:1.01s">
   <rect x="22" y="141" width="9" height="9" fill="#8a7a68"/>
   <text x="40" y="150" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#cbb59d">TypeScript</text>
-  <text x="230" y="150" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#E8DFD8">10.3%</text>
+  <text x="230" y="150" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#E8DFD8">10.2%</text>
 </g>
 <g class="rv" style="animation-delay:1.09s">
   <rect x="258" y="141" width="9" height="9" fill="#6b6259"/>
