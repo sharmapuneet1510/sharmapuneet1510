@@ -220,7 +220,11 @@ deployment, with incident-driven workflows rather than a wall of live feeds.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmapuneet1510&bg_color=00000000&color=6b6259&title_color=6b6259&line=D4AF37&point=D4AF37&area=true&area_color=D4AF37&hide_border=true&custom_title=Contributions" alt="Contribution graph" width="96%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contrib-light.svg">
+  <img src="./assets/contrib-light.svg" alt="Contribution graph: last 12 months, with total contributions, current and longest streaks, and active days" width="96%">
+</picture>
 
 <br><br>
 
