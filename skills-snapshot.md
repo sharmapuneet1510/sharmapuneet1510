@@ -1,0 +1,818 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to content" [ref=e4] [cursor=pointer]:
+        - /url: "#start-of-content"
+      - banner [ref=e6]:
+        - heading "Navigation Menu" [level=2] [ref=e7]
+        - generic [ref=e8]:
+          - link "Homepage" [ref=e10] [cursor=pointer]:
+            - /url: /
+            - img [ref=e11]
+          - generic [ref=e13]:
+            - navigation "Global" [ref=e16]:
+              - list [ref=e17]:
+                - listitem [ref=e18]:
+                  - button "Platform" [ref=e20] [cursor=pointer]:
+                    - text: Platform
+                    - img [ref=e21]
+                - listitem [ref=e23]:
+                  - button "Solutions" [ref=e25] [cursor=pointer]:
+                    - text: Solutions
+                    - img [ref=e26]
+                - listitem [ref=e28]:
+                  - button "Resources" [ref=e30] [cursor=pointer]:
+                    - text: Resources
+                    - img [ref=e31]
+                - listitem [ref=e33]:
+                  - button "Open Source" [ref=e35] [cursor=pointer]:
+                    - text: Open Source
+                    - img [ref=e36]
+                - listitem [ref=e38]:
+                  - button "Enterprise" [ref=e40] [cursor=pointer]:
+                    - text: Enterprise
+                    - img [ref=e41]
+                - listitem [ref=e43]:
+                  - link "Pricing" [ref=e44] [cursor=pointer]:
+                    - /url: https://github.com/pricing
+                    - generic [ref=e45]: Pricing
+            - generic [ref=e46]:
+              - button "Search or jump to…" [ref=e49] [cursor=pointer]:
+                - img [ref=e51]
+              - link "Sign in" [ref=e54] [cursor=pointer]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fsharmapuneet1510%2Fawesome-prompts%2Ftree%2Fmain%2Fskills
+              - link "Sign up" [ref=e55] [cursor=pointer]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&source=header-repo&source_repo=sharmapuneet1510%2Fawesome-prompts
+              - button "Appearance settings" [ref=e58] [cursor=pointer]:
+                - img
+    - main [ref=e62]:
+      - generic [ref=e63]:
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - img [ref=e67]
+            - link "sharmapuneet1510" [ref=e70] [cursor=pointer]:
+              - /url: /sharmapuneet1510
+            - generic [ref=e71]: /
+            - strong [ref=e72]:
+              - link "awesome-prompts" [ref=e73] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts
+            - generic [ref=e74]: Public
+          - generic [ref=e75]:
+            - list:
+              - listitem [ref=e76]:
+                - link "You must be signed in to change notification settings" [ref=e77] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                  - img [ref=e78]
+                  - text: Notifications
+              - listitem [ref=e80]:
+                - link "Fork 0" [ref=e81] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                  - img [ref=e82]
+                  - text: Fork
+                  - generic "0" [ref=e84]
+              - listitem [ref=e85]:
+                - link "You must be signed in to star a repository" [ref=e87] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                  - img [ref=e88]
+                  - text: Star
+                  - generic "2 users starred this repository" [ref=e90]: "2"
+        - navigation "Repository" [ref=e91]:
+          - list [ref=e92]:
+            - listitem [ref=e93]:
+              - link "Code" [ref=e94] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts
+                - img [ref=e95]
+                - generic [ref=e97]: Code
+            - listitem [ref=e98]:
+              - link "Issues" [ref=e99] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/issues
+                - img [ref=e100]
+                - generic [ref=e103]: Issues
+            - listitem [ref=e104]:
+              - link "Pull requests" [ref=e105] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/pulls
+                - img [ref=e106]
+                - generic [ref=e108]: Pull requests
+            - listitem [ref=e109]:
+              - link "Actions" [ref=e110] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/actions
+                - img [ref=e111]
+                - generic [ref=e113]: Actions
+            - listitem [ref=e114]:
+              - link "Projects" [ref=e115] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/projects
+                - img [ref=e116]
+                - generic [ref=e118]: Projects
+            - listitem [ref=e119]:
+              - link "Security and quality" [ref=e120] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/security
+                - img [ref=e121]
+                - generic [ref=e123]: Security and quality
+            - listitem [ref=e124]:
+              - link "Insights" [ref=e125] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/pulse
+                - img [ref=e126]
+                - generic [ref=e128]: Insights
+      - generic [ref=e136]:
+        - generic [ref=e138]:
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - generic [ref=e143]:
+                - heading "Collapse file tree" [level=2] [ref=e144]:
+                  - button "Collapse file tree" [expanded] [ref=e145] [cursor=pointer]:
+                    - img [ref=e146]
+                - heading "Files" [level=2] [ref=e149]
+              - generic [ref=e150]:
+                - button "main branch" [ref=e152] [cursor=pointer]:
+                  - generic [ref=e153]:
+                    - generic [ref=e155]:
+                      - img [ref=e157]
+                      - generic [ref=e160]: main
+                    - generic:
+                      - img
+                - button "Search this repository (forward slash)" [ref=e162] [cursor=pointer]:
+                  - img [ref=e163]
+            - generic [ref=e166]:
+              - img [ref=e168]
+              - combobox "Go to file" [ref=e170]
+            - navigation "File Tree Navigation" [ref=e176]:
+              - tree "Files" [ref=e178]:
+                - treeitem ".claude" [level=1] [ref=e179]:
+                  - generic [ref=e180] [cursor=pointer]:
+                    - img [ref=e182]
+                    - generic [ref=e184]:
+                      - img [ref=e188]
+                      - generic [ref=e190]: .claude
+                - treeitem "agents" [level=1] [ref=e191]:
+                  - generic [ref=e192] [cursor=pointer]:
+                    - img [ref=e194]
+                    - generic [ref=e196]:
+                      - img [ref=e200]
+                      - generic [ref=e202]: agents
+                - treeitem "docs" [level=1] [ref=e203]:
+                  - generic [ref=e204] [cursor=pointer]:
+                    - img [ref=e206]
+                    - generic [ref=e208]:
+                      - img [ref=e212]
+                      - generic [ref=e214]: docs
+                - treeitem "graphify-out" [level=1] [ref=e215]:
+                  - generic [ref=e216] [cursor=pointer]:
+                    - img [ref=e218]
+                    - generic [ref=e220]:
+                      - img [ref=e224]
+                      - generic [ref=e226]: graphify-out
+                - treeitem "instructions" [level=1] [ref=e227]:
+                  - generic [ref=e228] [cursor=pointer]:
+                    - img [ref=e230]
+                    - generic [ref=e232]:
+                      - img [ref=e236]
+                      - generic [ref=e238]: instructions
+                - treeitem "prompts" [level=1] [ref=e239]:
+                  - generic [ref=e240] [cursor=pointer]:
+                    - img [ref=e242]
+                    - generic [ref=e244]:
+                      - img [ref=e248]
+                      - generic [ref=e250]: prompts
+                - treeitem "skills" [expanded] [level=1] [ref=e251]:
+                  - generic [ref=e252] [cursor=pointer]:
+                    - img [ref=e254]
+                    - generic [ref=e256]:
+                      - img [ref=e260]
+                      - generic [ref=e262]: skills
+                  - group "skills" [ref=e263]:
+                    - treeitem "apache_camel_skill.md" [level=2] [ref=e264]:
+                      - generic [ref=e269] [cursor=pointer]:
+                        - img [ref=e272]
+                        - generic [ref=e274]: apache_camel_skill.md
+                    - treeitem "apache_pulsar_skill.md" [level=2] [ref=e275]:
+                      - generic [ref=e280] [cursor=pointer]:
+                        - img [ref=e283]
+                        - generic [ref=e285]: apache_pulsar_skill.md
+                    - treeitem "backend_skill.md" [level=2] [ref=e286]:
+                      - generic [ref=e291] [cursor=pointer]:
+                        - img [ref=e294]
+                        - generic [ref=e296]: backend_skill.md
+                    - treeitem "camel_exception_handling_skill.md" [level=2] [ref=e297]:
+                      - generic [ref=e302] [cursor=pointer]:
+                        - img [ref=e305]
+                        - generic [ref=e307]: camel_exception_handling_skill.md
+                    - treeitem "camel_pulsar_integration_skill.md" [level=2] [ref=e308]:
+                      - generic [ref=e313] [cursor=pointer]:
+                        - img [ref=e316]
+                        - generic [ref=e318]: camel_pulsar_integration_skill.md
+                    - treeitem "code_documentation_skill.md" [level=2] [ref=e319]:
+                      - generic [ref=e324] [cursor=pointer]:
+                        - img [ref=e327]
+                        - generic [ref=e329]: code_documentation_skill.md
+                    - treeitem "code_formatting_skill.md" [level=2] [ref=e330]:
+                      - generic [ref=e335] [cursor=pointer]:
+                        - img [ref=e338]
+                        - generic [ref=e340]: code_formatting_skill.md
+                    - treeitem "code_health_skill.md" [level=2] [ref=e341]:
+                      - generic [ref=e346] [cursor=pointer]:
+                        - img [ref=e349]
+                        - generic [ref=e351]: code_health_skill.md
+                    - treeitem "context_builder_skill.md" [level=2] [ref=e352]:
+                      - generic [ref=e357] [cursor=pointer]:
+                        - img [ref=e360]
+                        - generic [ref=e362]: context_builder_skill.md
+                    - treeitem "database_skill.md" [level=2] [ref=e363]:
+                      - generic [ref=e368] [cursor=pointer]:
+                        - img [ref=e371]
+                        - generic [ref=e373]: database_skill.md
+                    - treeitem "documentation_skill.md" [level=2] [ref=e374]:
+                      - generic [ref=e379] [cursor=pointer]:
+                        - img [ref=e382]
+                        - generic [ref=e384]: documentation_skill.md
+                    - treeitem "error_handling_skill.md" [level=2] [ref=e385]:
+                      - generic [ref=e390] [cursor=pointer]:
+                        - img [ref=e393]
+                        - generic [ref=e395]: error_handling_skill.md
+                    - treeitem "frontend_skill.md" [level=2] [ref=e396]:
+                      - generic [ref=e401] [cursor=pointer]:
+                        - img [ref=e404]
+                        - generic [ref=e406]: frontend_skill.md
+                    - treeitem "java11_skill.md" [level=2] [ref=e407]:
+                      - generic [ref=e412] [cursor=pointer]:
+                        - img [ref=e415]
+                        - generic [ref=e417]: java11_skill.md
+                    - treeitem "java17_skill.md" [level=2] [ref=e418]:
+                      - generic [ref=e423] [cursor=pointer]:
+                        - img [ref=e426]
+                        - generic [ref=e428]: java17_skill.md
+                    - treeitem "java_advanced_skill.md" [level=2] [ref=e429]:
+                      - generic [ref=e434] [cursor=pointer]:
+                        - img [ref=e437]
+                        - generic [ref=e439]: java_advanced_skill.md
+                    - treeitem "logger_skill.md" [level=2] [ref=e440]:
+                      - generic [ref=e445] [cursor=pointer]:
+                        - img [ref=e448]
+                        - generic [ref=e450]: logger_skill.md
+                    - treeitem "lombok_skill.md" [level=2] [ref=e451]:
+                      - generic [ref=e456] [cursor=pointer]:
+                        - img [ref=e459]
+                        - generic [ref=e461]: lombok_skill.md
+                    - treeitem "mssql_advanced_skill.md" [level=2] [ref=e462]:
+                      - generic [ref=e467] [cursor=pointer]:
+                        - img [ref=e470]
+                        - generic [ref=e472]: mssql_advanced_skill.md
+                    - treeitem "oop_skill.md" [level=2] [ref=e473]:
+                      - generic [ref=e478] [cursor=pointer]:
+                        - img [ref=e481]
+                        - generic [ref=e483]: oop_skill.md
+                    - treeitem "opentelemetry_skill.md" [level=2] [ref=e484]:
+                      - generic [ref=e489] [cursor=pointer]:
+                        - img [ref=e492]
+                        - generic [ref=e494]: opentelemetry_skill.md
+                    - treeitem "python_advanced_skill.md" [level=2] [ref=e495]:
+                      - generic [ref=e500] [cursor=pointer]:
+                        - img [ref=e503]
+                        - generic [ref=e505]: python_advanced_skill.md
+                    - treeitem "react_advanced_skill.md" [level=2] [ref=e506]:
+                      - generic [ref=e511] [cursor=pointer]:
+                        - img [ref=e514]
+                        - generic [ref=e516]: react_advanced_skill.md
+                    - treeitem "rest_api_java_skill.md" [level=2] [ref=e517]:
+                      - generic [ref=e522] [cursor=pointer]:
+                        - img [ref=e525]
+                        - generic [ref=e527]: rest_api_java_skill.md
+                    - treeitem "rest_api_python_skill.md" [level=2] [ref=e528]:
+                      - generic [ref=e533] [cursor=pointer]:
+                        - img [ref=e536]
+                        - generic [ref=e538]: rest_api_python_skill.md
+                    - treeitem "sonarqube_vulnerability_skill.md" [level=2] [ref=e539]:
+                      - generic [ref=e544] [cursor=pointer]:
+                        - img [ref=e547]
+                        - generic [ref=e549]: sonarqube_vulnerability_skill.md
+                    - treeitem "spring_advanced_skill.md" [level=2] [ref=e550]:
+                      - generic [ref=e555] [cursor=pointer]:
+                        - img [ref=e558]
+                        - generic [ref=e560]: spring_advanced_skill.md
+                    - treeitem "spring_camel_integration_skill.md" [level=2] [ref=e561]:
+                      - generic [ref=e566] [cursor=pointer]:
+                        - img [ref=e569]
+                        - generic [ref=e571]: spring_camel_integration_skill.md
+                    - treeitem "test_skill.md" [level=2] [ref=e572]:
+                      - generic [ref=e577] [cursor=pointer]:
+                        - img [ref=e580]
+                        - generic [ref=e582]: test_skill.md
+                    - treeitem "testing_junit5_skill.md" [level=2] [ref=e583]:
+                      - generic [ref=e588] [cursor=pointer]:
+                        - img [ref=e591]
+                        - generic [ref=e593]: testing_junit5_skill.md
+                    - treeitem "testing_pytest_skill.md" [level=2] [ref=e594]:
+                      - generic [ref=e599] [cursor=pointer]:
+                        - img [ref=e602]
+                        - generic [ref=e604]: testing_pytest_skill.md
+                    - treeitem "testing_react_skill.md" [level=2] [ref=e605]:
+                      - generic [ref=e610] [cursor=pointer]:
+                        - img [ref=e613]
+                        - generic [ref=e615]: testing_react_skill.md
+                - treeitem "tests" [level=1] [ref=e616]:
+                  - generic [ref=e617] [cursor=pointer]:
+                    - img [ref=e619]
+                    - generic [ref=e621]:
+                      - img [ref=e625]
+                      - generic [ref=e627]: tests
+                - treeitem "tools" [level=1] [ref=e628]:
+                  - generic [ref=e629] [cursor=pointer]:
+                    - img [ref=e631]
+                    - generic [ref=e633]:
+                      - img [ref=e637]
+                      - generic [ref=e639]: tools
+                - treeitem ".cursorrules" [level=1] [ref=e640]:
+                  - generic [ref=e642] [cursor=pointer]:
+                    - img [ref=e645]
+                    - generic [ref=e647]: .cursorrules
+                - treeitem ".env.example" [level=1] [ref=e648]:
+                  - generic [ref=e650] [cursor=pointer]:
+                    - img [ref=e653]
+                    - generic [ref=e655]: .env.example
+                - treeitem ".gitignore" [level=1] [ref=e656]:
+                  - generic [ref=e658] [cursor=pointer]:
+                    - img [ref=e661]
+                    - generic [ref=e663]: .gitignore
+                - treeitem "AGENTS.md" [level=1] [ref=e664]:
+                  - generic [ref=e666] [cursor=pointer]:
+                    - img [ref=e669]
+                    - generic [ref=e671]: AGENTS.md
+                - treeitem "AUTONOMOUS_DEVELOPER_README.md" [level=1] [ref=e672]:
+                  - generic [ref=e674] [cursor=pointer]:
+                    - img [ref=e677]
+                    - generic [ref=e679]: AUTONOMOUS_DEVELOPER_README.md
+                - treeitem "CLAUDE.md" [level=1] [ref=e680]:
+                  - generic [ref=e682] [cursor=pointer]:
+                    - img [ref=e685]
+                    - generic [ref=e687]: CLAUDE.md
+                - treeitem "NEW_FEATURES_SUMMARY.md" [level=1] [ref=e688]:
+                  - generic [ref=e690] [cursor=pointer]:
+                    - img [ref=e693]
+                    - generic [ref=e695]: NEW_FEATURES_SUMMARY.md
+                - treeitem "README.md" [level=1] [ref=e696]:
+                  - generic [ref=e698] [cursor=pointer]:
+                    - img [ref=e701]
+                    - generic [ref=e703]: README.md
+                - treeitem "SETUP_GUIDE.md" [level=1] [ref=e704]:
+                  - generic [ref=e706] [cursor=pointer]:
+                    - img [ref=e709]
+                    - generic [ref=e711]: SETUP_GUIDE.md
+                - treeitem "SHARING_CHECKLIST.md" [level=1] [ref=e712]:
+                  - generic [ref=e714] [cursor=pointer]:
+                    - img [ref=e717]
+                    - generic [ref=e719]: SHARING_CHECKLIST.md
+          - slider "Draggable pane splitter" [ref=e721]
+        - generic [ref=e724]:
+          - generic [ref=e728]:
+            - generic [ref=e730]:
+              - navigation "Breadcrumbs" [ref=e731]:
+                - heading "Breadcrumbs" [level=2] [ref=e732]
+                - list [ref=e733]:
+                  - listitem [ref=e734]:
+                    - link "awesome-prompts" [ref=e735] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/tree/main
+              - generic [ref=e736]:
+                - text: /
+                - heading "skills" [level=1] [ref=e737]
+                - text: /
+              - button "Copy path" [ref=e738] [cursor=pointer]:
+                - img [ref=e739]
+            - generic [ref=e744]:
+              - heading "Directory actions" [level=2] [ref=e745]
+              - heading "More options" [level=2] [ref=e746]
+              - button "More options" [ref=e747] [cursor=pointer]:
+                - img [ref=e748]
+          - generic [ref=e750]:
+            - generic [ref=e752]:
+              - heading "Latest commit" [level=2] [ref=e753]
+              - generic [ref=e1232]:
+                - generic [ref=e1234]:
+                  - link "sharmapuneet1510" [ref=e1235] [cursor=pointer]:
+                    - /url: /sharmapuneet1510
+                    - img "sharmapuneet1510" [ref=e1236]
+                  - link "commits by sharmapuneet1510" [ref=e1237] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/commits?author=sharmapuneet1510
+                    - text: sharmapuneet1510
+                - generic [ref=e1238]:
+                  - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1241] [cursor=pointer]':
+                    - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                  - button "Open commit details" [ref=e1242] [cursor=pointer]:
+                    - img [ref=e1243]
+              - generic [ref=e755]:
+                - generic [ref=e1246]:
+                  - link "Commit 47b83f6" [ref=e1247] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                    - text: 47b83f6
+                  - text: ·
+                  - generic "May 20, 2026, 5:06 PM GMT+9" [ref=e1248]: May 20, 20262 hours ago
+                - generic [ref=e756]:
+                  - heading "History" [level=2] [ref=e757]
+                  - link "History" [ref=e758] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/commits/main/skills
+                    - generic [ref=e759]:
+                      - generic:
+                        - img
+                      - generic [ref=e760]: History
+            - generic [ref=e762]:
+              - heading "Folders and files" [level=2] [ref=e763]
+              - table "Folders and files" [ref=e764]:
+                - rowgroup [ref=e765]:
+                  - row "Name Last commit message Last commit date" [ref=e766]:
+                    - columnheader "Name" [ref=e767]
+                    - columnheader "Last commit message" [ref=e768]:
+                      - generic "Last commit message" [ref=e769]
+                    - columnheader "Last commit date" [ref=e770]:
+                      - generic "Last commit date" [ref=e771]
+                - rowgroup [ref=e772]:
+                  - row "parent directory Parent directory" [ref=e773]:
+                    - cell "parent directory Parent directory" [ref=e774]:
+                      - heading "parent directory" [level=3] [ref=e775]
+                      - link "Parent directory" [ref=e776] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/tree/main
+                        - generic [ref=e777]:
+                          - img [ref=e778]
+                          - text: ..
+                  - row "apache_camel_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1249]:
+                    - cell "apache_camel_skill.md, (File)" [ref=e781]:
+                      - generic [ref=e782]:
+                        - img [ref=e783]
+                        - link "apache_camel_skill.md, (File)" [ref=e788] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/apache_camel_skill.md
+                          - text: apache_camel_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1250]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1253] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1254]:
+                      - generic [ref=e792]: Apr 3, 2026last month
+                  - row "apache_pulsar_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1255]:
+                    - cell "apache_pulsar_skill.md, (File)" [ref=e795]:
+                      - generic [ref=e796]:
+                        - img [ref=e797]
+                        - link "apache_pulsar_skill.md, (File)" [ref=e802] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/apache_pulsar_skill.md
+                          - text: apache_pulsar_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1256]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1259] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1260]:
+                      - generic [ref=e806]: Apr 3, 2026last month
+                  - 'row "backend_skill.md, (File) feat: create backend API generation skill May 20, 20266 hours ago" [ref=e1261]':
+                    - cell "backend_skill.md, (File)" [ref=e809]:
+                      - generic [ref=e810]:
+                        - img [ref=e811]
+                        - link "backend_skill.md, (File)" [ref=e816] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/backend_skill.md
+                          - text: backend_skill.md
+                    - 'cell "feat: create backend API generation skill" [ref=e1262]':
+                      - 'link "feat: create backend API generation skill" [ref=e1265] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/16053d5016c6d46feaf809ac1741d9f8ae17ed34
+                    - cell "May 20, 20266 hours ago" [ref=e1266]:
+                      - generic [ref=e820]: May 20, 20266 hours ago
+                  - row "camel_exception_handling_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1267]:
+                    - cell "camel_exception_handling_skill.md, (File)" [ref=e823]:
+                      - generic [ref=e824]:
+                        - img [ref=e825]
+                        - link "camel_exception_handling_skill.md, (File)" [ref=e830] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/camel_exception_handling_skill.md
+                          - text: camel_exception_handling_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1268]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1271] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1272]:
+                      - generic [ref=e834]: Apr 3, 2026last month
+                  - row "camel_pulsar_integration_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1273]:
+                    - cell "camel_pulsar_integration_skill.md, (File)" [ref=e837]:
+                      - generic [ref=e838]:
+                        - img [ref=e839]
+                        - link "camel_pulsar_integration_skill.md, (File)" [ref=e844] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/camel_pulsar_integration_skill.md
+                          - text: camel_pulsar_integration_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1274]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1277] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1278]:
+                      - generic [ref=e848]: Apr 3, 2026last month
+                  - 'row "code_documentation_skill.md, (File) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1279]':
+                    - cell "code_documentation_skill.md, (File)" [ref=e851]:
+                      - generic [ref=e852]:
+                        - img [ref=e853]
+                        - link "code_documentation_skill.md, (File)" [ref=e858] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/code_documentation_skill.md
+                          - text: code_documentation_skill.md
+                    - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1280]':
+                      - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1283] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                    - cell "May 20, 20262 hours ago" [ref=e1284]:
+                      - generic [ref=e862]: May 20, 20262 hours ago
+                  - row "code_formatting_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1285]:
+                    - cell "code_formatting_skill.md, (File)" [ref=e865]:
+                      - generic [ref=e866]:
+                        - img [ref=e867]
+                        - link "code_formatting_skill.md, (File)" [ref=e872] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/code_formatting_skill.md
+                          - text: code_formatting_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1286]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1289] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1290]:
+                      - generic [ref=e876]: Apr 3, 2026last month
+                  - row "code_health_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1291]:
+                    - cell "code_health_skill.md, (File)" [ref=e879]:
+                      - generic [ref=e880]:
+                        - img [ref=e881]
+                        - link "code_health_skill.md, (File)" [ref=e886] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/code_health_skill.md
+                          - text: code_health_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1292]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1295] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1296]:
+                      - generic [ref=e890]: Apr 3, 2026last month
+                  - 'row "context_builder_skill.md, (File) refactor: move context building to reusable skill + simplify agent May 20, 20263 hours ago" [ref=e1297]':
+                    - cell "context_builder_skill.md, (File)" [ref=e893]:
+                      - generic [ref=e894]:
+                        - img [ref=e895]
+                        - link "context_builder_skill.md, (File)" [ref=e900] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/context_builder_skill.md
+                          - text: context_builder_skill.md
+                    - 'cell "refactor: move context building to reusable skill + simplify agent" [ref=e1298]':
+                      - 'link "refactor: move context building to reusable skill + simplify agent" [ref=e1301] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/3a8602f0d151a4a3ac5134b160c4544406102a71
+                    - cell "May 20, 20263 hours ago" [ref=e1302]:
+                      - generic [ref=e904]: May 20, 20263 hours ago
+                  - 'row "database_skill.md, (File) feat: create database schema generation skill May 20, 20266 hours ago" [ref=e1303]':
+                    - cell "database_skill.md, (File)" [ref=e907]:
+                      - generic [ref=e908]:
+                        - img [ref=e909]
+                        - link "database_skill.md, (File)" [ref=e914] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/database_skill.md
+                          - text: database_skill.md
+                    - 'cell "feat: create database schema generation skill" [ref=e1304]':
+                      - 'link "feat: create database schema generation skill" [ref=e1307] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/0d759fbe6dbd97e3c8fd043cc3c39823d84c970d
+                    - cell "May 20, 20266 hours ago" [ref=e1308]:
+                      - generic [ref=e918]: May 20, 20266 hours ago
+                  - row "documentation_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1309]:
+                    - cell "documentation_skill.md, (File)" [ref=e921]:
+                      - generic [ref=e922]:
+                        - img [ref=e923]
+                        - link "documentation_skill.md, (File)" [ref=e928] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/documentation_skill.md
+                          - text: documentation_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1310]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1313] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1314]:
+                      - generic [ref=e932]: Apr 3, 2026last month
+                  - row "error_handling_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1315]:
+                    - cell "error_handling_skill.md, (File)" [ref=e935]:
+                      - generic [ref=e936]:
+                        - img [ref=e937]
+                        - link "error_handling_skill.md, (File)" [ref=e942] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/error_handling_skill.md
+                          - text: error_handling_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1316]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1319] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1320]:
+                      - generic [ref=e946]: Apr 3, 2026last month
+                  - 'row "frontend_skill.md, (File) feat: create frontend UI generation skill May 20, 20266 hours ago" [ref=e1321]':
+                    - cell "frontend_skill.md, (File)" [ref=e949]:
+                      - generic [ref=e950]:
+                        - img [ref=e951]
+                        - link "frontend_skill.md, (File)" [ref=e956] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/frontend_skill.md
+                          - text: frontend_skill.md
+                    - 'cell "feat: create frontend UI generation skill" [ref=e1322]':
+                      - 'link "feat: create frontend UI generation skill" [ref=e1325] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/88e6862e95a965dc9dfcdabd3ea77893d4dcd51a
+                    - cell "May 20, 20266 hours ago" [ref=e1326]:
+                      - generic [ref=e960]: May 20, 20266 hours ago
+                  - row "java11_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1327]:
+                    - cell "java11_skill.md, (File)" [ref=e963]:
+                      - generic [ref=e964]:
+                        - img [ref=e965]
+                        - link "java11_skill.md, (File)" [ref=e970] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/java11_skill.md
+                          - text: java11_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1328]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1331] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1332]:
+                      - generic [ref=e974]: Apr 3, 2026last month
+                  - row "java17_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1333]:
+                    - cell "java17_skill.md, (File)" [ref=e977]:
+                      - generic [ref=e978]:
+                        - img [ref=e979]
+                        - link "java17_skill.md, (File)" [ref=e984] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/java17_skill.md
+                          - text: java17_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1334]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1337] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1338]:
+                      - generic [ref=e988]: Apr 3, 2026last month
+                  - row "java_advanced_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1339]:
+                    - cell "java_advanced_skill.md, (File)" [ref=e991]:
+                      - generic [ref=e992]:
+                        - img [ref=e993]
+                        - link "java_advanced_skill.md, (File)" [ref=e998] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/java_advanced_skill.md
+                          - text: java_advanced_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1340]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1343] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1344]:
+                      - generic [ref=e1002]: Apr 3, 2026last month
+                  - row "logger_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1345]:
+                    - cell "logger_skill.md, (File)" [ref=e1005]:
+                      - generic [ref=e1006]:
+                        - img [ref=e1007]
+                        - link "logger_skill.md, (File)" [ref=e1012] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/logger_skill.md
+                          - text: logger_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1346]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1349] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1350]:
+                      - generic [ref=e1016]: Apr 3, 2026last month
+                  - row "lombok_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1351]:
+                    - cell "lombok_skill.md, (File)" [ref=e1019]:
+                      - generic [ref=e1020]:
+                        - img [ref=e1021]
+                        - link "lombok_skill.md, (File)" [ref=e1026] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/lombok_skill.md
+                          - text: lombok_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1352]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1355] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1356]:
+                      - generic [ref=e1030]: Apr 3, 2026last month
+                  - row "mssql_advanced_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1357]:
+                    - cell "mssql_advanced_skill.md, (File)" [ref=e1033]:
+                      - generic [ref=e1034]:
+                        - img [ref=e1035]
+                        - link "mssql_advanced_skill.md, (File)" [ref=e1040] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/mssql_advanced_skill.md
+                          - text: mssql_advanced_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1358]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1361] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1362]:
+                      - generic [ref=e1044]: Apr 3, 2026last month
+                  - row "oop_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1363]:
+                    - cell "oop_skill.md, (File)" [ref=e1047]:
+                      - generic [ref=e1048]:
+                        - img [ref=e1049]
+                        - link "oop_skill.md, (File)" [ref=e1054] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/oop_skill.md
+                          - text: oop_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1364]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1367] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1368]:
+                      - generic [ref=e1058]: Apr 3, 2026last month
+                  - row "opentelemetry_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1369]:
+                    - cell "opentelemetry_skill.md, (File)" [ref=e1061]:
+                      - generic [ref=e1062]:
+                        - img [ref=e1063]
+                        - link "opentelemetry_skill.md, (File)" [ref=e1068] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/opentelemetry_skill.md
+                          - text: opentelemetry_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1370]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1373] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1374]:
+                      - generic [ref=e1072]: Apr 3, 2026last month
+                  - row "python_advanced_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1375]:
+                    - cell "python_advanced_skill.md, (File)" [ref=e1075]:
+                      - generic [ref=e1076]:
+                        - img [ref=e1077]
+                        - link "python_advanced_skill.md, (File)" [ref=e1082] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/python_advanced_skill.md
+                          - text: python_advanced_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1376]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1379] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1380]:
+                      - generic [ref=e1086]: Apr 3, 2026last month
+                  - row "react_advanced_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1381]:
+                    - cell "react_advanced_skill.md, (File)" [ref=e1089]:
+                      - generic [ref=e1090]:
+                        - img [ref=e1091]
+                        - link "react_advanced_skill.md, (File)" [ref=e1096] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/react_advanced_skill.md
+                          - text: react_advanced_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1382]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1385] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1386]:
+                      - generic [ref=e1100]: Apr 3, 2026last month
+                  - row "rest_api_java_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1387]:
+                    - cell "rest_api_java_skill.md, (File)" [ref=e1103]:
+                      - generic [ref=e1104]:
+                        - img [ref=e1105]
+                        - link "rest_api_java_skill.md, (File)" [ref=e1110] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/rest_api_java_skill.md
+                          - text: rest_api_java_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1388]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1391] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1392]:
+                      - generic [ref=e1114]: Apr 3, 2026last month
+                  - row "rest_api_python_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1393]:
+                    - cell "rest_api_python_skill.md, (File)" [ref=e1117]:
+                      - generic [ref=e1118]:
+                        - img [ref=e1119]
+                        - link "rest_api_python_skill.md, (File)" [ref=e1124] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/rest_api_python_skill.md
+                          - text: rest_api_python_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1394]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1397] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1398]:
+                      - generic [ref=e1128]: Apr 3, 2026last month
+                  - row "sonarqube_vulnerability_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1399]:
+                    - cell "sonarqube_vulnerability_skill.md, (File)" [ref=e1131]:
+                      - generic [ref=e1132]:
+                        - img [ref=e1133]
+                        - link "sonarqube_vulnerability_skill.md, (File)" [ref=e1138] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/sonarqube_vulnerability_skill.md
+                          - text: sonarqube_vulnerability_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1400]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1403] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1404]:
+                      - generic [ref=e1142]: Apr 3, 2026last month
+                  - row "spring_advanced_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1405]:
+                    - cell "spring_advanced_skill.md, (File)" [ref=e1145]:
+                      - generic [ref=e1146]:
+                        - img [ref=e1147]
+                        - link "spring_advanced_skill.md, (File)" [ref=e1152] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/spring_advanced_skill.md
+                          - text: spring_advanced_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1406]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1409] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1410]:
+                      - generic [ref=e1156]: Apr 3, 2026last month
+                  - row "spring_camel_integration_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1411]:
+                    - cell "spring_camel_integration_skill.md, (File)" [ref=e1159]:
+                      - generic [ref=e1160]:
+                        - img [ref=e1161]
+                        - link "spring_camel_integration_skill.md, (File)" [ref=e1166] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/spring_camel_integration_skill.md
+                          - text: spring_camel_integration_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1412]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1415] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1416]:
+                      - generic [ref=e1170]: Apr 3, 2026last month
+                  - 'row "test_skill.md, (File) feat: create comprehensive testing skill May 20, 20266 hours ago" [ref=e1417]':
+                    - cell "test_skill.md, (File)" [ref=e1173]:
+                      - generic [ref=e1174]:
+                        - img [ref=e1175]
+                        - link "test_skill.md, (File)" [ref=e1180] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/test_skill.md
+                          - text: test_skill.md
+                    - 'cell "feat: create comprehensive testing skill" [ref=e1418]':
+                      - 'link "feat: create comprehensive testing skill" [ref=e1421] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/b042a0b34976ac192fa8852bbc91b235d297391f
+                    - cell "May 20, 20266 hours ago" [ref=e1422]:
+                      - generic [ref=e1184]: May 20, 20266 hours ago
+                  - row "testing_junit5_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1423]:
+                    - cell "testing_junit5_skill.md, (File)" [ref=e1187]:
+                      - generic [ref=e1188]:
+                        - img [ref=e1189]
+                        - link "testing_junit5_skill.md, (File)" [ref=e1194] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/testing_junit5_skill.md
+                          - text: testing_junit5_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1424]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1427] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1428]:
+                      - generic [ref=e1198]: Apr 3, 2026last month
+                  - row "testing_pytest_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1429]:
+                    - cell "testing_pytest_skill.md, (File)" [ref=e1201]:
+                      - generic [ref=e1202]:
+                        - img [ref=e1203]
+                        - link "testing_pytest_skill.md, (File)" [ref=e1208] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/testing_pytest_skill.md
+                          - text: testing_pytest_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1430]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1433] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1434]:
+                      - generic [ref=e1212]: Apr 3, 2026last month
+                  - row "testing_react_skill.md, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1435]:
+                    - cell "testing_react_skill.md, (File)" [ref=e1215]:
+                      - generic [ref=e1216]:
+                        - img [ref=e1217]
+                        - link "testing_react_skill.md, (File)" [ref=e1222] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/testing_react_skill.md
+                          - text: testing_react_skill.md
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1436]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1439] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1440]:
+                      - generic [ref=e1226]: Apr 3, 2026last month
+  - alert [ref=e1231]

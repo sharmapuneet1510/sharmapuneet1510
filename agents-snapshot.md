@@ -1,0 +1,952 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Skip to content" [ref=e4] [cursor=pointer]:
+        - /url: "#start-of-content"
+      - banner [ref=e6]:
+        - heading "Navigation Menu" [level=2] [ref=e7]
+        - generic [ref=e8]:
+          - link "Homepage" [ref=e10] [cursor=pointer]:
+            - /url: /
+            - img [ref=e11]
+          - generic [ref=e13]:
+            - navigation "Global" [ref=e16]:
+              - list [ref=e17]:
+                - listitem [ref=e18]:
+                  - button "Platform" [ref=e20] [cursor=pointer]:
+                    - text: Platform
+                    - img [ref=e21]
+                - listitem [ref=e23]:
+                  - button "Solutions" [ref=e25] [cursor=pointer]:
+                    - text: Solutions
+                    - img [ref=e26]
+                - listitem [ref=e28]:
+                  - button "Resources" [ref=e30] [cursor=pointer]:
+                    - text: Resources
+                    - img [ref=e31]
+                - listitem [ref=e33]:
+                  - button "Open Source" [ref=e35] [cursor=pointer]:
+                    - text: Open Source
+                    - img [ref=e36]
+                - listitem [ref=e38]:
+                  - button "Enterprise" [ref=e40] [cursor=pointer]:
+                    - text: Enterprise
+                    - img [ref=e41]
+                - listitem [ref=e43]:
+                  - link "Pricing" [ref=e44] [cursor=pointer]:
+                    - /url: https://github.com/pricing
+                    - generic [ref=e45]: Pricing
+            - generic [ref=e46]:
+              - button "Search or jump to…" [ref=e49] [cursor=pointer]:
+                - img [ref=e51]
+              - link "Sign in" [ref=e54] [cursor=pointer]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fsharmapuneet1510%2Fawesome-prompts%2Ftree%2Fmain%2Fagents
+              - link "Sign up" [ref=e55] [cursor=pointer]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&source=header-repo&source_repo=sharmapuneet1510%2Fawesome-prompts
+              - button "Appearance settings" [ref=e58] [cursor=pointer]:
+                - img
+    - main [ref=e62]:
+      - generic [ref=e63]:
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - img [ref=e67]
+            - link "sharmapuneet1510" [ref=e70] [cursor=pointer]:
+              - /url: /sharmapuneet1510
+            - generic [ref=e71]: /
+            - strong [ref=e72]:
+              - link "awesome-prompts" [ref=e73] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts
+            - generic [ref=e74]: Public
+          - generic [ref=e75]:
+            - list:
+              - listitem [ref=e76]:
+                - link "You must be signed in to change notification settings" [ref=e77] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                  - img [ref=e78]
+                  - text: Notifications
+              - listitem [ref=e80]:
+                - link "Fork 0" [ref=e81] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                  - img [ref=e82]
+                  - text: Fork
+                  - generic "0" [ref=e84]
+              - listitem [ref=e85]:
+                - link "You must be signed in to star a repository" [ref=e87] [cursor=pointer]:
+                  - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                  - img [ref=e88]
+                  - text: Star
+                  - generic "2 users starred this repository" [ref=e90]: "2"
+        - navigation "Repository" [ref=e91]:
+          - list [ref=e92]:
+            - listitem [ref=e93]:
+              - link "Code" [ref=e94] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts
+                - img [ref=e95]
+                - generic [ref=e97]: Code
+            - listitem [ref=e98]:
+              - link "Issues" [ref=e99] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/issues
+                - img [ref=e100]
+                - generic [ref=e103]: Issues
+            - listitem [ref=e104]:
+              - link "Pull requests" [ref=e105] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/pulls
+                - img [ref=e106]
+                - generic [ref=e108]: Pull requests
+            - listitem [ref=e109]:
+              - link "Actions" [ref=e110] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/actions
+                - img [ref=e111]
+                - generic [ref=e113]: Actions
+            - listitem [ref=e114]:
+              - link "Projects" [ref=e115] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/projects
+                - img [ref=e116]
+                - generic [ref=e118]: Projects
+            - listitem [ref=e119]:
+              - link "Security and quality" [ref=e120] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/security
+                - img [ref=e121]
+                - generic [ref=e123]: Security and quality
+            - listitem [ref=e124]:
+              - link "Insights" [ref=e125] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/pulse
+                - img [ref=e126]
+                - generic [ref=e128]: Insights
+      - generic [ref=e136]:
+        - generic [ref=e138]:
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - generic [ref=e143]:
+                - heading "Collapse file tree" [level=2] [ref=e144]:
+                  - button "Collapse file tree" [expanded] [ref=e145] [cursor=pointer]:
+                    - img [ref=e146]
+                - heading "Files" [level=2] [ref=e149]
+              - generic [ref=e150]:
+                - button "main branch" [ref=e152] [cursor=pointer]:
+                  - generic [ref=e153]:
+                    - generic [ref=e155]:
+                      - img [ref=e157]
+                      - generic [ref=e160]: main
+                    - generic:
+                      - img
+                - button "Search this repository (forward slash)" [ref=e162] [cursor=pointer]:
+                  - img [ref=e163]
+            - generic [ref=e166]:
+              - img [ref=e168]
+              - combobox "Go to file" [ref=e170]
+            - navigation "File Tree Navigation" [ref=e176]:
+              - tree "Files" [ref=e178]:
+                - treeitem ".claude" [level=1] [ref=e179]:
+                  - generic [ref=e180] [cursor=pointer]:
+                    - img [ref=e182]
+                    - generic [ref=e184]:
+                      - img [ref=e188]
+                      - generic [ref=e190]: .claude
+                - treeitem "agents" [expanded] [level=1] [ref=e191]:
+                  - generic [ref=e192] [cursor=pointer]:
+                    - img [ref=e194]
+                    - generic [ref=e196]:
+                      - img [ref=e200]
+                      - generic [ref=e202]: agents
+                  - group "agents" [ref=e203]:
+                    - treeitem "autonomous" [level=2] [ref=e204]:
+                      - generic [ref=e205] [cursor=pointer]:
+                        - img [ref=e210]
+                        - generic [ref=e212]:
+                          - img [ref=e216]
+                          - generic [ref=e218]: autonomous
+                    - treeitem "context" [level=2] [ref=e219]:
+                      - generic [ref=e220] [cursor=pointer]:
+                        - img [ref=e225]
+                        - generic [ref=e227]:
+                          - img [ref=e231]
+                          - generic [ref=e233]: context
+                    - treeitem "README.md" [level=2] [ref=e234]:
+                      - generic [ref=e239] [cursor=pointer]:
+                        - img [ref=e242]
+                        - generic [ref=e244]: README.md
+                    - treeitem "code_review_agent.md" [level=2] [ref=e245]:
+                      - generic [ref=e250] [cursor=pointer]:
+                        - img [ref=e253]
+                        - generic [ref=e255]: code_review_agent.md
+                    - treeitem "implementation_agent.md" [level=2] [ref=e256]:
+                      - generic [ref=e261] [cursor=pointer]:
+                        - img [ref=e264]
+                        - generic [ref=e266]: implementation_agent.md
+                    - treeitem "integration_agent.md" [level=2] [ref=e267]:
+                      - generic [ref=e272] [cursor=pointer]:
+                        - img [ref=e275]
+                        - generic [ref=e277]: integration_agent.md
+                    - treeitem "technical_documentation_agent.md" [level=2] [ref=e278]:
+                      - generic [ref=e283] [cursor=pointer]:
+                        - img [ref=e286]
+                        - generic [ref=e288]: technical_documentation_agent.md
+                    - treeitem "test_case_generator_agent.md" [level=2] [ref=e289]:
+                      - generic [ref=e294] [cursor=pointer]:
+                        - img [ref=e297]
+                        - generic [ref=e299]: test_case_generator_agent.md
+                    - treeitem "writer_agent.md" [level=2] [ref=e300]:
+                      - generic [ref=e305] [cursor=pointer]:
+                        - img [ref=e308]
+                        - generic [ref=e310]: writer_agent.md
+                - treeitem "docs" [level=1] [ref=e311]:
+                  - generic [ref=e312] [cursor=pointer]:
+                    - img [ref=e314]
+                    - generic [ref=e316]:
+                      - img [ref=e320]
+                      - generic [ref=e322]: docs
+                - treeitem "graphify-out" [level=1] [ref=e323]:
+                  - generic [ref=e324] [cursor=pointer]:
+                    - img [ref=e326]
+                    - generic [ref=e328]:
+                      - img [ref=e332]
+                      - generic [ref=e334]: graphify-out
+                - treeitem "instructions" [level=1] [ref=e335]:
+                  - generic [ref=e336] [cursor=pointer]:
+                    - img [ref=e338]
+                    - generic [ref=e340]:
+                      - img [ref=e344]
+                      - generic [ref=e346]: instructions
+                - treeitem "prompts" [level=1] [ref=e347]:
+                  - generic [ref=e348] [cursor=pointer]:
+                    - img [ref=e350]
+                    - generic [ref=e352]:
+                      - img [ref=e356]
+                      - generic [ref=e358]: prompts
+                - treeitem "skills" [level=1] [ref=e359]:
+                  - generic [ref=e360] [cursor=pointer]:
+                    - img [ref=e362]
+                    - generic [ref=e364]:
+                      - img [ref=e368]
+                      - generic [ref=e370]: skills
+                - treeitem "tests" [level=1] [ref=e371]:
+                  - generic [ref=e372] [cursor=pointer]:
+                    - img [ref=e374]
+                    - generic [ref=e376]:
+                      - img [ref=e380]
+                      - generic [ref=e382]: tests
+                - treeitem "tools" [level=1] [ref=e383]:
+                  - generic [ref=e384] [cursor=pointer]:
+                    - img [ref=e386]
+                    - generic [ref=e388]:
+                      - img [ref=e392]
+                      - generic [ref=e394]: tools
+                - treeitem ".cursorrules" [level=1] [ref=e395]:
+                  - generic [ref=e397] [cursor=pointer]:
+                    - img [ref=e400]
+                    - generic [ref=e402]: .cursorrules
+                - treeitem ".env.example" [level=1] [ref=e403]:
+                  - generic [ref=e405] [cursor=pointer]:
+                    - img [ref=e408]
+                    - generic [ref=e410]: .env.example
+                - treeitem ".gitignore" [level=1] [ref=e411]:
+                  - generic [ref=e413] [cursor=pointer]:
+                    - img [ref=e416]
+                    - generic [ref=e418]: .gitignore
+                - treeitem "AGENTS.md" [level=1] [ref=e419]:
+                  - generic [ref=e421] [cursor=pointer]:
+                    - img [ref=e424]
+                    - generic [ref=e426]: AGENTS.md
+                - treeitem "AUTONOMOUS_DEVELOPER_README.md" [level=1] [ref=e427]:
+                  - generic [ref=e429] [cursor=pointer]:
+                    - img [ref=e432]
+                    - generic [ref=e434]: AUTONOMOUS_DEVELOPER_README.md
+                - treeitem "CLAUDE.md" [level=1] [ref=e435]:
+                  - generic [ref=e437] [cursor=pointer]:
+                    - img [ref=e440]
+                    - generic [ref=e442]: CLAUDE.md
+                - treeitem "NEW_FEATURES_SUMMARY.md" [level=1] [ref=e443]:
+                  - generic [ref=e445] [cursor=pointer]:
+                    - img [ref=e448]
+                    - generic [ref=e450]: NEW_FEATURES_SUMMARY.md
+                - treeitem "README.md" [level=1] [ref=e451]:
+                  - generic [ref=e453] [cursor=pointer]:
+                    - img [ref=e456]
+                    - generic [ref=e458]: README.md
+                - treeitem "SETUP_GUIDE.md" [level=1] [ref=e459]:
+                  - generic [ref=e461] [cursor=pointer]:
+                    - img [ref=e464]
+                    - generic [ref=e466]: SETUP_GUIDE.md
+                - treeitem "SHARING_CHECKLIST.md" [level=1] [ref=e467]:
+                  - generic [ref=e469] [cursor=pointer]:
+                    - img [ref=e472]
+                    - generic [ref=e474]: SHARING_CHECKLIST.md
+          - slider "Draggable pane splitter" [ref=e476]
+        - generic [ref=e479]:
+          - generic [ref=e483]:
+            - generic [ref=e485]:
+              - navigation "Breadcrumbs" [ref=e486]:
+                - heading "Breadcrumbs" [level=2] [ref=e487]
+                - list [ref=e488]:
+                  - listitem [ref=e489]:
+                    - link "awesome-prompts" [ref=e490] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/tree/main
+              - generic [ref=e491]:
+                - text: /
+                - heading "agents" [level=1] [ref=e492]
+                - text: /
+              - button "Copy path" [ref=e493] [cursor=pointer]:
+                - img [ref=e494]
+            - generic [ref=e499]:
+              - heading "Directory actions" [level=2] [ref=e500]
+              - heading "More options" [level=2] [ref=e501]
+              - button "More options" [ref=e502] [cursor=pointer]:
+                - img [ref=e503]
+          - generic [ref=e505]:
+            - generic [ref=e507]:
+              - heading "Latest commit" [level=2] [ref=e508]
+              - generic [ref=e1197]:
+                - generic [ref=e1199]:
+                  - link "sharmapuneet1510" [ref=e1200] [cursor=pointer]:
+                    - /url: /sharmapuneet1510
+                    - img "sharmapuneet1510" [ref=e1201]
+                  - link "commits by sharmapuneet1510" [ref=e1202] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/commits?author=sharmapuneet1510
+                    - text: sharmapuneet1510
+                - generic [ref=e1203]:
+                  - 'link "docs: update agents README to include technical documentation agent" [ref=e1206] [cursor=pointer]':
+                    - /url: /sharmapuneet1510/awesome-prompts/commit/f32dad6580df1c36e62d1d368ab6a5ef1cee84d8
+                  - button "Open commit details" [ref=e1207] [cursor=pointer]:
+                    - img [ref=e1208]
+              - generic [ref=e510]:
+                - generic [ref=e1211]:
+                  - link "Commit f32dad6" [ref=e1212] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/commit/f32dad6580df1c36e62d1d368ab6a5ef1cee84d8
+                    - text: f32dad6
+                  - text: ·
+                  - generic "May 20, 2026, 6:52 PM GMT+9" [ref=e1213]: May 20, 202641 minutes ago
+                - generic [ref=e511]:
+                  - heading "History" [level=2] [ref=e512]
+                  - link "History" [ref=e513] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/commits/main/agents
+                    - generic [ref=e514]:
+                      - generic:
+                        - img
+                      - generic [ref=e515]: History
+            - generic [ref=e516]:
+              - generic [ref=e517]:
+                - heading "Folders and files" [level=2] [ref=e518]
+                - table "Folders and files" [ref=e519]:
+                  - rowgroup [ref=e520]:
+                    - row "Name Last commit message Last commit date" [ref=e521]:
+                      - columnheader "Name" [ref=e522]
+                      - columnheader "Last commit message" [ref=e523]:
+                        - generic "Last commit message" [ref=e524]
+                      - columnheader "Last commit date" [ref=e525]:
+                        - generic "Last commit date" [ref=e526]
+                  - rowgroup [ref=e527]:
+                    - row "parent directory Parent directory" [ref=e528]:
+                      - cell "parent directory Parent directory" [ref=e529]:
+                        - heading "parent directory" [level=3] [ref=e530]
+                        - link "Parent directory" [ref=e531] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main
+                          - generic [ref=e532]:
+                            - img [ref=e533]
+                            - text: ..
+                    - 'row "autonomous, (Directory) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1214]':
+                      - cell "autonomous, (Directory)" [ref=e536]:
+                        - generic [ref=e537]:
+                          - img [ref=e538]
+                          - link "autonomous, (Directory)" [ref=e543] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/tree/main/agents/autonomous
+                            - text: autonomous
+                      - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1215]':
+                        - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1218] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                      - cell "May 20, 20262 hours ago" [ref=e1219]:
+                        - generic [ref=e547]: May 20, 20262 hours ago
+                    - 'row "context, (Directory) refactor: move context building to reusable skill + simplify agent May 20, 20263 hours ago" [ref=e1220]':
+                      - cell "context, (Directory)" [ref=e550]:
+                        - generic [ref=e551]:
+                          - img [ref=e552]
+                          - link "context, (Directory)" [ref=e557] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/tree/main/agents/context
+                            - text: context
+                      - 'cell "refactor: move context building to reusable skill + simplify agent" [ref=e1221]':
+                        - 'link "refactor: move context building to reusable skill + simplify agent" [ref=e1224] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/3a8602f0d151a4a3ac5134b160c4544406102a71
+                      - cell "May 20, 20263 hours ago" [ref=e1225]:
+                        - generic [ref=e561]: May 20, 20263 hours ago
+                    - 'row "README.md, (File) docs: update agents README to include technical documentation agent May 20, 202641 minutes ago" [ref=e1226]':
+                      - cell "README.md, (File)" [ref=e564]:
+                        - generic [ref=e565]:
+                          - img [ref=e566]
+                          - link "README.md, (File)" [ref=e571] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/README.md
+                            - text: README.md
+                      - 'cell "docs: update agents README to include technical documentation agent" [ref=e1227]':
+                        - 'link "docs: update agents README to include technical documentation agent" [ref=e1230] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/f32dad6580df1c36e62d1d368ab6a5ef1cee84d8
+                      - cell "May 20, 202641 minutes ago" [ref=e1231]:
+                        - generic [ref=e575]: May 20, 202641 minutes ago
+                    - 'row "code_review_agent.md, (File) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1232]':
+                      - cell "code_review_agent.md, (File)" [ref=e578]:
+                        - generic [ref=e579]:
+                          - img [ref=e580]
+                          - link "code_review_agent.md, (File)" [ref=e585] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/code_review_agent.md
+                            - text: code_review_agent.md
+                      - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1233]':
+                        - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1236] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                      - cell "May 20, 20262 hours ago" [ref=e1237]:
+                        - generic [ref=e589]: May 20, 20262 hours ago
+                    - 'row "implementation_agent.md, (File) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1238]':
+                      - cell "implementation_agent.md, (File)" [ref=e592]:
+                        - generic [ref=e593]:
+                          - img [ref=e594]
+                          - link "implementation_agent.md, (File)" [ref=e599] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/implementation_agent.md
+                            - text: implementation_agent.md
+                      - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1239]':
+                        - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1242] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                      - cell "May 20, 20262 hours ago" [ref=e1243]:
+                        - generic [ref=e603]: May 20, 20262 hours ago
+                    - 'row "integration_agent.md, (File) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1244]':
+                      - cell "integration_agent.md, (File)" [ref=e606]:
+                        - generic [ref=e607]:
+                          - img [ref=e608]
+                          - link "integration_agent.md, (File)" [ref=e613] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/integration_agent.md
+                            - text: integration_agent.md
+                      - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1245]':
+                        - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1248] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                      - cell "May 20, 20262 hours ago" [ref=e1249]:
+                        - generic [ref=e617]: May 20, 20262 hours ago
+                    - 'row "technical_documentation_agent.md, (File) feat: add technical documentation agent for comprehensive project doc… May 20, 202642 minutes ago" [ref=e1250]':
+                      - cell "technical_documentation_agent.md, (File)" [ref=e620]:
+                        - generic [ref=e621]:
+                          - img [ref=e622]
+                          - link "technical_documentation_agent.md, (File)" [ref=e627] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/technical_documentation_agent.md
+                            - text: technical_documentation_agent.md
+                      - 'cell "feat: add technical documentation agent for comprehensive project doc…" [ref=e1251]':
+                        - 'link "feat: add technical documentation agent for comprehensive project doc…" [ref=e1254] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/c875168640c68da4ae1dac95f757f528ab2ed53a
+                      - cell "May 20, 202642 minutes ago" [ref=e1255]:
+                        - generic [ref=e631]: May 20, 202642 minutes ago
+                    - 'row "test_case_generator_agent.md, (File) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1256]':
+                      - cell "test_case_generator_agent.md, (File)" [ref=e634]:
+                        - generic [ref=e635]:
+                          - img [ref=e636]
+                          - link "test_case_generator_agent.md, (File)" [ref=e641] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/test_case_generator_agent.md
+                            - text: test_case_generator_agent.md
+                      - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1257]':
+                        - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1260] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                      - cell "May 20, 20262 hours ago" [ref=e1261]:
+                        - generic [ref=e645]: May 20, 20262 hours ago
+                    - 'row "writer_agent.md, (File) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1262]':
+                      - cell "writer_agent.md, (File)" [ref=e648]:
+                        - generic [ref=e649]:
+                          - img [ref=e650]
+                          - link "writer_agent.md, (File)" [ref=e655] [cursor=pointer]:
+                            - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/writer_agent.md
+                            - text: writer_agent.md
+                      - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1263]':
+                        - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1266] [cursor=pointer]':
+                          - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                      - cell "May 20, 20262 hours ago" [ref=e1267]:
+                        - generic [ref=e659]: May 20, 20262 hours ago
+              - generic [ref=e662]:
+                - generic [ref=e663]:
+                  - heading "README.md" [level=2] [ref=e664]:
+                    - link "README.md" [ref=e665] [cursor=pointer]:
+                      - /url: "#readme"
+                  - button "Outline" [ref=e666] [cursor=pointer]:
+                    - img [ref=e667]
+                - article [ref=e670]:
+                  - generic [ref=e671]:
+                    - heading "Agents — Role-Based AI Assistant Definitions" [level=1] [ref=e672]
+                    - 'link "Permalink: Agents — Role-Based AI Assistant Definitions" [ref=e673] [cursor=pointer]':
+                      - /url: "#agents--role-based-ai-assistant-definitions"
+                      - img [ref=e674]
+                  - paragraph [ref=e676]:
+                    - text: This directory contains
+                    - strong [ref=e677]: simplified, role-based AI agents
+                    - text: that focus on workflow and use
+                    - strong [ref=e678]: skills
+                    - text: for implementation details.
+                  - separator [ref=e679]
+                  - generic [ref=e680]:
+                    - heading "🎯 Core Principle" [level=2] [ref=e681]
+                    - 'link "Permalink: 🎯 Core Principle" [ref=e682] [cursor=pointer]':
+                      - /url: "#-core-principle"
+                      - img [ref=e683]
+                  - paragraph [ref=e685]:
+                    - strong [ref=e686]: Agents = Roles + Workflows
+                    - strong [ref=e687]: Skills = Tech-Specific Implementation Details
+                  - paragraph [ref=e688]:
+                    - text: Instead of separate agents for Java, Python, React developers, we have
+                    - strong [ref=e689]: ONE implementation agent
+                    - text: "that:"
+                  - list [ref=e690]:
+                    - listitem [ref=e691]: Takes your requirement
+                    - listitem [ref=e692]: Detects your tech stack
+                    - listitem [ref=e693]: "Builds complete feature: code + tests + documentation"
+                  - paragraph [ref=e694]: This eliminates duplication and ensures every feature is fully delivered.
+                  - separator [ref=e695]
+                  - generic [ref=e696]:
+                    - heading "📁 Directory Structure" [level=2] [ref=e697]
+                    - 'link "Permalink: 📁 Directory Structure" [ref=e698] [cursor=pointer]':
+                      - /url: "#-directory-structure"
+                      - img [ref=e699]
+                  - generic [ref=e701]:
+                    - code [ref=e703]: agents/ ├── implementation_agent.md ← Build features end-to-end (any tech) ├── code_review_agent.md ← Review code (any tech) ├── writer_agent.md ← Write documentation (JSDoc/docstrings) ├── integration_agent.md ← CI/CD & automation ├── technical_documentation_agent.md ← Generate project technical docs ├── context/ │ └── context_builder_agent.md ← Build architecture context ├── autonomous/ │ └── autonomous_dev_agent.md ← Orchestrate full projects └── README.md
+                    - button "Copy code to clipboard" [ref=e705] [cursor=pointer]:
+                      - img [ref=e706]
+                  - separator [ref=e709]
+                  - generic [ref=e710]:
+                    - heading "🚀 The 6 Agents" [level=2] [ref=e711]
+                    - 'link "Permalink: 🚀 The 6 Agents" [ref=e712] [cursor=pointer]':
+                      - /url: "#-the-6-agents"
+                      - img [ref=e713]
+                  - generic [ref=e715]:
+                    - heading "1️⃣ Implementation Agent" [level=3] [ref=e716]
+                    - 'link "Permalink: 1️⃣ Implementation Agent" [ref=e717] [cursor=pointer]':
+                      - /url: "#1️⃣-implementation-agent"
+                      - img [ref=e718]
+                  - paragraph [ref=e720]:
+                    - strong [ref=e721]: "File:"
+                    - code [ref=e722]: implementation_agent.md
+                  - paragraph [ref=e723]:
+                    - strong [ref=e724]: "What it does:"
+                    - text: Complete end-to-end feature implementation. Takes requirement → Creates code → Tests → Documents → Commits
+                  - paragraph [ref=e725]:
+                    - strong [ref=e726]: "Full Lifecycle:"
+                  - list [ref=e727]:
+                    - listitem [ref=e728]: Gathers requirement (free text, JIRA, file, or auto-detect)
+                    - listitem [ref=e729]: Detects tech stack (auto or from project)
+                    - listitem [ref=e730]: Plans implementation
+                    - listitem [ref=e731]: Generates production-ready code
+                    - listitem [ref=e732]: Creates comprehensive tests (≥95% coverage)
+                    - listitem [ref=e733]: Auto-generates documentation
+                    - listitem [ref=e734]: Commits with clear messages
+                  - paragraph [ref=e735]:
+                    - strong [ref=e736]: "When to use:"
+                  - list [ref=e737]:
+                    - listitem [ref=e738]: Building new features with complete delivery
+                    - listitem [ref=e739]: Need code + tests + documentation together
+                    - listitem [ref=e740]: Want auto-updated project context
+                    - listitem [ref=e741]: Requirements in free text, JIRA, or files
+                    - listitem [ref=e742]: Rapid feature implementation
+                  - paragraph [ref=e743]:
+                    - strong [ref=e744]: "Example:"
+                  - generic [ref=e745]:
+                    - code [ref=e747]: "User: \"Implement user registration with email validation\" Agent: 1. Gathers requirement 2. Detects: Python + FastAPI 3. Plans: Models, Routes, Email Service 4. Creates: Routes, Pydantic schemas, email sending 5. Tests: pytest with ≥95% coverage 6. Docs: Auto-generated docstrings 7. Commits: Feature branch + commit"
+                    - button "Copy code to clipboard" [ref=e749] [cursor=pointer]:
+                      - img [ref=e750]
+                  - separator [ref=e753]
+                  - generic [ref=e754]:
+                    - heading "2️⃣ Code Review Agent" [level=3] [ref=e755]
+                    - 'link "Permalink: 2️⃣ Code Review Agent" [ref=e756] [cursor=pointer]':
+                      - /url: "#2️⃣-code-review-agent"
+                      - img [ref=e757]
+                  - paragraph [ref=e759]:
+                    - strong [ref=e760]: "File:"
+                    - code [ref=e761]: code_review_agent.md
+                  - paragraph [ref=e762]:
+                    - strong [ref=e763]: "What it does:"
+                    - text: Analyzes code for design quality, SOLID principles, performance, security, and maintainability (tech-agnostic)
+                  - paragraph [ref=e764]:
+                    - strong [ref=e765]: "Review checklist:"
+                  - list [ref=e766]:
+                    - listitem [ref=e767]: Structure & design
+                    - listitem [ref=e768]: SOLID principles
+                    - listitem [ref=e769]: Design patterns
+                    - listitem [ref=e770]: Performance (N+1 queries, inefficient algorithms)
+                    - listitem [ref=e771]: Security (SQL injection, validation, secrets)
+                    - listitem [ref=e772]: Testing & documentation
+                  - paragraph [ref=e773]:
+                    - strong [ref=e774]: "When to use:"
+                  - list [ref=e775]:
+                    - listitem [ref=e776]: Code quality review
+                    - listitem [ref=e777]: Design feedback
+                    - listitem [ref=e778]: Performance optimization
+                    - listitem [ref=e779]: Security audit
+                    - listitem [ref=e780]: SOLID principles enforcement
+                  - paragraph [ref=e781]:
+                    - strong [ref=e782]: "Example:"
+                  - generic [ref=e783]:
+                    - code [ref=e785]: "User: \"Review this Python function for design quality\" Agent: Returns detailed report: - P0: SQL injection vulnerability - P1: N+1 query problem - P2: SRP violation (too many responsibilities) - P3: Missing error handling"
+                    - button "Copy code to clipboard" [ref=e787] [cursor=pointer]:
+                      - img [ref=e788]
+                  - separator [ref=e791]
+                  - generic [ref=e792]:
+                    - heading "3️⃣ Writer Agent" [level=3] [ref=e793]
+                    - 'link "Permalink: 3️⃣ Writer Agent" [ref=e794] [cursor=pointer]':
+                      - /url: "#3️⃣-writer-agent"
+                      - img [ref=e795]
+                  - paragraph [ref=e797]:
+                    - strong [ref=e798]: "File:"
+                    - code [ref=e799]: writer_agent.md
+                  - paragraph [ref=e800]:
+                    - strong [ref=e801]: "What it does:"
+                    - text: Generates Javadoc, docstrings, JSDoc, README files, architecture docs, API specifications
+                  - paragraph [ref=e802]:
+                    - strong [ref=e803]: "Supports:"
+                  - list [ref=e804]:
+                    - listitem [ref=e805]: Javadoc (Java)
+                    - listitem [ref=e806]: Google-style docstrings (Python)
+                    - listitem [ref=e807]: JSDoc (TypeScript/JavaScript)
+                    - listitem [ref=e808]: Architecture documentation
+                    - listitem [ref=e809]: README files with quick start
+                  - paragraph [ref=e810]:
+                    - strong [ref=e811]: "When to use:"
+                  - list [ref=e812]:
+                    - listitem [ref=e813]: Add documentation to code
+                    - listitem [ref=e814]: Generate API docs
+                    - listitem [ref=e815]: Write architecture documentation
+                    - listitem [ref=e816]: Create README and quick start guides
+                    - listitem [ref=e817]: Explain complex code with comments
+                  - paragraph [ref=e818]:
+                    - strong [ref=e819]: "Example:"
+                  - generic [ref=e820]:
+                    - code [ref=e822]: "User: \"Generate Javadoc for this Java service\" Agent: Adds: - Javadoc with @param, @return, @throws - Usage examples - Related methods - Performance notes"
+                    - button "Copy code to clipboard" [ref=e824] [cursor=pointer]:
+                      - img [ref=e825]
+                  - separator [ref=e828]
+                  - generic [ref=e829]:
+                    - heading "4️⃣ Integration Agent" [level=3] [ref=e830]
+                    - 'link "Permalink: 4️⃣ Integration Agent" [ref=e831] [cursor=pointer]':
+                      - /url: "#4️⃣-integration-agent"
+                      - img [ref=e832]
+                  - paragraph [ref=e834]:
+                    - strong [ref=e835]: "File:"
+                    - code [ref=e836]: integration_agent.md
+                  - paragraph [ref=e837]:
+                    - strong [ref=e838]: "What it does:"
+                    - text: Builds CI/CD pipelines, automates testing, deployments, and infrastructure
+                  - paragraph [ref=e839]:
+                    - strong [ref=e840]: "Supports:"
+                  - list [ref=e841]:
+                    - listitem [ref=e842]: GitHub Actions
+                    - listitem [ref=e843]: GitLab CI
+                    - listitem [ref=e844]: Jenkins
+                    - listitem [ref=e845]: CircleCI
+                    - listitem [ref=e846]: Docker & Kubernetes
+                    - listitem [ref=e847]: Terraform / CloudFormation
+                    - listitem [ref=e848]: Monitoring & alerting
+                  - paragraph [ref=e849]:
+                    - strong [ref=e850]: "When to use:"
+                  - list [ref=e851]:
+                    - listitem [ref=e852]: Set up CI/CD pipelines
+                    - listitem [ref=e853]: Automate testing and deployments
+                    - listitem [ref=e854]: Create Infrastructure as Code
+                    - listitem [ref=e855]: Build monitoring and alerting
+                    - listitem [ref=e856]: Orchestrate releases
+                  - paragraph [ref=e857]:
+                    - strong [ref=e858]: "Example:"
+                  - generic [ref=e859]:
+                    - code [ref=e861]: "User: \"Create a GitHub Actions workflow that runs tests and deploys\" Agent: Generates: - Run tests on every PR - Build Docker image on main - Deploy to AWS ECS - Health checks and rollbacks"
+                    - button "Copy code to clipboard" [ref=e863] [cursor=pointer]:
+                      - img [ref=e864]
+                  - separator [ref=e867]
+                  - generic [ref=e868]:
+                    - heading "5️⃣ Technical Documentation Agent" [level=3] [ref=e869]
+                    - 'link "Permalink: 5️⃣ Technical Documentation Agent" [ref=e870] [cursor=pointer]':
+                      - /url: "#5️⃣-technical-documentation-agent"
+                      - img [ref=e871]
+                  - paragraph [ref=e873]:
+                    - strong [ref=e874]: "File:"
+                    - code [ref=e875]: technical_documentation_agent.md
+                  - paragraph [ref=e876]:
+                    - strong [ref=e877]: "What it does:"
+                    - text: Generates comprehensive technical documentation by analyzing your project
+                  - paragraph [ref=e878]:
+                    - strong [ref=e879]: "Documentation includes:"
+                  - list [ref=e880]:
+                    - listitem [ref=e881]: Code workflows and request/response cycles
+                    - listitem [ref=e882]: Database schema and relationships
+                    - listitem [ref=e883]: Middleware and integration documentation
+                    - listitem [ref=e884]: Dependency analysis (from package.json, pom.xml, requirements.txt, etc.)
+                    - listitem [ref=e885]: API endpoint reference
+                    - listitem [ref=e886]: Deployment guides
+                    - listitem [ref=e887]: Interactive HTML visualization
+                    - listitem [ref=e888]: Markdown files for all aspects
+                  - paragraph [ref=e889]:
+                    - strong [ref=e890]: "When to use:"
+                  - list [ref=e891]:
+                    - listitem [ref=e892]: Onboarding new team members
+                    - listitem [ref=e893]: Documenting existing projects
+                    - listitem [ref=e894]: Creating architecture diagrams
+                    - listitem [ref=e895]: Before major refactors
+                    - listitem [ref=e896]: Building knowledge base
+                    - listitem [ref=e897]: Preparing for external audits
+                  - paragraph [ref=e898]:
+                    - strong [ref=e899]: "Example:"
+                  - generic [ref=e900]:
+                    - code [ref=e902]: "User: \"Generate complete technical documentation for this project\" Agent: Creates: - Interactive HTML with architecture diagrams - 10 markdown files covering all aspects - Tech stack analysis - Code workflow diagrams - Database schema documentation - Middleware documentation - Deployment guide"
+                    - button "Copy code to clipboard" [ref=e904] [cursor=pointer]:
+                      - img [ref=e905]
+                  - separator [ref=e908]
+                  - generic [ref=e909]:
+                    - heading "6️⃣ Autonomous Developer Agent" [level=3] [ref=e910]
+                    - 'link "Permalink: 6️⃣ Autonomous Developer Agent" [ref=e911] [cursor=pointer]':
+                      - /url: "#6️⃣-autonomous-developer-agent"
+                      - img [ref=e912]
+                  - paragraph [ref=e914]:
+                    - strong [ref=e915]: "Location:"
+                    - code [ref=e916]: autonomous/autonomous_dev_agent.md
+                  - paragraph [ref=e917]:
+                    - strong [ref=e918]: "What it does:"
+                    - text: Orchestrates
+                    - strong [ref=e919]: end-to-end code generation
+                    - text: from plain-text requirements
+                  - paragraph [ref=e920]:
+                    - strong [ref=e921]: "5-phase pipeline:"
+                  - list [ref=e922]:
+                    - listitem [ref=e923]: Database schema + migrations
+                    - listitem [ref=e924]: Backend API (REST, GraphQL)
+                    - listitem [ref=e925]: Frontend UI (React components)
+                    - listitem [ref=e926]: Comprehensive tests (unit, integration, E2E)
+                    - listitem [ref=e927]: Deployment configuration
+                  - paragraph [ref=e928]:
+                    - strong [ref=e929]: "When to use:"
+                  - list [ref=e930]:
+                    - listitem [ref=e931]: Building complete projects from requirements
+                    - listitem [ref=e932]: Rapid prototyping
+                    - listitem [ref=e933]: Full-stack development
+                    - listitem [ref=e934]: Want everything at once (DB + backend + frontend + tests)
+                  - paragraph [ref=e935]:
+                    - strong [ref=e936]: "Example:"
+                  - generic [ref=e937]:
+                    - code [ref=e939]: "User: \"Generate a complete auth system\" Agent: Creates: - PostgreSQL schema with migrations - FastAPI backend with JWT - React login/register UI - pytest + Jest tests (95% coverage) - GitHub PR with all code"
+                    - button "Copy code to clipboard" [ref=e941] [cursor=pointer]:
+                      - img [ref=e942]
+                  - separator [ref=e945]
+                  - generic [ref=e946]:
+                    - heading "🔗 Agents + Skills Architecture" [level=2] [ref=e947]
+                    - 'link "Permalink: 🔗 Agents + Skills Architecture" [ref=e948] [cursor=pointer]':
+                      - /url: "#-agents--skills-architecture"
+                      - img [ref=e949]
+                  - generic [ref=e951]:
+                    - heading "How It Works" [level=3] [ref=e952]
+                    - 'link "Permalink: How It Works" [ref=e953] [cursor=pointer]':
+                      - /url: "#how-it-works"
+                      - img [ref=e954]
+                  - generic [ref=e956]:
+                    - code [ref=e958]: User Request ↓ Agent (role-based workflow) ↓ Detect tech stack ↓ Load appropriate skill ↓ Load master instruction set ↓ Generate code/docs
+                    - button "Copy code to clipboard" [ref=e960] [cursor=pointer]:
+                      - img [ref=e961]
+                  - generic [ref=e964]:
+                    - heading "Skill Mapping" [level=3] [ref=e965]
+                    - 'link "Permalink: Skill Mapping" [ref=e966] [cursor=pointer]':
+                      - /url: "#skill-mapping"
+                      - img [ref=e967]
+                  - table [ref=e970]:
+                    - rowgroup [ref=e971]:
+                      - row "Tech Stack Skill Used By" [ref=e972]:
+                        - columnheader "Tech Stack" [ref=e973]
+                        - columnheader "Skill" [ref=e974]
+                        - columnheader "Used By" [ref=e975]
+                    - rowgroup [ref=e976]:
+                      - row "Java java_advanced_skill.md implementation_agent" [ref=e977]:
+                        - cell "Java" [ref=e978]:
+                          - strong [ref=e979]: Java
+                        - cell "java_advanced_skill.md" [ref=e980]:
+                          - code [ref=e981]: java_advanced_skill.md
+                        - cell "implementation_agent" [ref=e982]
+                      - row "Python python_advanced_skill.md implementation_agent" [ref=e983]:
+                        - cell "Python" [ref=e984]:
+                          - strong [ref=e985]: Python
+                        - cell "python_advanced_skill.md" [ref=e986]:
+                          - code [ref=e987]: python_advanced_skill.md
+                        - cell "implementation_agent" [ref=e988]
+                      - row "React/TypeScript react_advanced_skill.md implementation_agent" [ref=e989]:
+                        - cell "React/TypeScript" [ref=e990]:
+                          - strong [ref=e991]: React/TypeScript
+                        - cell "react_advanced_skill.md" [ref=e992]:
+                          - code [ref=e993]: react_advanced_skill.md
+                        - cell "implementation_agent" [ref=e994]
+                      - row "SQL Server mssql_advanced_skill.md implementation_agent" [ref=e995]:
+                        - cell "SQL Server" [ref=e996]:
+                          - strong [ref=e997]: SQL Server
+                        - cell "mssql_advanced_skill.md" [ref=e998]:
+                          - code [ref=e999]: mssql_advanced_skill.md
+                        - cell "implementation_agent" [ref=e1000]
+                      - row "Code Review code_health_skill.md code_review_agent" [ref=e1001]:
+                        - cell "Code Review" [ref=e1002]:
+                          - strong [ref=e1003]: Code Review
+                        - cell "code_health_skill.md" [ref=e1004]:
+                          - code [ref=e1005]: code_health_skill.md
+                        - cell "code_review_agent" [ref=e1006]
+                      - row "All Agents master_instruction_set.md (universal)" [ref=e1007]:
+                        - cell "All Agents" [ref=e1008]:
+                          - strong [ref=e1009]: All Agents
+                        - cell "master_instruction_set.md" [ref=e1010]:
+                          - code [ref=e1011]: master_instruction_set.md
+                        - cell "(universal)" [ref=e1012]
+                  - separator [ref=e1013]
+                  - generic [ref=e1014]:
+                    - heading "💡 Benefits of Simplified Architecture" [level=2] [ref=e1015]
+                    - 'link "Permalink: 💡 Benefits of Simplified Architecture" [ref=e1016] [cursor=pointer]':
+                      - /url: "#-benefits-of-simplified-architecture"
+                      - img [ref=e1017]
+                  - generic [ref=e1019]:
+                    - 'heading "Before (Old: Tech-Specific Agents)" [level=3] [ref=e1020]'
+                    - 'link "Permalink: Before (Old: Tech-Specific Agents)" [ref=e1021] [cursor=pointer]':
+                      - /url: "#before-old-tech-specific-agents"
+                      - img [ref=e1022]
+                  - generic [ref=e1024]:
+                    - code [ref=e1026]: "Developer Agents: - java_advanced_agent.md (15 KB) - python_advanced_agent.md (14 KB) - react_advanced_agent.md (12 KB) - mssql_advanced_agent.md (19 KB) Problem: 90% duplicate code, maintenance nightmare"
+                    - button "Copy code to clipboard" [ref=e1028] [cursor=pointer]:
+                      - img [ref=e1029]
+                  - generic [ref=e1032]:
+                    - 'heading "After (New: Role-Based Agents)" [level=3] [ref=e1033]'
+                    - 'link "Permalink: After (New: Role-Based Agents)" [ref=e1034] [cursor=pointer]':
+                      - /url: "#after-new-role-based-agents"
+                      - img [ref=e1035]
+                  - generic [ref=e1037]:
+                    - code [ref=e1039]: "Implementation Agent: (8 KB) - Gathers requirements - Detects tech stack - Full lifecycle: code + tests + docs - 1 agent, infinite tech stacks Result: DRY, complete delivery, maintainable"
+                    - button "Copy code to clipboard" [ref=e1041] [cursor=pointer]:
+                      - img [ref=e1042]
+                  - separator [ref=e1045]
+                  - generic [ref=e1046]:
+                    - heading "🎓 How to Use" [level=2] [ref=e1047]
+                    - 'link "Permalink: 🎓 How to Use" [ref=e1048] [cursor=pointer]':
+                      - /url: "#-how-to-use"
+                      - img [ref=e1049]
+                  - generic [ref=e1051]:
+                    - heading "1. Direct Invocation (Claude Code, Copilot)" [level=3] [ref=e1052]
+                    - 'link "Permalink: 1. Direct Invocation (Claude Code, Copilot)" [ref=e1053] [cursor=pointer]':
+                      - /url: "#1-direct-invocation-claude-code-copilot"
+                      - img [ref=e1054]
+                  - generic [ref=e1056]:
+                    - generic [ref=e1057]:
+                      - generic [ref=e1058]: "# Implementation agent (any tech, complete feature)"
+                      - generic [ref=e1059]: "\"Implement user registration with email validation\""
+                      - generic [ref=e1060]: "\"Build a Spring Boot order API endpoint with tests\""
+                      - generic [ref=e1061]: "\"Create a React dashboard with data fetching\""
+                      - generic [ref=e1062]: "# Code Review agent"
+                      - generic [ref=e1063]: "\"Review this code for design issues\""
+                      - generic [ref=e1064]: "\"Check this for performance problems\""
+                      - generic [ref=e1065]: "# Writer agent"
+                      - generic [ref=e1066]: "\"Generate Javadoc for this service\""
+                      - generic [ref=e1067]: "\"Write API documentation\""
+                      - generic [ref=e1068]: "# Integration agent"
+                      - generic [ref=e1069]: "\"Create a GitHub Actions CI/CD pipeline\""
+                      - generic [ref=e1070]: "\"Build a Docker + Kubernetes setup\""
+                      - generic [ref=e1071]: "# Autonomous agent"
+                      - generic [ref=e1072]: "\"Generate a complete e-commerce system from requirements\""
+                    - button "Copy code to clipboard" [ref=e1074] [cursor=pointer]:
+                      - img [ref=e1075]
+                  - generic [ref=e1078]:
+                    - heading "2. Chaining Workflows" [level=3] [ref=e1079]
+                    - 'link "Permalink: 2. Chaining Workflows" [ref=e1080] [cursor=pointer]':
+                      - /url: "#2-chaining-workflows"
+                      - img [ref=e1081]
+                  - generic [ref=e1083]:
+                    - code [ref=e1085]: "Step 1: Use Implementation Agent → \"Implement user registration with email verification\" → Returns: Code + tests + docs + commit Step 2: Use Code Review Agent (if needed) → \"Review the generated code for quality\" → Returns: Issues and recommendations Step 3: Use Writer Agent (for additional docs) → \"Generate API documentation from comments\" → Returns: OpenAPI spec, Swagger UI Step 4: Use Integration Agent → \"Create a CI/CD pipeline for deployment\" → Returns: GitHub Actions workflow"
+                    - button "Copy code to clipboard" [ref=e1087] [cursor=pointer]:
+                      - img [ref=e1088]
+                  - separator [ref=e1091]
+                  - generic [ref=e1092]:
+                    - heading "🔄 Migration from Old Agents" [level=2] [ref=e1093]
+                    - 'link "Permalink: 🔄 Migration from Old Agents" [ref=e1094] [cursor=pointer]':
+                      - /url: "#-migration-from-old-agents"
+                      - img [ref=e1095]
+                  - paragraph [ref=e1097]:
+                    - strong [ref=e1098]: "Old way (tech-specific agents):"
+                  - generic [ref=e1099]:
+                    - code [ref=e1101]: "\"Use Jarvis to build a Java service\" → Loads java_advanced_agent.md (15 KB, duplicate code) → Returns only code, no tests/docs"
+                    - button "Copy code to clipboard" [ref=e1103] [cursor=pointer]:
+                      - img [ref=e1104]
+                  - paragraph [ref=e1107]:
+                    - strong [ref=e1108]: "New way (role-based with full lifecycle):"
+                  - generic [ref=e1109]:
+                    - code [ref=e1111]: "\"Implement user registration in Java\" → Implementation Agent (8 KB) → Detects Java + Spring Boot → Returns: Code + tests + docs + commit → Includes context generation"
+                    - button "Copy code to clipboard" [ref=e1113] [cursor=pointer]:
+                      - img [ref=e1114]
+                  - paragraph [ref=e1117]:
+                    - text: Old agents are archived in
+                    - code [ref=e1118]: _deprecated/
+                    - text: for reference but not exported.
+                  - separator [ref=e1119]
+                  - generic [ref=e1120]:
+                    - heading "📚 Related Documentation" [level=2] [ref=e1121]
+                    - 'link "Permalink: 📚 Related Documentation" [ref=e1122] [cursor=pointer]':
+                      - /url: "#-related-documentation"
+                      - img [ref=e1123]
+                  - list [ref=e1125]:
+                    - listitem [ref=e1126]:
+                      - strong [ref=e1127]:
+                        - link "../CLAUDE.md" [ref=e1128] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/CLAUDE.md
+                      - text: — Project overview
+                    - listitem [ref=e1129]:
+                      - strong [ref=e1130]:
+                        - link "../skills/" [ref=e1131] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills
+                      - text: — Tech-specific skills (Java, Python, React, etc.)
+                    - listitem [ref=e1132]:
+                      - strong [ref=e1133]:
+                        - link "../instructions/" [ref=e1134] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/instructions
+                      - text: — Universal rules all agents follow
+                    - listitem [ref=e1135]:
+                      - strong [ref=e1136]:
+                        - link "../README.md" [ref=e1137] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/README.md
+                      - text: — Main project README
+                  - separator [ref=e1138]
+                  - generic [ref=e1139]:
+                    - heading "⚡ Quick Reference" [level=2] [ref=e1140]
+                    - 'link "Permalink: ⚡ Quick Reference" [ref=e1141] [cursor=pointer]':
+                      - /url: "#-quick-reference"
+                      - img [ref=e1142]
+                  - table [ref=e1145]:
+                    - rowgroup [ref=e1146]:
+                      - row "Agent Purpose Input Output" [ref=e1147]:
+                        - columnheader "Agent" [ref=e1148]
+                        - columnheader "Purpose" [ref=e1149]
+                        - columnheader "Input" [ref=e1150]
+                        - columnheader "Output" [ref=e1151]
+                    - rowgroup [ref=e1152]:
+                      - row "Implementation Build features end-to-end \"Implement X feature\" Code + tests + docs + context + commit" [ref=e1153]:
+                        - cell "Implementation" [ref=e1154]:
+                          - strong [ref=e1155]: Implementation
+                        - cell "Build features end-to-end" [ref=e1156]
+                        - cell "\"Implement X feature\"" [ref=e1157]
+                        - cell "Code + tests + docs + context + commit" [ref=e1158]
+                      - row "Code Review Inspect quality \"Review this code\" Issues + severity + fixes" [ref=e1159]:
+                        - cell "Code Review" [ref=e1160]:
+                          - strong [ref=e1161]: Code Review
+                        - cell "Inspect quality" [ref=e1162]
+                        - cell "\"Review this code\"" [ref=e1163]
+                        - cell "Issues + severity + fixes" [ref=e1164]
+                      - row "Writer Document code \"Write docs for this\" Javadoc/docstrings/README/API specs" [ref=e1165]:
+                        - cell "Writer" [ref=e1166]:
+                          - strong [ref=e1167]: Writer
+                        - cell "Document code" [ref=e1168]
+                        - cell "\"Write docs for this\"" [ref=e1169]
+                        - cell "Javadoc/docstrings/README/API specs" [ref=e1170]
+                      - row "Technical Documentation Generate project docs \"Document this project\" HTML + Markdown docs + diagrams" [ref=e1171]:
+                        - cell "Technical Documentation" [ref=e1172]:
+                          - strong [ref=e1173]: Technical Documentation
+                        - cell "Generate project docs" [ref=e1174]
+                        - cell "\"Document this project\"" [ref=e1175]
+                        - cell "HTML + Markdown docs + diagrams" [ref=e1176]
+                      - row "Integration CI/CD & DevOps \"Create pipeline for X\" CI/CD workflow + IaC + monitoring" [ref=e1177]:
+                        - cell "Integration" [ref=e1178]:
+                          - strong [ref=e1179]: Integration
+                        - cell "CI/CD & DevOps" [ref=e1180]
+                        - cell "\"Create pipeline for X\"" [ref=e1181]
+                        - cell "CI/CD workflow + IaC + monitoring" [ref=e1182]
+                      - row "Autonomous Full projects \"Build Y from Z requirements\" Complete system (DB + backend + frontend + tests)" [ref=e1183]:
+                        - cell "Autonomous" [ref=e1184]:
+                          - strong [ref=e1185]: Autonomous
+                        - cell "Full projects" [ref=e1186]
+                        - cell "\"Build Y from Z requirements\"" [ref=e1187]
+                        - cell "Complete system (DB + backend + frontend + tests)" [ref=e1188]
+                  - separator [ref=e1189]
+                  - paragraph [ref=e1190]:
+                    - strong [ref=e1191]: "Version:"
+                    - text: 3.0 (Simplified Role-Based Architecture)
+                    - strong [ref=e1192]: "Last Updated:"
+                    - text: 2026-05-20
+  - alert [ref=e1196]

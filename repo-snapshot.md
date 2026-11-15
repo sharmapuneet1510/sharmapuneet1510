@@ -1,0 +1,1351 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e8]:
+        - link "Homepage" [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e11]
+        - generic [ref=e13]:
+          - navigation "Global" [ref=e16]:
+            - list [ref=e17]:
+              - listitem [ref=e18]:
+                - button "Platform" [ref=e20] [cursor=pointer]:
+                  - text: Platform
+                  - img [ref=e21]
+              - listitem [ref=e23]:
+                - button "Solutions" [ref=e25] [cursor=pointer]:
+                  - text: Solutions
+                  - img [ref=e26]
+              - listitem [ref=e28]:
+                - button "Resources" [ref=e30] [cursor=pointer]:
+                  - text: Resources
+                  - img [ref=e31]
+              - listitem [ref=e33]:
+                - button "Open Source" [ref=e35] [cursor=pointer]:
+                  - text: Open Source
+                  - img [ref=e36]
+              - listitem [ref=e38]:
+                - button "Enterprise" [ref=e40] [cursor=pointer]:
+                  - text: Enterprise
+                  - img [ref=e41]
+              - listitem [ref=e43]:
+                - link "Pricing" [ref=e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+                  - generic [ref=e45]: Pricing
+          - generic [ref=e46]:
+            - button "Search or jump to…" [ref=e49] [cursor=pointer]:
+              - img [ref=e51]
+            - link "Sign in" [ref=e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fsharmapuneet1510%2Fawesome-prompts
+            - link "Sign up" [ref=e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=sharmapuneet1510%2Fawesome-prompts
+            - button "Appearance settings" [ref=e58] [cursor=pointer]:
+              - img
+  - main [ref=e62]:
+    - generic [ref=e63]:
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - img [ref=e67]
+          - link "sharmapuneet1510" [ref=e70] [cursor=pointer]:
+            - /url: /sharmapuneet1510
+          - generic [ref=e71]: /
+          - strong [ref=e72]:
+            - link "awesome-prompts" [ref=e73] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts
+          - generic [ref=e74]: Public
+        - generic [ref=e75]:
+          - list:
+            - listitem [ref=e76]:
+              - link "You must be signed in to change notification settings" [ref=e77] [cursor=pointer]:
+                - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                - img [ref=e78]
+                - text: Notifications
+            - listitem [ref=e80]:
+              - link "Fork 0" [ref=e81] [cursor=pointer]:
+                - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                - img [ref=e82]
+                - text: Fork
+                - generic "0" [ref=e84]
+            - listitem [ref=e85]:
+              - link "You must be signed in to star a repository" [ref=e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Fsharmapuneet1510%2Fawesome-prompts
+                - img [ref=e88]
+                - text: Star
+                - generic "2 users starred this repository" [ref=e90]: "2"
+      - navigation "Repository" [ref=e91]:
+        - list [ref=e92]:
+          - listitem [ref=e93]:
+            - link "Code" [ref=e94] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts
+              - img [ref=e95]
+              - generic [ref=e97]: Code
+          - listitem [ref=e98]:
+            - link "Issues" [ref=e99] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/issues
+              - img [ref=e100]
+              - generic [ref=e103]: Issues
+          - listitem [ref=e104]:
+            - link "Pull requests" [ref=e105] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/pulls
+              - img [ref=e106]
+              - generic [ref=e108]: Pull requests
+          - listitem [ref=e109]:
+            - link "Actions" [ref=e110] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/actions
+              - img [ref=e111]
+              - generic [ref=e113]: Actions
+          - listitem [ref=e114]:
+            - link "Projects" [ref=e115] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/projects
+              - img [ref=e116]
+              - generic [ref=e118]: Projects
+          - listitem [ref=e119]:
+            - link "Security and quality" [ref=e120] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/security
+              - img [ref=e121]
+              - generic [ref=e123]: Security and quality
+          - listitem [ref=e124]:
+            - link "Insights" [ref=e125] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/pulse
+              - img [ref=e126]
+              - generic [ref=e128]: Insights
+    - generic [ref=e141]:
+      - heading "sharmapuneet1510/awesome-prompts" [level=1] [ref=e143]
+      - generic [ref=e144]:
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - button "main branch" [ref=e151] [cursor=pointer]:
+                - generic [ref=e152]:
+                  - generic [ref=e154]:
+                    - img [ref=e156]
+                    - generic [ref=e159]: main
+                  - generic:
+                    - img
+              - generic [ref=e160]:
+                - link "2 Branches" [ref=e1364] [cursor=pointer]:
+                  - /url: /sharmapuneet1510/awesome-prompts/branches
+                  - generic [ref=e162]:
+                    - generic:
+                      - img
+                    - generic [ref=e1365]:
+                      - strong [ref=e1366]: "2"
+                      - text: Branches
+                - link "0 Tags" [ref=e1367] [cursor=pointer]:
+                  - /url: /sharmapuneet1510/awesome-prompts/tags
+                  - generic [ref=e165]:
+                    - generic:
+                      - img
+                    - generic [ref=e1368]:
+                      - strong [ref=e1369]: "0"
+                      - text: Tags
+            - generic [ref=e167]:
+              - generic [ref=e171]:
+                - img [ref=e173]
+                - combobox "Go to file" [ref=e175]
+              - button "Code" [ref=e176] [cursor=pointer]:
+                - generic [ref=e177]:
+                  - generic:
+                    - img
+                  - generic [ref=e178]: Code
+                  - generic:
+                    - img
+          - generic [ref=e179]:
+            - generic [ref=e180]:
+              - heading "Folders and files" [level=2] [ref=e181]
+              - table "Folders and files" [ref=e182]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message":
+                      - generic "Last commit message"
+                    - columnheader "Last commit date":
+                      - generic "Last commit date"
+                - rowgroup [ref=e183]:
+                  - 'row "Latest commit sharmapuneet1510 commits by sharmapuneet1510 docs: update agents README to include technical documentation agent Open commit details Commit f32dad6 · May 20, 202641 minutes ago History 85 Commits" [ref=e1370]':
+                    - 'cell "Latest commit sharmapuneet1510 commits by sharmapuneet1510 docs: update agents README to include technical documentation agent Open commit details Commit f32dad6 · May 20, 202641 minutes ago History 85 Commits" [ref=e1371]':
+                      - generic [ref=e186]:
+                        - heading "Latest commit" [level=2] [ref=e187]
+                        - generic [ref=e1372]:
+                          - generic [ref=e1374]:
+                            - link "sharmapuneet1510" [ref=e1375] [cursor=pointer]:
+                              - /url: /sharmapuneet1510
+                              - img "sharmapuneet1510" [ref=e1376]
+                            - link "commits by sharmapuneet1510" [ref=e1377] [cursor=pointer]:
+                              - /url: /sharmapuneet1510/awesome-prompts/commits?author=sharmapuneet1510
+                              - text: sharmapuneet1510
+                          - generic [ref=e1378]:
+                            - 'link "docs: update agents README to include technical documentation agent" [ref=e1381] [cursor=pointer]':
+                              - /url: /sharmapuneet1510/awesome-prompts/commit/f32dad6580df1c36e62d1d368ab6a5ef1cee84d8
+                            - button "Open commit details" [ref=e1382] [cursor=pointer]:
+                              - img [ref=e1383]
+                        - generic [ref=e189]:
+                          - generic [ref=e1386]:
+                            - link "Commit f32dad6" [ref=e1387] [cursor=pointer]:
+                              - /url: /sharmapuneet1510/awesome-prompts/commit/f32dad6580df1c36e62d1d368ab6a5ef1cee84d8
+                              - text: f32dad6
+                            - text: ·
+                            - generic "May 20, 2026, 6:52 PM GMT+9" [ref=e1388]: May 20, 202641 minutes ago
+                          - generic [ref=e190]:
+                            - heading "History" [level=2] [ref=e191]
+                            - link "85 Commits" [ref=e192] [cursor=pointer]:
+                              - /url: /sharmapuneet1510/awesome-prompts/commits/main/
+                              - generic [ref=e193]:
+                                - generic:
+                                  - img
+                                - generic [ref=e194]: 85 Commits
+                  - 'row ".claude, (Directory) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1389]':
+                    - cell ".claude, (Directory)" [ref=e196]:
+                      - generic [ref=e197]:
+                        - img [ref=e198]
+                        - link ".claude, (Directory)" [ref=e203] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/.claude
+                          - text: .claude
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1390]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1393] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1394]:
+                      - generic [ref=e207]: May 20, 202646 minutes ago
+                  - 'row "agents, (Directory) docs: update agents README to include technical documentation agent May 20, 202641 minutes ago" [ref=e1395]':
+                    - cell "agents, (Directory)" [ref=e210]:
+                      - generic [ref=e211]:
+                        - img [ref=e212]
+                        - link "agents, (Directory)" [ref=e217] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/agents
+                          - text: agents
+                    - 'cell "docs: update agents README to include technical documentation agent" [ref=e1396]':
+                      - 'link "docs: update agents README to include technical documentation agent" [ref=e1399] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/f32dad6580df1c36e62d1d368ab6a5ef1cee84d8
+                    - cell "May 20, 202641 minutes ago" [ref=e1400]:
+                      - generic [ref=e221]: May 20, 202641 minutes ago
+                  - 'row "docs, (Directory) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1401]':
+                    - cell "docs, (Directory)" [ref=e224]:
+                      - generic [ref=e225]:
+                        - img [ref=e226]
+                        - link "docs, (Directory)" [ref=e231] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/docs
+                          - text: docs
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1402]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1405] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1406]:
+                      - generic [ref=e235]: May 20, 202646 minutes ago
+                  - 'row "graphify-out, (Directory) docs: autonomous developer system specification (brainstorming design… May 20, 20266 hours ago" [ref=e1407]':
+                    - cell "graphify-out, (Directory)" [ref=e238]:
+                      - generic [ref=e239]:
+                        - img [ref=e240]
+                        - link "graphify-out, (Directory)" [ref=e245] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/graphify-out
+                          - text: graphify-out
+                    - 'cell "docs: autonomous developer system specification (brainstorming design…" [ref=e1408]':
+                      - 'link "docs: autonomous developer system specification (brainstorming design…" [ref=e1411] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/94ee69634e4d45e29a0bf00284508072d0291f3a
+                    - cell "May 20, 20266 hours ago" [ref=e1412]:
+                      - generic [ref=e249]: May 20, 20266 hours ago
+                  - 'row "instructions, (Directory) feat: add technical documentation agent for comprehensive project doc… May 20, 202641 minutes ago" [ref=e1413]':
+                    - cell "instructions, (Directory)" [ref=e252]:
+                      - generic [ref=e253]:
+                        - img [ref=e254]
+                        - link "instructions, (Directory)" [ref=e259] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/instructions
+                          - text: instructions
+                    - 'cell "feat: add technical documentation agent for comprehensive project doc…" [ref=e1414]':
+                      - 'link "feat: add technical documentation agent for comprehensive project doc…" [ref=e1417] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/c875168640c68da4ae1dac95f757f528ab2ed53a
+                    - cell "May 20, 202641 minutes ago" [ref=e1418]:
+                      - generic [ref=e263]: May 20, 202641 minutes ago
+                  - 'row "prompts, (Directory) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1419]':
+                    - cell "prompts, (Directory)" [ref=e266]:
+                      - generic [ref=e267]:
+                        - img [ref=e268]
+                        - link "prompts, (Directory)" [ref=e273] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/prompts
+                          - text: prompts
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1420]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1423] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1424]:
+                      - generic [ref=e277]: May 20, 202646 minutes ago
+                  - 'row "skills, (Directory) feat: add test-case-generator agent and code-documentation skill; upd… May 20, 20262 hours ago" [ref=e1425]':
+                    - cell "skills, (Directory)" [ref=e280]:
+                      - generic [ref=e281]:
+                        - img [ref=e282]
+                        - link "skills, (Directory)" [ref=e287] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/skills
+                          - text: skills
+                    - 'cell "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1426]':
+                      - 'link "feat: add test-case-generator agent and code-documentation skill; upd…" [ref=e1429] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/47b83f699a86378d67c2e237ba3426b5645d9a7d
+                    - cell "May 20, 20262 hours ago" [ref=e1430]:
+                      - generic [ref=e291]: May 20, 20262 hours ago
+                  - 'row "tests, (Directory) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1431]':
+                    - cell "tests, (Directory)" [ref=e294]:
+                      - generic [ref=e295]:
+                        - img [ref=e296]
+                        - link "tests, (Directory)" [ref=e301] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/tests
+                          - text: tests
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1432]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1435] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1436]:
+                      - generic [ref=e305]: May 20, 202646 minutes ago
+                  - 'row "tools, (Directory) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1437]':
+                    - cell "tools, (Directory)" [ref=e308]:
+                      - generic [ref=e309]:
+                        - img [ref=e310]
+                        - link "tools, (Directory)" [ref=e315] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/tree/main/tools
+                          - text: tools
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1438]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1441] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1442]:
+                      - generic [ref=e319]: May 20, 202646 minutes ago
+                  - row ".cursorrules, (File) ⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a… Apr 3, 2026last month" [ref=e1443]:
+                    - cell ".cursorrules, (File)" [ref=e322]:
+                      - generic [ref=e323]:
+                        - img [ref=e324]
+                        - link ".cursorrules, (File)" [ref=e329] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/.cursorrules
+                          - text: .cursorrules
+                    - cell "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1444]:
+                      - link "⏺ Add 8 comprehensive skills covering Camel, Spring, Java, logging, a…" [ref=e1447] [cursor=pointer]:
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/4bb483791383b75edd8d9225495dc37a4f9b5638
+                    - cell "Apr 3, 2026last month" [ref=e1448]:
+                      - generic [ref=e333]: Apr 3, 2026last month
+                  - 'row ".env.example, (File) docs: autonomous developer system specification (brainstorming design… May 20, 20266 hours ago" [ref=e1449]':
+                    - cell ".env.example, (File)" [ref=e336]:
+                      - generic [ref=e337]:
+                        - img [ref=e338]
+                        - link ".env.example, (File)" [ref=e343] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/.env.example
+                          - text: .env.example
+                    - 'cell "docs: autonomous developer system specification (brainstorming design…" [ref=e1450]':
+                      - 'link "docs: autonomous developer system specification (brainstorming design…" [ref=e1453] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/94ee69634e4d45e29a0bf00284508072d0291f3a
+                    - cell "May 20, 20266 hours ago" [ref=e1454]:
+                      - generic [ref=e347]: May 20, 20266 hours ago
+                  - 'row ".gitignore, (File) fix: simplify GitHub Copilot folder structure May 20, 20261 hour ago" [ref=e1455]':
+                    - cell ".gitignore, (File)" [ref=e350]:
+                      - generic [ref=e351]:
+                        - img [ref=e352]
+                        - link ".gitignore, (File)" [ref=e357] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/.gitignore
+                          - text: .gitignore
+                    - 'cell "fix: simplify GitHub Copilot folder structure" [ref=e1456]':
+                      - 'link "fix: simplify GitHub Copilot folder structure" [ref=e1459] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/ec2782542a655ad291812c12961e016327be36ec
+                    - cell "May 20, 20261 hour ago" [ref=e1460]:
+                      - generic [ref=e361]: May 20, 20261 hour ago
+                  - 'row "AGENTS.md, (File) docs: autonomous developer system specification (brainstorming design… May 20, 20266 hours ago" [ref=e1461]':
+                    - cell "AGENTS.md, (File)" [ref=e364]:
+                      - generic [ref=e365]:
+                        - img [ref=e366]
+                        - link "AGENTS.md, (File)" [ref=e371] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/AGENTS.md
+                          - text: AGENTS.md
+                    - 'cell "docs: autonomous developer system specification (brainstorming design…" [ref=e1462]':
+                      - 'link "docs: autonomous developer system specification (brainstorming design…" [ref=e1465] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/94ee69634e4d45e29a0bf00284508072d0291f3a
+                    - cell "May 20, 20266 hours ago" [ref=e1466]:
+                      - generic [ref=e375]: May 20, 20266 hours ago
+                  - 'row "AUTONOMOUS_DEVELOPER_README.md, (File) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1467]':
+                    - cell "AUTONOMOUS_DEVELOPER_README.md, (File)" [ref=e378]:
+                      - generic [ref=e379]:
+                        - img [ref=e380]
+                        - link "AUTONOMOUS_DEVELOPER_README.md, (File)" [ref=e385] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/AUTONOMOUS_DEVELOPER_README.md
+                          - text: AUTONOMOUS_DEVELOPER_README.md
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1468]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1471] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1472]:
+                      - generic [ref=e389]: May 20, 202646 minutes ago
+                  - 'row "CLAUDE.md, (File) docs: update CLAUDE.md with v4.1.0 role-based agent architecture and … May 20, 20262 hours ago" [ref=e1473]':
+                    - cell "CLAUDE.md, (File)" [ref=e392]:
+                      - generic [ref=e393]:
+                        - img [ref=e394]
+                        - link "CLAUDE.md, (File)" [ref=e399] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/CLAUDE.md
+                          - text: CLAUDE.md
+                    - 'cell "docs: update CLAUDE.md with v4.1.0 role-based agent architecture and …" [ref=e1474]':
+                      - 'link "docs: update CLAUDE.md with v4.1.0 role-based agent architecture and …" [ref=e1477] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/8b742c02e7e8f3bc5a8c4147db243c49439753f6
+                    - cell "May 20, 20262 hours ago" [ref=e1478]:
+                      - generic [ref=e403]: May 20, 20262 hours ago
+                  - 'row "NEW_FEATURES_SUMMARY.md, (File) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1479]':
+                    - cell "NEW_FEATURES_SUMMARY.md, (File)" [ref=e406]:
+                      - generic [ref=e407]:
+                        - img [ref=e408]
+                        - link "NEW_FEATURES_SUMMARY.md, (File)" [ref=e413] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/NEW_FEATURES_SUMMARY.md
+                          - text: NEW_FEATURES_SUMMARY.md
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1480]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1483] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1484]:
+                      - generic [ref=e417]: May 20, 202646 minutes ago
+                  - 'row "README.md, (File) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1485]':
+                    - cell "README.md, (File)" [ref=e420]:
+                      - generic [ref=e421]:
+                        - img [ref=e422]
+                        - link "README.md, (File)" [ref=e427] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/README.md
+                          - text: README.md
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1486]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1489] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1490]:
+                      - generic [ref=e431]: May 20, 202646 minutes ago
+                  - 'row "SETUP_GUIDE.md, (File) docs: add quick setup guide for autonomous developer system May 20, 20265 hours ago" [ref=e1491]':
+                    - cell "SETUP_GUIDE.md, (File)" [ref=e434]:
+                      - generic [ref=e435]:
+                        - img [ref=e436]
+                        - link "SETUP_GUIDE.md, (File)" [ref=e441] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/SETUP_GUIDE.md
+                          - text: SETUP_GUIDE.md
+                    - 'cell "docs: add quick setup guide for autonomous developer system" [ref=e1492]':
+                      - 'link "docs: add quick setup guide for autonomous developer system" [ref=e1495] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/86687fba8ddc14c5eca9cb40cd7ee9eb85ca4e40
+                    - cell "May 20, 20265 hours ago" [ref=e1496]:
+                      - generic [ref=e445]: May 20, 20265 hours ago
+                  - 'row "SHARING_CHECKLIST.md, (File) refactor: simplify copilot folder structure and clean up agents direc… May 20, 202646 minutes ago" [ref=e1497]':
+                    - cell "SHARING_CHECKLIST.md, (File)" [ref=e448]:
+                      - generic [ref=e449]:
+                        - img [ref=e450]
+                        - link "SHARING_CHECKLIST.md, (File)" [ref=e455] [cursor=pointer]:
+                          - /url: /sharmapuneet1510/awesome-prompts/blob/main/SHARING_CHECKLIST.md
+                          - text: SHARING_CHECKLIST.md
+                    - 'cell "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1498]':
+                      - 'link "refactor: simplify copilot folder structure and clean up agents direc…" [ref=e1501] [cursor=pointer]':
+                        - /url: /sharmapuneet1510/awesome-prompts/commit/2b34fc8828aba5cb082fca21fda6dc53fd39ec33
+                    - cell "May 20, 202646 minutes ago" [ref=e1502]:
+                      - generic [ref=e459]: May 20, 202646 minutes ago
+            - generic [ref=e462]:
+              - generic [ref=e463]:
+                - heading "Repository files navigation" [level=2] [ref=e464]
+                - navigation "Repository files" [ref=e465]:
+                  - list [ref=e466]:
+                    - listitem [ref=e467]:
+                      - link "README" [ref=e468] [cursor=pointer]:
+                        - /url: "#"
+                        - img [ref=e470]
+                        - generic [ref=e472]: README
+                - button "Outline" [ref=e473] [cursor=pointer]:
+                  - img [ref=e474]
+              - article [ref=e477]:
+                - generic [ref=e478]:
+                  - heading "🤖 Awesome Prompts — AI-Driven Development System" [level=1] [ref=e479]
+                  - 'link "Permalink: 🤖 Awesome Prompts — AI-Driven Development System" [ref=e480] [cursor=pointer]':
+                    - /url: "#-awesome-prompts--ai-driven-development-system"
+                    - img [ref=e481]
+                - blockquote [ref=e483]:
+                  - paragraph [ref=e484]:
+                    - strong [ref=e485]: Enterprise-grade AI agents + reusable skills for autonomous code generation, comprehensive testing, and auto-documentation across Java, Python, React, and TypeScript.
+                - paragraph [ref=e486]:
+                  - link "Status" [ref=e487] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/blob/main
+                    - img "Status" [ref=e488]
+                  - link "Version" [ref=e489] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/blob/main
+                    - img "Version" [ref=e490]
+                  - link "License" [ref=e491] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/blob/main
+                    - img "License" [ref=e492]
+                  - link "Last Updated" [ref=e493] [cursor=pointer]:
+                    - /url: /sharmapuneet1510/awesome-prompts/blob/main
+                    - img "Last Updated" [ref=e494]
+                - paragraph [ref=e495]:
+                  - text: "Compatible with:"
+                  - strong [ref=e496]: Claude Code
+                  - text: •
+                  - strong [ref=e497]: GitHub Copilot
+                  - text: •
+                  - strong [ref=e498]: Cursor
+                  - text: •
+                  - strong [ref=e499]: Windsurf
+                  - text: •
+                  - strong [ref=e500]: VS Code
+                  - text: •
+                  - strong [ref=e501]: Gemini CLI
+                  - text: •
+                  - strong [ref=e502]: Continue.dev
+                  - text: •
+                  - strong [ref=e503]: OpenAI
+                  - text: •
+                  - strong [ref=e504]: Aider
+                - separator [ref=e505]
+                - generic [ref=e506]:
+                  - heading "🎯 What This Is" [level=2] [ref=e507]
+                  - 'link "Permalink: 🎯 What This Is" [ref=e508] [cursor=pointer]':
+                    - /url: "#-what-this-is"
+                    - img [ref=e509]
+                - paragraph [ref=e511]:
+                  - strong [ref=e512]: Awesome Prompts
+                  - text: is a comprehensive system of
+                  - strong [ref=e513]: 5 AI agents
+                  - text: +
+                  - strong [ref=e514]: 7 reusable skills
+                  - text: "that transform requirements into production-ready code with:"
+                - paragraph [ref=e515]:
+                  - text: ✅
+                  - strong [ref=e516]: 100% test coverage
+                  - text: — Unit, integration, and E2E tests
+                  - text: ✅
+                  - strong [ref=e517]: Complete documentation
+                  - text: — JSDoc, docstrings, Javadoc (auto-generated)
+                  - text: ✅
+                  - strong [ref=e518]: JIRA integration
+                  - text: — Fetch requirements, validate acceptance criteria
+                  - text: ✅
+                  - strong [ref=e519]: Business validation
+                  - text: — Ensure tests verify real requirements, not just code
+                  - text: ✅
+                  - strong [ref=e520]: Multi-tech support
+                  - text: — Java, Python, React, TypeScript, Node.js
+                  - text: ✅
+                  - strong [ref=e521]: Auto-context generation
+                  - text: — architecture.md, context.json, interactive visualization
+                  - text: ✅
+                  - strong [ref=e522]: Autonomous orchestration
+                  - text: — Build complete systems (DB + API + UI + tests)
+                - separator [ref=e523]
+                - generic [ref=e524]:
+                  - heading "🏗️ System Architecture" [level=2] [ref=e525]
+                  - 'link "Permalink: 🏗️ System Architecture" [ref=e526] [cursor=pointer]':
+                    - /url: "#️-system-architecture"
+                    - img [ref=e527]
+                - generic [ref=e529]:
+                  - code [ref=e531]: ┌─────────────────────────────────────────────────────────────────┐ │ User Requirement │ │ (Free text / JIRA / File / Auto-detect) │ └────────────────────────┬────────────────────────────────────────┘ ↓ ┌────────────────────────────────────┐ │ Implementation Agent v3.0 │ │ Full-Lifecycle Feature Builder │ │ • Gather requirements │ │ • Detect tech stack │ │ • Generate code + tests + docs │ └────────────────────────────────────┘ ↓ ┌────────────────────────────────────┐ │ Code Documentation Skill v1.0 │ │ (JSDoc/docstrings/Javadoc) │ │ • 100% method coverage │ │ • Parameters + returns + examples │ │ • Business requirement links │ └────────────────────────────────────┘ ↓ ┌────────────────────────────────────┐ │ Test Case Generator Agent v1.0 │ │ 100% Coverage + Business Validation│ │ • Unit + integration + E2E tests │ │ • JIRA acceptance criteria check │ │ • Auto-documented test methods │ └────────────────────────────────────┘ ↓ ┌────────────────────────────────────┐ │ Code Review Agent v2.0 │ │ Quality + Security + Patterns │ │ • SOLID principles enforcement │ │ • Performance analysis │ │ • Documentation validation │ └────────────────────────────────────┘ ↓ ┌────────────────────────────────────┐ │ Autonomous Dev Agent v1.0 │ │ Full-Stack Orchestrator │ │ • DB + Backend + Frontend + Tests │ │ • Knowledge graph generation │ │ • GitHub PR creation │ └────────────────────────────────────┘ ↓ ✅ PRODUCTION-READY CODE (Code + 100% Tests + Documentation + Context)
+                  - button "Copy code to clipboard" [ref=e533] [cursor=pointer]:
+                    - img [ref=e534]
+                - separator [ref=e537]
+                - generic [ref=e538]:
+                  - heading "📦 Core Components" [level=2] [ref=e539]
+                  - 'link "Permalink: 📦 Core Components" [ref=e540] [cursor=pointer]':
+                    - /url: "#-core-components"
+                    - img [ref=e541]
+                - generic [ref=e543]:
+                  - heading "5 AI Agents" [level=3] [ref=e544]:
+                    - strong [ref=e545]: 5 AI Agents
+                  - 'link "Permalink: 5 AI Agents" [ref=e546] [cursor=pointer]':
+                    - /url: "#5-ai-agents"
+                    - img [ref=e547]
+                - table [ref=e550]:
+                  - rowgroup [ref=e551]:
+                    - row "Agent Purpose Input Output Coverage" [ref=e552]:
+                      - columnheader "Agent" [ref=e553]
+                      - columnheader "Purpose" [ref=e554]
+                      - columnheader "Input" [ref=e555]
+                      - columnheader "Output" [ref=e556]
+                      - columnheader "Coverage" [ref=e557]
+                  - rowgroup [ref=e558]:
+                    - row "Implementation Build features end-to-end Requirement Code + tests + docs Full lifecycle" [ref=e559]:
+                      - cell "Implementation" [ref=e560]:
+                        - strong [ref=e561]: Implementation
+                      - cell "Build features end-to-end" [ref=e562]
+                      - cell "Requirement" [ref=e563]
+                      - cell "Code + tests + docs" [ref=e564]
+                      - cell "Full lifecycle" [ref=e565]
+                    - row "Test Generator Generate 100% coverage tests Code files + test type Comprehensive test suite 100% coverage" [ref=e566]:
+                      - cell "Test Generator" [ref=e567]:
+                        - strong [ref=e568]: Test Generator
+                      - cell "Generate 100% coverage tests" [ref=e569]
+                      - cell "Code files + test type" [ref=e570]
+                      - cell "Comprehensive test suite" [ref=e571]
+                      - cell "100% coverage" [ref=e572]
+                    - row "Code Review Analyze design + quality Source code Issues + severity + fixes Design + perf + security" [ref=e573]:
+                      - cell "Code Review" [ref=e574]:
+                        - strong [ref=e575]: Code Review
+                      - cell "Analyze design + quality" [ref=e576]
+                      - cell "Source code" [ref=e577]
+                      - cell "Issues + severity + fixes" [ref=e578]
+                      - cell "Design + perf + security" [ref=e579]
+                    - row "Writer Auto-generate documentation Code files JSDoc/docstrings/Javadoc 100% APIs" [ref=e580]:
+                      - cell "Writer" [ref=e581]:
+                        - strong [ref=e582]: Writer
+                      - cell "Auto-generate documentation" [ref=e583]
+                      - cell "Code files" [ref=e584]
+                      - cell "JSDoc/docstrings/Javadoc" [ref=e585]
+                      - cell "100% APIs" [ref=e586]
+                    - row "Autonomous Dev Orchestrate full projects Requirement Complete system DB + API + UI + tests" [ref=e587]:
+                      - cell "Autonomous Dev" [ref=e588]:
+                        - strong [ref=e589]: Autonomous Dev
+                      - cell "Orchestrate full projects" [ref=e590]
+                      - cell "Requirement" [ref=e591]
+                      - cell "Complete system" [ref=e592]
+                      - cell "DB + API + UI + tests" [ref=e593]
+                - generic [ref=e594]:
+                  - heading "7 Reusable Skills" [level=3] [ref=e595]:
+                    - strong [ref=e596]: 7 Reusable Skills
+                  - 'link "Permalink: 7 Reusable Skills" [ref=e597] [cursor=pointer]':
+                    - /url: "#7-reusable-skills"
+                    - img [ref=e598]
+                - table [ref=e601]:
+                  - rowgroup [ref=e602]:
+                    - row "Skill Purpose Tech Stack Used By" [ref=e603]:
+                      - columnheader "Skill" [ref=e604]
+                      - columnheader "Purpose" [ref=e605]
+                      - columnheader "Tech Stack" [ref=e606]
+                      - columnheader "Used By" [ref=e607]
+                  - rowgroup [ref=e608]:
+                    - row "code_documentation JSDoc/docstrings/Javadoc JS/TS/Python/Java All agents" [ref=e609]:
+                      - cell "code_documentation" [ref=e610]:
+                        - strong [ref=e611]: code_documentation
+                      - cell "JSDoc/docstrings/Javadoc" [ref=e612]
+                      - cell "JS/TS/Python/Java" [ref=e613]
+                      - cell "All agents" [ref=e614]
+                    - row "database SQL schema + migrations PostgreSQL/MySQL Autonomous Dev" [ref=e615]:
+                      - cell "database" [ref=e616]:
+                        - strong [ref=e617]: database
+                      - cell "SQL schema + migrations" [ref=e618]
+                      - cell "PostgreSQL/MySQL" [ref=e619]
+                      - cell "Autonomous Dev" [ref=e620]
+                    - row "backend REST APIs + services FastAPI/Spring Boot Implementation + Autonomous" [ref=e621]:
+                      - cell "backend" [ref=e622]:
+                        - strong [ref=e623]: backend
+                      - cell "REST APIs + services" [ref=e624]
+                      - cell "FastAPI/Spring Boot" [ref=e625]
+                      - cell "Implementation + Autonomous" [ref=e626]
+                    - row "frontend React components + hooks React/TypeScript Implementation + Autonomous" [ref=e627]:
+                      - cell "frontend" [ref=e628]:
+                        - strong [ref=e629]: frontend
+                      - cell "React components + hooks" [ref=e630]
+                      - cell "React/TypeScript" [ref=e631]
+                      - cell "Implementation + Autonomous" [ref=e632]
+                    - row "test Test generation JUnit5/pytest/Jest Test Generator" [ref=e633]:
+                      - cell "test" [ref=e634]:
+                        - strong [ref=e635]: test
+                      - cell "Test generation" [ref=e636]
+                      - cell "JUnit5/pytest/Jest" [ref=e637]
+                      - cell "Test Generator" [ref=e638]
+                    - row "context_builder Architecture understanding All stacks All agents" [ref=e639]:
+                      - cell "context_builder" [ref=e640]:
+                        - strong [ref=e641]: context_builder
+                      - cell "Architecture understanding" [ref=e642]
+                      - cell "All stacks" [ref=e643]
+                      - cell "All agents" [ref=e644]
+                    - row "apache_camel Integration patterns Camel/Java Integration Agent" [ref=e645]:
+                      - cell "apache_camel" [ref=e646]:
+                        - strong [ref=e647]: apache_camel
+                      - cell "Integration patterns" [ref=e648]
+                      - cell "Camel/Java" [ref=e649]
+                      - cell "Integration Agent" [ref=e650]
+                - separator [ref=e651]
+                - generic [ref=e652]:
+                  - heading "🚀 Quick Start" [level=2] [ref=e653]
+                  - 'link "Permalink: 🚀 Quick Start" [ref=e654] [cursor=pointer]':
+                    - /url: "#-quick-start"
+                    - img [ref=e655]
+                - generic [ref=e657]:
+                  - 'heading "Option 1: Interactive Setup (Recommended)" [level=3] [ref=e658]':
+                    - strong [ref=e659]: "Option 1: Interactive Setup"
+                    - text: (Recommended)
+                  - 'link "Permalink: Option 1: Interactive Setup (Recommended)" [ref=e660] [cursor=pointer]':
+                    - /url: "#option-1-interactive-setup-recommended"
+                    - img [ref=e661]
+                - generic [ref=e663]:
+                  - generic [ref=e664]:
+                    - text: python tools/exporter.py --interactive
+                    - generic [ref=e665]: "# Asks:"
+                    - generic [ref=e666]: "# 1. Project root directory?"
+                    - generic [ref=e667]: "# 2. Target platforms? (select multiple)"
+                    - generic [ref=e668]: "# 3. Ready to export?"
+                    - generic [ref=e669]: "# Result: Creates folder structure in your project and copies files there"
+                  - button "Copy code to clipboard" [ref=e671] [cursor=pointer]:
+                    - img [ref=e672]
+                - paragraph [ref=e675]:
+                  - strong [ref=e676]: "What it does:"
+                - list [ref=e677]:
+                  - listitem [ref=e678]:
+                    - text: Creates platform-specific folders (
+                    - code [ref=e679]: .github/instructions
+                    - text: ","
+                    - code [ref=e680]: .github/agents
+                    - text: ","
+                    - code [ref=e681]: .claude/skills
+                    - text: ","
+                    - code [ref=e682]: .claude/agents
+                    - text: ", etc.)"
+                  - listitem [ref=e683]: Copies skills and agents to your target project
+                  - listitem [ref=e684]: Ready to use immediately in your IDE
+                - generic [ref=e685]:
+                  - 'heading "Option 2: In Claude Code / Copilot" [level=3] [ref=e686]':
+                    - strong [ref=e687]: "Option 2: In Claude Code / Copilot"
+                  - 'link "Permalink: Option 2: In Claude Code / Copilot" [ref=e688] [cursor=pointer]':
+                    - /url: "#option-2-in-claude-code--copilot"
+                    - img [ref=e689]
+                - generic [ref=e691]:
+                  - code [ref=e693]: "\"Implement user registration with email validation\" ↓ → Requirement input → Code generation → Test generation (100% coverage) → Auto-documentation → Git commit"
+                  - button "Copy code to clipboard" [ref=e695] [cursor=pointer]:
+                    - img [ref=e696]
+                - generic [ref=e699]:
+                  - 'heading "Option 3: JIRA-Driven Development" [level=3] [ref=e700]':
+                    - strong [ref=e701]: "Option 3: JIRA-Driven Development"
+                  - 'link "Permalink: Option 3: JIRA-Driven Development" [ref=e702] [cursor=pointer]':
+                    - /url: "#option-3-jira-driven-development"
+                    - img [ref=e703]
+                - generic [ref=e705]:
+                  - code [ref=e707]: "\"Generate tests for AUTH-789\" ↓ → Fetch JIRA ticket → Extract acceptance criteria → Plan test cases (mapped to criteria) → Validate all criteria tested → 100% coverage + business validated"
+                  - button "Copy code to clipboard" [ref=e709] [cursor=pointer]:
+                    - img [ref=e710]
+                - separator [ref=e713]
+                - generic [ref=e714]:
+                  - heading "📋 Complete Workflows" [level=2] [ref=e715]
+                  - 'link "Permalink: 📋 Complete Workflows" [ref=e716] [cursor=pointer]':
+                    - /url: "#-complete-workflows"
+                    - img [ref=e717]
+                - generic [ref=e719]:
+                  - 'heading "Workflow 1: Feature Implementation (Code + Tests + Docs)" [level=3] [ref=e720]':
+                    - strong [ref=e721]: "Workflow 1: Feature Implementation"
+                    - text: (Code + Tests + Docs)
+                  - 'link "Permalink: Workflow 1: Feature Implementation (Code + Tests + Docs)" [ref=e722] [cursor=pointer]':
+                    - /url: "#workflow-1-feature-implementation-code--tests--docs"
+                    - img [ref=e723]
+                - generic [ref=e725]:
+                  - code [ref=e727]: "User Request: \"Build password reset feature with email sending\" ↓ Implementation Agent (7 steps): 1. STEP 0: Gather requirement (free text) 2. STEP 1: Load context (detect Python + FastAPI) 3. STEP 2: Confirm requirement 4. STEP 3: Plan (email service + reset flow) 5. STEP 4: Apply backend_skill 6. STEP 5-6: Implement + test with pytest 7. STEP 7: Apply code_documentation_skill ↓ Output: ✅ routes/reset_password.py ✅ services/email_service.py ✅ test_reset_password.py (100% coverage) ✅ Docstrings on all methods ✅ Git commit: \"feat: add password reset with email\""
+                  - button "Copy code to clipboard" [ref=e729] [cursor=pointer]:
+                    - img [ref=e730]
+                - generic [ref=e733]:
+                  - 'heading "Workflow 2: Test Generation (100% Coverage + Business Validation)" [level=3] [ref=e734]':
+                    - strong [ref=e735]: "Workflow 2: Test Generation"
+                    - text: (100% Coverage + Business Validation)
+                  - 'link "Permalink: Workflow 2: Test Generation (100% Coverage + Business Validation)" [ref=e736] [cursor=pointer]':
+                    - /url: "#workflow-2-test-generation-100-coverage--business-validation"
+                    - img [ref=e737]
+                - generic [ref=e739]:
+                  - code [ref=e741]: "User Request: \"Generate tests for AUTH-789\" ↓ Test Case Generator (10 steps): 1. STEP 0: Fetch JIRA AUTH-789 2. STEP 1: Test type = unit + integration 3. STEP 2-3: Analyze LoginService code 4. STEP 4: Plan 8 test cases 5. STEP 5-6: Generate JUnit5 tests 6. STEP 7: Document with JSDoc 7. STEP 8: Validate all 4 acceptance criteria covered ✓ 8. STEP 9: Run tests (all 8 pass) 9. STEP 10: Commit ↓ Output: ✅ LoginServiceTest.java (8 tests) ✅ 100% line coverage ✅ All 4 JIRA criteria tested ✅ JSDoc on every test method ✅ Coverage report with business validation ✅ Git commit: \"test: add AUTH-789 tests (4/4 criteria)\""
+                  - button "Copy code to clipboard" [ref=e743] [cursor=pointer]:
+                    - img [ref=e744]
+                - generic [ref=e747]:
+                  - 'heading "Workflow 3: Full-Stack Generation (DB + API + UI + Tests)" [level=3] [ref=e748]':
+                    - strong [ref=e749]: "Workflow 3: Full-Stack Generation"
+                    - text: (DB + API + UI + Tests)
+                  - 'link "Permalink: Workflow 3: Full-Stack Generation (DB + API + UI + Tests)" [ref=e750] [cursor=pointer]':
+                    - /url: "#workflow-3-full-stack-generation-db--api--ui--tests"
+                    - img [ref=e751]
+                - generic [ref=e753]:
+                  - code [ref=e755]: "User Request: \"Build e-commerce shopping cart with checkout\" ↓ Autonomous Dev Agent (14 steps): 1. Parse requirements 2. Build context (architecture.md, context.json) 3. Generate task specs (01-05) 4. Execute sequentially: • Task 01: Database schema (PostgreSQL) • Task 02: Cart API (FastAPI routes) • Task 03: Checkout UI (React components) • Task 04: Integration tests • Task 05: Deployment config 5. Apply code_documentation_skill (final pass) 6. Create GitHub PR ↓ Output: ✅ Database migrations + schema ✅ REST API endpoints (CRUD operations) ✅ React UI (cart, checkout, forms) ✅ 40+ tests (unit + integration + E2E) ✅ JSDoc/docstrings on all code ✅ Architecture visualization (design.html) ✅ GitHub PR ready for review"
+                  - button "Copy code to clipboard" [ref=e757] [cursor=pointer]:
+                    - img [ref=e758]
+                - separator [ref=e761]
+                - generic [ref=e762]:
+                  - heading "📁 Directory Structure" [level=2] [ref=e763]
+                  - 'link "Permalink: 📁 Directory Structure" [ref=e764] [cursor=pointer]':
+                    - /url: "#-directory-structure"
+                    - img [ref=e765]
+                - generic [ref=e767]:
+                  - code [ref=e769]: "awesome-prompts/ ├── agents/ # AI agent definitions │ ├── implementation_agent.md # Full-lifecycle feature builder │ ├── test_case_generator_agent.md # 100% coverage test generation │ ├── code_review_agent.md # Code quality + security │ ├── writer_agent.md # Auto-generate documentation │ ├── integration_agent.md # CI/CD + DevOps │ ├── context/ │ │ └── context_builder_agent.md # Interactive project analysis │ ├── autonomous/ │ │ └── autonomous_dev_agent.md # Full-stack orchestrator │ └── README.md # Agent reference guide │ ├── skills/ # Reusable implementation skills │ ├── code_documentation_skill.md # JSDoc/docstrings/Javadoc (NEW) │ ├── database_skill.md # SQL schema + migrations │ ├── backend_skill.md # REST API generation │ ├── frontend_skill.md # React component generation │ ├── test_skill.md # Test case generation │ ├── context_builder_skill.md # Architecture scanning │ ├── spring_advanced_skill.md # Spring Boot patterns │ └── apache_camel_skill.md # Integration patterns │ ├── instructions/ # Universal rules for all agents │ ├── master_instruction_set.md # Non-negotiable standards │ ├── java_project_intake.md # Java-specific questions │ └── python_project_intake.md # Python-specific questions │ ├── tools/ # Python utilities │ ├── exporter.py # Export to 8 platforms │ ├── requirement_parser.py # Parse requirements │ ├── context_builder.py # Build project context │ ├── task_generator.py # Create task specs │ ├── graphify_integrator.py # Knowledge graphs │ ├── github_sync.py # GitHub PR creation │ ├── generate_design_html.py # Interactive visualization │ └── update_checker.py # Auto-update checker │ ├── docs/ # Documentation │ ├── requirement_input_guide.md # How to provide requirements │ ├── AUTONOMOUS_DEVELOPER_README.md # Full system overview │ ├── superpowers/specs/ # Design specifications │ └── superpowers/plans/ # Implementation plans │ ├── AUTONOMOUS_DEVELOPER_README.md # v3.0 system overview ├── README.md # This file └── CLAUDE.md # Project-specific instructions"
+                  - button "Copy code to clipboard" [ref=e771] [cursor=pointer]:
+                    - img [ref=e772]
+                - separator [ref=e775]
+                - generic [ref=e776]:
+                  - heading "🛠️ Tech Stack Support" [level=2] [ref=e777]
+                  - 'link "Permalink: 🛠️ Tech Stack Support" [ref=e778] [cursor=pointer]':
+                    - /url: "#️-tech-stack-support"
+                    - img [ref=e779]
+                - table [ref=e782]:
+                  - rowgroup [ref=e783]:
+                    - row "Layer Technologies Test Framework Documentation" [ref=e784]:
+                      - columnheader "Layer" [ref=e785]
+                      - columnheader "Technologies" [ref=e786]
+                      - columnheader "Test Framework" [ref=e787]
+                      - columnheader "Documentation" [ref=e788]
+                  - rowgroup [ref=e789]:
+                    - row "Backend Java, Python, Node.js JUnit5, pytest, Jest Javadoc, docstrings, JSDoc" [ref=e790]:
+                      - cell "Backend" [ref=e791]:
+                        - strong [ref=e792]: Backend
+                      - cell "Java, Python, Node.js" [ref=e793]
+                      - cell "JUnit5, pytest, Jest" [ref=e794]
+                      - cell "Javadoc, docstrings, JSDoc" [ref=e795]
+                    - row "Frontend React, Vue, Angular Jest, React Testing Library JSDoc, TypeScript types" [ref=e796]:
+                      - cell "Frontend" [ref=e797]:
+                        - strong [ref=e798]: Frontend
+                      - cell "React, Vue, Angular" [ref=e799]
+                      - cell "Jest, React Testing Library" [ref=e800]
+                      - cell "JSDoc, TypeScript types" [ref=e801]
+                    - row "Database PostgreSQL, MySQL, MongoDB Integration tests Schema docs" [ref=e802]:
+                      - cell "Database" [ref=e803]:
+                        - strong [ref=e804]: Database
+                      - cell "PostgreSQL, MySQL, MongoDB" [ref=e805]
+                      - cell "Integration tests" [ref=e806]
+                      - cell "Schema docs" [ref=e807]
+                    - row "Testing Unit, Integration, E2E All frameworks Test documentation" [ref=e808]:
+                      - cell "Testing" [ref=e809]:
+                        - strong [ref=e810]: Testing
+                      - cell "Unit, Integration, E2E" [ref=e811]
+                      - cell "All frameworks" [ref=e812]
+                      - cell "Test documentation" [ref=e813]
+                - separator [ref=e814]
+                - generic [ref=e815]:
+                  - heading "✨ Key Features" [level=2] [ref=e816]
+                  - 'link "Permalink: ✨ Key Features" [ref=e817] [cursor=pointer]':
+                    - /url: "#-key-features"
+                    - img [ref=e818]
+                - generic [ref=e820]:
+                  - heading "1. Intelligent Requirement Gathering" [level=3] [ref=e821]:
+                    - strong [ref=e822]: 1. Intelligent Requirement Gathering
+                  - 'link "Permalink: 1. Intelligent Requirement Gathering" [ref=e823] [cursor=pointer]':
+                    - /url: "#1-intelligent-requirement-gathering"
+                    - img [ref=e824]
+                - list [ref=e826]:
+                  - listitem [ref=e827]: Free text input with AI parsing
+                  - listitem [ref=e828]: JIRA ticket fetching (via MCP)
+                  - listitem [ref=e829]: Requirement file parsing (.md, .txt, .yaml)
+                  - listitem [ref=e830]: Auto-detect from project root
+                - generic [ref=e831]:
+                  - heading "2. Full-Lifecycle Development" [level=3] [ref=e832]:
+                    - strong [ref=e833]: 2. Full-Lifecycle Development
+                  - 'link "Permalink: 2. Full-Lifecycle Development" [ref=e834] [cursor=pointer]':
+                    - /url: "#2-full-lifecycle-development"
+                    - img [ref=e835]
+                - list [ref=e837]:
+                  - listitem [ref=e838]:
+                    - strong [ref=e839]: Create
+                    - text: — Generate production code
+                  - listitem [ref=e840]:
+                    - strong [ref=e841]: Test
+                    - text: — 100% coverage with business validation
+                  - listitem [ref=e842]:
+                    - strong [ref=e843]: Document
+                    - text: — Auto-generate JSDoc/docstrings/Javadoc
+                  - listitem [ref=e844]:
+                    - strong [ref=e845]: Commit
+                    - text: — Clear git messages with references
+                - generic [ref=e846]:
+                  - heading "3. Business Requirement Validation" [level=3] [ref=e847]:
+                    - strong [ref=e848]: 3. Business Requirement Validation
+                  - 'link "Permalink: 3. Business Requirement Validation" [ref=e849] [cursor=pointer]':
+                    - /url: "#3-business-requirement-validation"
+                    - img [ref=e850]
+                - list [ref=e852]:
+                  - listitem [ref=e853]: JIRA integration for acceptance criteria
+                  - listitem [ref=e854]: Test coverage mapping (3/4 criteria tested?)
+                  - listitem [ref=e855]: Business commentary in code
+                  - listitem [ref=e856]: Validation reports
+                - generic [ref=e857]:
+                  - heading "4. Professional Documentation" [level=3] [ref=e858]:
+                    - strong [ref=e859]: 4. Professional Documentation
+                  - 'link "Permalink: 4. Professional Documentation" [ref=e860] [cursor=pointer]':
+                    - /url: "#4-professional-documentation"
+                    - img [ref=e861]
+                - list [ref=e863]:
+                  - listitem [ref=e864]: JSDoc for JavaScript/TypeScript
+                  - listitem [ref=e865]: Google docstrings for Python
+                  - listitem [ref=e866]: Javadoc for Java
+                  - listitem [ref=e867]: Examples + edge cases + performance notes
+                - generic [ref=e868]:
+                  - heading "5. Context Generation" [level=3] [ref=e869]:
+                    - strong [ref=e870]: 5. Context Generation
+                  - 'link "Permalink: 5. Context Generation" [ref=e871] [cursor=pointer]':
+                    - /url: "#5-context-generation"
+                    - img [ref=e872]
+                - list [ref=e874]:
+                  - listitem [ref=e875]: architecture.md with Mermaid diagrams
+                  - listitem [ref=e876]: context.json (machine-readable)
+                  - listitem [ref=e877]: tech-stack.md with skill mappings
+                  - listitem [ref=e878]: design.html (interactive visualization)
+                - generic [ref=e879]:
+                  - heading "6. Multi-Platform Export" [level=3] [ref=e880]:
+                    - strong [ref=e881]: 6. Multi-Platform Export
+                  - 'link "Permalink: 6. Multi-Platform Export" [ref=e882] [cursor=pointer]':
+                    - /url: "#6-multi-platform-export"
+                    - img [ref=e883]
+                - list [ref=e885]:
+                  - listitem [ref=e886]: Claude Code, Copilot, Cursor, Windsurf, VS Code, Gemini, Continue, OpenAI, Aider
+                - separator [ref=e887]
+                - generic [ref=e888]:
+                  - heading "📊 Quality Standards" [level=2] [ref=e889]
+                  - 'link "Permalink: 📊 Quality Standards" [ref=e890] [cursor=pointer]':
+                    - /url: "#-quality-standards"
+                    - img [ref=e891]
+                - table [ref=e894]:
+                  - rowgroup [ref=e895]:
+                    - row "Metric Standard Status" [ref=e896]:
+                      - columnheader "Metric" [ref=e897]
+                      - columnheader "Standard" [ref=e898]
+                      - columnheader "Status" [ref=e899]
+                  - rowgroup [ref=e900]:
+                    - row "Test Coverage 95%+ ✅ Automated" [ref=e901]:
+                      - cell "Test Coverage" [ref=e902]:
+                        - strong [ref=e903]: Test Coverage
+                      - cell "95%+" [ref=e904]
+                      - cell "✅ Automated" [ref=e905]
+                    - row "Documentation 100% APIs ✅ Auto-generated" [ref=e906]:
+                      - cell "Documentation" [ref=e907]:
+                        - strong [ref=e908]: Documentation
+                      - cell "100% APIs" [ref=e909]
+                      - cell "✅ Auto-generated" [ref=e910]
+                    - row "Code Quality SOLID + Design Patterns ✅ Validated" [ref=e911]:
+                      - cell "Code Quality" [ref=e912]:
+                        - strong [ref=e913]: Code Quality
+                      - cell "SOLID + Design Patterns" [ref=e914]
+                      - cell "✅ Validated" [ref=e915]
+                    - row "Security Input validation + SQL injection prevention ✅ Built-in" [ref=e916]:
+                      - cell "Security" [ref=e917]:
+                        - strong [ref=e918]: Security
+                      - cell "Input validation + SQL injection prevention" [ref=e919]
+                      - cell "✅ Built-in" [ref=e920]
+                    - row "Performance <100ms endpoints ✅ Verified" [ref=e921]:
+                      - cell "Performance" [ref=e922]:
+                        - strong [ref=e923]: Performance
+                      - cell "<100ms endpoints" [ref=e924]
+                      - cell "✅ Verified" [ref=e925]
+                    - row "Accessibility WCAG 2.1 AA ✅ Checked" [ref=e926]:
+                      - cell "Accessibility" [ref=e927]:
+                        - strong [ref=e928]: Accessibility
+                      - cell "WCAG 2.1 AA" [ref=e929]
+                      - cell "✅ Checked" [ref=e930]
+                - separator [ref=e931]
+                - generic [ref=e932]:
+                  - heading "🎓 Examples" [level=2] [ref=e933]
+                  - 'link "Permalink: 🎓 Examples" [ref=e934] [cursor=pointer]':
+                    - /url: "#-examples"
+                    - img [ref=e935]
+                - generic [ref=e937]:
+                  - 'heading "Example 1: Login Feature with Tests" [level=3] [ref=e938]'
+                  - 'link "Permalink: Example 1: Login Feature with Tests" [ref=e939] [cursor=pointer]':
+                    - /url: "#example-1-login-feature-with-tests"
+                    - img [ref=e940]
+                - generic [ref=e942]:
+                  - code [ref=e944]: "User: \"Build JWT login endpoint\" Output: ✅ LoginController (Spring Boot) ✅ LoginService (Business logic) ✅ 8 JUnit5 tests (100% coverage) ✅ Javadoc on all methods ✅ Error handling + validation"
+                  - button "Copy code to clipboard" [ref=e946] [cursor=pointer]:
+                    - img [ref=e947]
+                - generic [ref=e950]:
+                  - 'heading "Example 2: JIRA-Driven Tests" [level=3] [ref=e951]'
+                  - 'link "Permalink: Example 2: JIRA-Driven Tests" [ref=e952] [cursor=pointer]':
+                    - /url: "#example-2-jira-driven-tests"
+                    - img [ref=e953]
+                - generic [ref=e955]:
+                  - code [ref=e957]: "User: \"Generate tests for AUTH-456\" → Fetch JIRA (4 acceptance criteria) → Plan 8 test cases → Generate pytest tests → Validate all 4 criteria tested Output: 100% coverage + business validated"
+                  - button "Copy code to clipboard" [ref=e959] [cursor=pointer]:
+                    - img [ref=e960]
+                - generic [ref=e963]:
+                  - 'heading "Example 3: React Component with Tests" [level=3] [ref=e964]'
+                  - 'link "Permalink: Example 3: React Component with Tests" [ref=e965] [cursor=pointer]':
+                    - /url: "#example-3-react-component-with-tests"
+                    - img [ref=e966]
+                - generic [ref=e968]:
+                  - code [ref=e970]: "User: \"Build LoginForm component\" Output: ✅ LoginForm.tsx (React + TypeScript) ✅ LoginForm.test.tsx (Jest + RTL) ✅ JSDoc on all methods ✅ 85%+ component coverage ✅ Accessibility verified (A11Y)"
+                  - button "Copy code to clipboard" [ref=e972] [cursor=pointer]:
+                    - img [ref=e973]
+                - separator [ref=e976]
+                - generic [ref=e977]:
+                  - heading "🔧 Installation & Setup" [level=2] [ref=e978]
+                  - 'link "Permalink: 🔧 Installation & Setup" [ref=e979] [cursor=pointer]':
+                    - /url: "#-installation--setup"
+                    - img [ref=e980]
+                - generic [ref=e982]:
+                  - heading "Requirements" [level=3] [ref=e983]
+                  - 'link "Permalink: Requirements" [ref=e984] [cursor=pointer]':
+                    - /url: "#requirements"
+                    - img [ref=e985]
+                - list [ref=e987]:
+                  - listitem [ref=e988]:
+                    - text: "Python 3.9+ (auto-detected: works with"
+                    - code [ref=e989]: python
+                    - text: or
+                    - code [ref=e990]: python3
+                    - text: )
+                  - listitem [ref=e991]: Node.js 16+ (for JavaScript projects)
+                  - listitem [ref=e992]: Java 17+ (for Java projects)
+                - generic [ref=e993]:
+                  - heading "Quick Start" [level=3] [ref=e994]
+                  - 'link "Permalink: Quick Start" [ref=e995] [cursor=pointer]':
+                    - /url: "#quick-start"
+                    - img [ref=e996]
+                - generic [ref=e998]:
+                  - generic [ref=e999]:
+                    - generic [ref=e1000]: "# Clone"
+                    - text: git clone https://github.com/sharmapuneet1510/awesome-prompts.git cd awesome-prompts
+                    - generic [ref=e1001]: "# Install dependencies"
+                    - text: pip install -r requirements.txt
+                    - generic [ref=e1002]: "# Interactive setup (recommended)"
+                    - generic [ref=e1003]: "# Creates folder structure in your project, copies files there"
+                    - generic [ref=e1004]: "# Works on Windows, Linux, macOS"
+                    - text: python tools/exporter.py --interactive
+                    - generic [ref=e1005]: "# Alternative on systems with python3"
+                    - text: python tools/exporter.py --interactive
+                  - button "Copy code to clipboard" [ref=e1007] [cursor=pointer]:
+                    - img [ref=e1008]
+                - generic [ref=e1011]:
+                  - 'heading "Alternative: Direct Export" [level=3] [ref=e1012]'
+                  - 'link "Permalink: Alternative: Direct Export" [ref=e1013] [cursor=pointer]':
+                    - /url: "#alternative-direct-export"
+                    - img [ref=e1014]
+                - generic [ref=e1016]:
+                  - generic [ref=e1017]:
+                    - generic [ref=e1018]: "# Export to specific project directory with platform choice"
+                    - text: python tools/exporter.py --target-project /path/to/your/project --target copilot
+                    - generic [ref=e1019]: "# Export to Claude Code (creates .claude/skills/, .claude/agents/)"
+                    - text: python tools/exporter.py --target-project /path/to/your/project --target claude
+                    - generic [ref=e1020]: "# Export to all platforms"
+                    - text: python tools/exporter.py --target-project /path/to/your/project --target copilot claude cursor windsurf
+                  - button "Copy code to clipboard" [ref=e1022] [cursor=pointer]:
+                    - img [ref=e1023]
+                - generic [ref=e1026]:
+                  - heading "Python Detection" [level=3] [ref=e1027]
+                  - 'link "Permalink: Python Detection" [ref=e1028] [cursor=pointer]':
+                    - /url: "#python-detection"
+                    - img [ref=e1029]
+                - paragraph [ref=e1031]: "The exporter automatically detects your Python installation:"
+                - list [ref=e1032]:
+                  - listitem [ref=e1033]:
+                    - strong [ref=e1034]: "Linux/macOS:"
+                    - text: Tries
+                    - code [ref=e1035]: python3
+                    - text: first, then
+                    - code [ref=e1036]: python
+                  - listitem [ref=e1037]:
+                    - strong [ref=e1038]: "Windows:"
+                    - text: Tries
+                    - code [ref=e1039]: python
+                    - text: ","
+                    - code [ref=e1040]: python3
+                    - text: ", then"
+                    - code [ref=e1041]: py
+                    - text: launcher
+                - paragraph [ref=e1042]:
+                  - strong [ref=e1043]: "Check your Python setup:"
+                - generic [ref=e1044]:
+                  - generic [ref=e1045]:
+                    - generic [ref=e1046]: "# See which Python version is available"
+                    - text: python --version
+                    - generic [ref=e1047]: "# OR"
+                    - text: python3 --version
+                  - button "Copy code to clipboard" [ref=e1049] [cursor=pointer]:
+                    - img [ref=e1050]
+                - paragraph [ref=e1053]:
+                  - strong [ref=e1054]: "Platform Options:"
+                - list [ref=e1055]:
+                  - listitem [ref=e1056]:
+                    - code [ref=e1057]: claude
+                    - text: →
+                    - code [ref=e1058]: .claude/skills/
+                    - text: ","
+                    - code [ref=e1059]: .claude/agents/
+                  - listitem [ref=e1060]:
+                    - code [ref=e1061]: copilot
+                    - text: →
+                    - code [ref=e1062]: .github/instructions/
+                    - text: ","
+                    - code [ref=e1063]: .github/agents/
+                  - listitem [ref=e1064]:
+                    - code [ref=e1065]: cursor
+                    - text: →
+                    - code [ref=e1066]: .cursor/rules/
+                    - text: ","
+                    - code [ref=e1067]: .cursor/rules/agents/
+                  - listitem [ref=e1068]:
+                    - code [ref=e1069]: windsurf
+                    - text: →
+                    - code [ref=e1070]: .windsurf/rules/
+                    - text: ","
+                    - code [ref=e1071]: .windsurf/rules/agents/
+                  - listitem [ref=e1072]:
+                    - code [ref=e1073]: gemini
+                    - text: →
+                    - code [ref=e1074]: .gemini/skills/
+                    - text: ","
+                    - code [ref=e1075]: .gemini/agents/
+                  - listitem [ref=e1076]:
+                    - code [ref=e1077]: continue
+                    - text: →
+                    - code [ref=e1078]: .continue/prompts/
+                    - text: ","
+                    - code [ref=e1079]: .continue/prompts/agents/
+                  - listitem [ref=e1080]:
+                    - code [ref=e1081]: openai
+                    - text: →
+                    - code [ref=e1082]: tools/output/openai/skills/
+                    - text: ","
+                    - code [ref=e1083]: tools/output/openai/agents/
+                  - listitem [ref=e1084]:
+                    - code [ref=e1085]: aider
+                    - text: →
+                    - code [ref=e1086]: .aider/skills/
+                    - text: ","
+                    - code [ref=e1087]: .aider/agents/
+                - separator [ref=e1088]
+                - generic [ref=e1089]:
+                  - heading "📚 Documentation" [level=2] [ref=e1090]
+                  - 'link "Permalink: 📚 Documentation" [ref=e1091] [cursor=pointer]':
+                    - /url: "#-documentation"
+                    - img [ref=e1092]
+                - paragraph [ref=e1094]:
+                  - strong [ref=e1095]: "Quick Links:"
+                - list [ref=e1096]:
+                  - listitem [ref=e1097]:
+                    - link "Requirement Input Guide" [ref=e1098] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/docs/requirement_input_guide.md
+                    - text: — How to provide requirements
+                  - listitem [ref=e1099]:
+                    - link "Autonomous Developer Guide" [ref=e1100] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/AUTONOMOUS_DEVELOPER_README.md
+                    - text: — Full system overview
+                  - listitem [ref=e1101]:
+                    - link "Agent Reference" [ref=e1102] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/README.md
+                    - text: — All agents explained
+                  - listitem [ref=e1103]:
+                    - link "Implementation Agent" [ref=e1104] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/implementation_agent.md
+                    - text: — Feature builder guide
+                  - listitem [ref=e1105]:
+                    - link "Test Case Generator" [ref=e1106] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/agents/test_case_generator_agent.md
+                    - text: — 100% coverage testing
+                  - listitem [ref=e1107]:
+                    - link "Code Documentation Skill" [ref=e1108] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/skills/code_documentation_skill.md
+                    - text: — Auto-documentation
+                - separator [ref=e1109]
+                - generic [ref=e1110]:
+                  - heading "🌟 What's New in v4.1.0" [level=2] [ref=e1111]
+                  - 'link "Permalink: 🌟 What''s New in v4.1.0" [ref=e1112] [cursor=pointer]':
+                    - /url: "#-whats-new-in-v410"
+                    - img [ref=e1113]
+                - paragraph [ref=e1115]:
+                  - text: ✨
+                  - strong [ref=e1116]: "NEW: Test Case Generator Agent"
+                - list [ref=e1117]:
+                  - listitem [ref=e1118]: Generate 100% coverage tests (unit, integration, E2E)
+                  - listitem [ref=e1119]: JIRA acceptance criteria validation
+                  - listitem [ref=e1120]: Auto-documented test methods
+                - paragraph [ref=e1121]:
+                  - text: ✨
+                  - strong [ref=e1122]: "NEW: Code Documentation Skill"
+                - list [ref=e1123]:
+                  - listitem [ref=e1124]: JSDoc/docstrings/Javadoc auto-generation
+                  - listitem [ref=e1125]: 100% method documentation
+                  - listitem [ref=e1126]: Business requirement links
+                - paragraph [ref=e1127]:
+                  - text: ✨
+                  - strong [ref=e1128]: "RENAMED: Developer Agent → Implementation Agent"
+                - list [ref=e1129]:
+                  - listitem [ref=e1130]: Clearer scope (code + test + docs)
+                  - listitem [ref=e1131]: Full-lifecycle feature builder
+                - paragraph [ref=e1132]:
+                  - text: ✨
+                  - strong [ref=e1133]: "UPDATED: All Agents"
+                - list [ref=e1134]:
+                  - listitem [ref=e1135]: Now use code_documentation_skill
+                  - listitem [ref=e1136]: Improved documentation workflows
+                  - listitem [ref=e1137]: Better quality gates
+                - separator [ref=e1138]
+                - generic [ref=e1139]:
+                  - heading "🚀 Get Started in 3 Steps" [level=2] [ref=e1140]
+                  - 'link "Permalink: 🚀 Get Started in 3 Steps" [ref=e1141] [cursor=pointer]':
+                    - /url: "#-get-started-in-3-steps"
+                    - img [ref=e1142]
+                - generic [ref=e1144]:
+                  - 'heading "Step 1: Provide Requirement" [level=3] [ref=e1145]'
+                  - 'link "Permalink: Step 1: Provide Requirement" [ref=e1146] [cursor=pointer]':
+                    - /url: "#step-1-provide-requirement"
+                    - img [ref=e1147]
+                - generic [ref=e1149]:
+                  - code [ref=e1151]: "\"Build user registration with email validation and tests\""
+                  - button "Copy code to clipboard" [ref=e1153] [cursor=pointer]:
+                    - img [ref=e1154]
+                - generic [ref=e1157]:
+                  - 'heading "Step 2: Implementation Agent Generates" [level=3] [ref=e1158]'
+                  - 'link "Permalink: Step 2: Implementation Agent Generates" [ref=e1159] [cursor=pointer]':
+                    - /url: "#step-2-implementation-agent-generates"
+                    - img [ref=e1160]
+                - generic [ref=e1162]:
+                  - code [ref=e1164]: ✅ Code (routes, models, services) ✅ Tests (100% coverage) ✅ Documentation (JSDoc/docstrings) ✅ Git commit
+                  - button "Copy code to clipboard" [ref=e1166] [cursor=pointer]:
+                    - img [ref=e1167]
+                - generic [ref=e1170]:
+                  - 'heading "Step 3: Deploy & Review" [level=3] [ref=e1171]'
+                  - 'link "Permalink: Step 3: Deploy & Review" [ref=e1172] [cursor=pointer]':
+                    - /url: "#step-3-deploy--review"
+                    - img [ref=e1173]
+                - generic [ref=e1175]:
+                  - code [ref=e1177]: ✅ All tests passing ✅ 100% documented ✅ Ready for production
+                  - button "Copy code to clipboard" [ref=e1179] [cursor=pointer]:
+                    - img [ref=e1180]
+                - separator [ref=e1183]
+                - generic [ref=e1184]:
+                  - heading "📞 Support & Links" [level=2] [ref=e1185]
+                  - 'link "Permalink: 📞 Support & Links" [ref=e1186] [cursor=pointer]':
+                    - /url: "#-support--links"
+                    - img [ref=e1187]
+                - table [ref=e1190]:
+                  - rowgroup [ref=e1191]:
+                    - row "Link Purpose" [ref=e1192]:
+                      - columnheader "Link" [ref=e1193]
+                      - columnheader "Purpose" [ref=e1194]
+                  - rowgroup [ref=e1195]:
+                    - row "GitHub Issues Report bugs" [ref=e1196]:
+                      - cell "GitHub Issues" [ref=e1197]:
+                        - link "GitHub Issues" [ref=e1198] [cursor=pointer]:
+                          - /url: https://github.com/sharmapuneet1510/awesome-prompts/issues
+                      - cell "Report bugs" [ref=e1199]
+                    - row "GitHub Discussions Ask questions" [ref=e1200]:
+                      - cell "GitHub Discussions" [ref=e1201]:
+                        - link "GitHub Discussions" [ref=e1202] [cursor=pointer]:
+                          - /url: https://github.com/sharmapuneet1510/awesome-prompts/discussions
+                      - cell "Ask questions" [ref=e1203]
+                    - row "Email Direct contact" [ref=e1204]:
+                      - cell "Email" [ref=e1205]:
+                        - link "Email" [ref=e1206] [cursor=pointer]:
+                          - /url: mailto:puneet@techmavericks.dev
+                      - cell "Direct contact" [ref=e1207]
+                    - row "LinkedIn Connect" [ref=e1208]:
+                      - cell "LinkedIn" [ref=e1209]:
+                        - link "LinkedIn" [ref=e1210] [cursor=pointer]:
+                          - /url: https://linkedin.com/in/sharmapuneet1510
+                      - cell "Connect" [ref=e1211]
+                    - row "Tech Mavericks Newsletter" [ref=e1212]:
+                      - cell "Tech Mavericks" [ref=e1213]:
+                        - link "Tech Mavericks" [ref=e1214] [cursor=pointer]:
+                          - /url: https://techmavericks.dev
+                      - cell "Newsletter" [ref=e1215]
+                - separator [ref=e1216]
+                - generic [ref=e1217]:
+                  - paragraph [ref=e1218]:
+                    - strong [ref=e1219]: Architecting intelligence into development. One agent at a time.
+                  - paragraph [ref=e1220]:
+                    - text: 🚀
+                    - strong [ref=e1221]: v4.1.0
+                    - text: •
+                    - strong [ref=e1222]: May 2026
+                    - text: •
+                    - strong [ref=e1223]: Production Ready
+                  - paragraph [ref=e1224]:
+                    - link "⭐ Star on GitHub" [ref=e1225] [cursor=pointer]:
+                      - /url: https://github.com/sharmapuneet1510/awesome-prompts
+                    - text: "|"
+                    - link "📖 Read Docs" [ref=e1226] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/docs
+                    - text: "|"
+                    - link "🎯 Get Started" [ref=e1227] [cursor=pointer]:
+                      - /url: /sharmapuneet1510/awesome-prompts/blob/main/AUTONOMOUS_DEVELOPER_README.md
+        - generic [ref=e1231]:
+          - generic [ref=e1234]:
+            - heading "About" [level=2] [ref=e1235]
+            - generic [ref=e1236]: No description, website, or topics provided.
+            - heading "Resources" [level=3] [ref=e1237]
+            - link "Readme" [ref=e1239] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+              - img [ref=e1240]
+              - text: Readme
+            - link "Activity" [ref=e1243] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/activity
+              - img [ref=e1244]
+              - text: Activity
+            - heading "Stars" [level=3] [ref=e1246]
+            - link "2 stars" [ref=e1248] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/stargazers
+              - img [ref=e1249]
+              - strong [ref=e1251]: "2"
+              - text: stars
+            - heading "Watchers" [level=3] [ref=e1252]
+            - link "0 watching" [ref=e1254] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/watchers
+              - img [ref=e1255]
+              - strong [ref=e1257]: "0"
+              - text: watching
+            - heading "Forks" [level=3] [ref=e1258]
+            - link "0 forks" [ref=e1260] [cursor=pointer]:
+              - /url: /sharmapuneet1510/awesome-prompts/forks
+              - img [ref=e1261]
+              - strong [ref=e1263]: "0"
+              - text: forks
+            - link "Report repository" [ref=e1265] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fsharmapuneet1510%2Fawesome-prompts&report=sharmapuneet1510+%28user%29
+          - generic [ref=e1267]:
+            - heading "Releases" [level=2] [ref=e1268]:
+              - link "Releases" [ref=e1269] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/releases
+            - generic [ref=e1270]: No releases published
+          - generic [ref=e1272]:
+            - heading "Packages" [level=2] [ref=e1503]:
+              - link "Packages" [ref=e1504] [cursor=pointer]:
+                - /url: /users/sharmapuneet1510/packages?repo_name=awesome-prompts
+            - generic [ref=e1505]: No packages published
+          - generic [ref=e1286]:
+            - heading "Contributors 2" [level=2] [ref=e1287]:
+              - link "Contributors 2" [ref=e1288] [cursor=pointer]:
+                - /url: /sharmapuneet1510/awesome-prompts/graphs/contributors
+                - text: Contributors
+                - generic "2" [ref=e1289]
+            - list [ref=e1290]:
+              - listitem [ref=e1291]:
+                - link "@sharmapuneet1510" [ref=e1292] [cursor=pointer]:
+                  - /url: https://github.com/sharmapuneet1510
+                  - img "@sharmapuneet1510" [ref=e1293]
+                - link "sharmapuneet1510 Puneet Sharma" [ref=e1295] [cursor=pointer]:
+                  - /url: https://github.com/sharmapuneet1510
+                  - strong [ref=e1296]: sharmapuneet1510
+                  - text: Puneet Sharma
+              - listitem [ref=e1297]:
+                - link "@claude" [ref=e1298] [cursor=pointer]:
+                  - /url: https://github.com/claude
+                  - img "@claude" [ref=e1299]
+                - link "claude Claude" [ref=e1301] [cursor=pointer]:
+                  - /url: https://github.com/claude
+                  - strong [ref=e1302]: claude
+                  - text: Claude
+          - generic [ref=e1304]:
+            - heading "Languages" [level=2] [ref=e1305]
+            - list [ref=e1311]:
+              - listitem [ref=e1312]:
+                - link "HTML 51.0%" [ref=e1313] [cursor=pointer]:
+                  - /url: /sharmapuneet1510/awesome-prompts/search?l=html
+                  - img [ref=e1314]
+                  - generic [ref=e1316]: HTML
+                  - generic [ref=e1317]: 51.0%
+              - listitem [ref=e1318]:
+                - link "Python 48.9%" [ref=e1319] [cursor=pointer]:
+                  - /url: /sharmapuneet1510/awesome-prompts/search?l=python
+                  - img [ref=e1320]
+                  - generic [ref=e1322]: Python
+                  - generic [ref=e1323]: 48.9%
+              - listitem [ref=e1324]:
+                - link "Shell 0.1%" [ref=e1325] [cursor=pointer]:
+                  - /url: /sharmapuneet1510/awesome-prompts/search?l=shell
+                  - img [ref=e1326]
+                  - generic [ref=e1328]: Shell
+                  - generic [ref=e1329]: 0.1%
+  - contentinfo [ref=e1331]:
+    - heading "Footer" [level=2] [ref=e1332]
+    - generic [ref=e1333]:
+      - generic [ref=e1334]:
+        - link "GitHub Homepage" [ref=e1335] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e1336]
+        - generic [ref=e1338]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e1339]:
+        - heading "Footer navigation" [level=3] [ref=e1340]
+        - list "Footer navigation" [ref=e1341]:
+          - listitem [ref=e1342]:
+            - link "Terms" [ref=e1343] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e1344]:
+            - link "Privacy" [ref=e1345] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e1346]:
+            - link "Security" [ref=e1347] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e1348]:
+            - link "Status" [ref=e1349] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e1350]:
+            - link "Community" [ref=e1351] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e1352]:
+            - link "Docs" [ref=e1353] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e1354]:
+            - link "Contact" [ref=e1355] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e1356]:
+            - button "Manage cookies" [ref=e1358] [cursor=pointer]
+          - listitem [ref=e1359]:
+            - button "Do not share my personal information" [ref=e1361] [cursor=pointer]
